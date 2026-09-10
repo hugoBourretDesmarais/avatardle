@@ -1,4 +1,6 @@
 <script setup>
+import { onMounted, ref, watch } from 'vue'
+import { fontsReady } from '../game/textfit.js'
 // Drawn as SVG rather than styled HTML: the wordmark needs three stacked
 // strokes, a per-letter gradient, a gloss sweep and a grain wash, which
 // text-shadow stacking can't express cleanly.
@@ -9,9 +11,24 @@ const base = import.meta.env.BASE_URL
 // Lilita One at 118px has an 83-unit cap height and a 6-unit left bearing;
 // the seal is scaled to that height and the text starts just past its ring.
 const TX = 134
-// Fixed advance for the whole word, so a fallback font can't push it past
-// the right edge before the webfont lands.
-const TL = 612
+// Room for the word to the right of the seal. Browsers disagree on how wide
+// Lilita One renders (and Safari mangles textLength), so the size is measured
+// once the font is in and scaled down to fit rather than pinned.
+const MAX_W = 612
+const BASE_SIZE = 118
+const probe = ref(null)
+const size = ref(BASE_SIZE)
+
+function fit() {
+  const w = probe.value?.getComputedTextLength?.()
+  if (!w) return
+  size.value = Math.min(BASE_SIZE, Math.floor(BASE_SIZE * MAX_W / w * 100) / 100)
+}
+onMounted(() => {
+  fit()
+  document.fonts?.ready.then(fit)
+})
+watch(fontsReady, fit)
 
 // Water, earth, fire, air in the order the Avatar learns them.
 const CYCLE = ['url(#gWater)', 'url(#gEarth)', 'url(#gFire)', 'url(#gAir)']
@@ -20,7 +37,8 @@ const fillFor = i => CYCLE[i % CYCLE.length]
 
 <template>
   <h1 class="logo" aria-label="AvatarDle">
-    <svg class="word" viewBox="0 0 784 150" aria-hidden="true">
+    <svg class="word" viewBox="0 0 784 150" aria-hidden="true" :style="{ '--t-size': size + 'px' }">
+      <text ref="probe" class="probe" x="0" y="-500">{{ WORD }}</text>
       <defs>
         <radialGradient id="markDisc" cx="38%" cy="30%" r="78%">
           <stop offset="0%" stop-color="#4a4a52" />
@@ -91,11 +109,11 @@ const fillFor = i => CYCLE[i % CYCLE.length]
         </linearGradient>
 
         <mask id="wordMask">
-          <text class="t" :x="TX" y="112" :textLength="TL" lengthAdjust="spacingAndGlyphs" fill="#fff">{{ WORD }}</text>
+          <text class="t" :x="TX" y="112" fill="#fff">{{ WORD }}</text>
         </mask>
         <mask id="shineMask">
           <circle cx="70" cy="70.6" r="48" fill="#fff" />
-          <text class="t" :x="TX" y="112" :textLength="TL" lengthAdjust="spacingAndGlyphs" fill="#fff">{{ WORD }}</text>
+          <text class="t" :x="TX" y="112" fill="#fff">{{ WORD }}</text>
         </mask>
       </defs>
 
@@ -133,11 +151,11 @@ const fillFor = i => CYCLE[i % CYCLE.length]
 
       <g class="letters">
         <g filter="url(#cast)">
-          <text class="t" :x="TX" y="112" :textLength="TL" lengthAdjust="spacingAndGlyphs"
+          <text class="t" :x="TX" y="112"
             fill="none" stroke="#101828" stroke-width="23" stroke-linejoin="round">{{ WORD }}</text>
-          <text class="t" :x="TX" y="112" :textLength="TL" lengthAdjust="spacingAndGlyphs"
+          <text class="t" :x="TX" y="112"
             fill="none" stroke="#fdf3dc" stroke-width="13" stroke-linejoin="round">{{ WORD }}</text>
-          <text class="t" :x="TX" y="112" :textLength="TL" lengthAdjust="spacingAndGlyphs">
+          <text class="t" :x="TX" y="112">
             <tspan v-for="(ch, i) in LETTERS" :key="i" :fill="fillFor(i)">{{ ch }}</tspan>
           </text>
         </g>
@@ -198,9 +216,15 @@ const fillFor = i => CYCLE[i % CYCLE.length]
 .shine {
   animation: sweep 7s ease-in 1.8s infinite;
 }
-.t {
+.probe {
   font-family: 'Lilita One', cursive;
   font-size: 118px;
+  letter-spacing: 1px;
+  visibility: hidden;
+}
+.t {
+  font-family: 'Lilita One', cursive;
+  font-size: var(--t-size, 118px);
   letter-spacing: 1px;
   paint-order: stroke fill;
 }

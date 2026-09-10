@@ -37,6 +37,7 @@ function fitStyle(text) {
         <img
           class="portrait" :src="base + 'portraits/' + guess.char.portrait"
           :alt="guess.char.name" :title="guess.char.name" />
+        <span class="name">{{ guess.char.name }}</span>
       </template>
       <template v-else-if="key === 'skills'">
         <span v-if="!guess.cells.skills.skills.length" class="txt lg">✖</span>
@@ -97,6 +98,23 @@ function fitStyle(text) {
   height: 100%;
   object-fit: cover;
   object-position: top;
+}
+
+.name {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 10px 3px 3px;
+  font-size: clamp(8px, calc(var(--tile-size) * 0.15), 12px);
+  line-height: 1.1;
+  text-align: center;
+  color: #fff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, .9);
+  background: linear-gradient(180deg, transparent, rgba(0, 0, 0, .78));
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .txt {
