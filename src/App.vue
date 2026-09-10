@@ -406,10 +406,10 @@ const base = import.meta.env.BASE_URL
       </template>
 
       <footer class="footer">
-        <a href="https://hugobourretdesmarais.github.io/">All games</a>
+        <a href="https://hugobourretdesmarais.github.io/">🏠 Home</a>
         · also play <a href="https://hugobourretdesmarais.github.io/onepiecedle/">OnePieceDle</a>
         <br />
-        Fan-made game in the spirit of <a href="https://onepiecedle.net" target="_blank" rel="noreferrer">onepiecedle.net</a>
+        Fan-made game
         · data from the <a href="https://avatar.fandom.com" target="_blank" rel="noreferrer">Avatar Wiki</a>
         · Avatar: The Last Airbender © Nickelodeon / Paramount
       </footer>
@@ -610,15 +610,12 @@ button.tool:hover { background: rgba(140, 105, 55, .14); }
   animation: banner-in .3s ease both;
   padding: 6px 12px;
   border-radius: 14px;
-  background: rgba(0, 0, 0, 0.28);
+  background: rgba(0, 0, 0, 0.55);
   border: 1px solid transparent;
-}
-.arc-banner.book-water { background: rgba(28, 84, 140, .55); border-color: rgba(120, 190, 240, .5); }
-.arc-banner.book-earth { background: rgba(58, 98, 40, .55); border-color: rgba(150, 200, 110, .5); }
-.arc-banner.book-fire { background: rgba(140, 40, 30, .55); border-color: rgba(240, 150, 110, .5); }
-.arc-banner-unused {
   color: #fff;
   font-size: 13px;
+  font-weight: 600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
   text-align: center;
   display: flex;
   align-items: center;
@@ -626,6 +623,9 @@ button.tool:hover { background: rgba(140, 105, 55, .14); }
   flex-wrap: wrap;
   justify-content: center;
 }
+.arc-banner.book-water { background: rgba(22, 66, 112, .85); border-color: rgba(120, 190, 240, .6); }
+.arc-banner.book-earth { background: rgba(46, 80, 32, .85); border-color: rgba(150, 200, 110, .6); }
+.arc-banner.book-fire { background: rgba(112, 32, 24, .85); border-color: rgba(240, 150, 110, .6); }
 .arc-clear {
   background: none;
   border: 1px solid rgba(255, 255, 255, 0.6);
