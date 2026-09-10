@@ -9,6 +9,9 @@ const base = import.meta.env.BASE_URL
 // Lilita One at 118px has an 83-unit cap height and a 6-unit left bearing;
 // the seal is scaled to that height and the text starts just past its ring.
 const TX = 134
+// Fixed advance for the whole word, so a fallback font can't push it past
+// the right edge before the webfont lands.
+const TL = 612
 
 // Water, earth, fire, air in the order the Avatar learns them.
 const CYCLE = ['url(#gWater)', 'url(#gEarth)', 'url(#gFire)', 'url(#gAir)']
@@ -88,11 +91,11 @@ const fillFor = i => CYCLE[i % CYCLE.length]
         </linearGradient>
 
         <mask id="wordMask">
-          <text class="t" :x="TX" y="112" fill="#fff">{{ WORD }}</text>
+          <text class="t" :x="TX" y="112" :textLength="TL" lengthAdjust="spacingAndGlyphs" fill="#fff">{{ WORD }}</text>
         </mask>
         <mask id="shineMask">
           <circle cx="70" cy="70.6" r="48" fill="#fff" />
-          <text class="t" :x="TX" y="112" fill="#fff">{{ WORD }}</text>
+          <text class="t" :x="TX" y="112" :textLength="TL" lengthAdjust="spacingAndGlyphs" fill="#fff">{{ WORD }}</text>
         </mask>
       </defs>
 
@@ -130,11 +133,11 @@ const fillFor = i => CYCLE[i % CYCLE.length]
 
       <g class="letters">
         <g filter="url(#cast)">
-          <text class="t" :x="TX" y="112"
+          <text class="t" :x="TX" y="112" :textLength="TL" lengthAdjust="spacingAndGlyphs"
             fill="none" stroke="#101828" stroke-width="23" stroke-linejoin="round">{{ WORD }}</text>
-          <text class="t" :x="TX" y="112"
+          <text class="t" :x="TX" y="112" :textLength="TL" lengthAdjust="spacingAndGlyphs"
             fill="none" stroke="#fdf3dc" stroke-width="13" stroke-linejoin="round">{{ WORD }}</text>
-          <text class="t" :x="TX" y="112">
+          <text class="t" :x="TX" y="112" :textLength="TL" lengthAdjust="spacingAndGlyphs">
             <tspan v-for="(ch, i) in LETTERS" :key="i" :fill="fillFor(i)">{{ ch }}</tspan>
           </text>
         </g>
