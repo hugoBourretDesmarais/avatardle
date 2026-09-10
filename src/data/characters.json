@@ -1,0 +1,3968 @@
+[
+ {
+  "name": "Aang",
+  "aliases": [
+   "Avatar Aang",
+   "Twinkle Toes",
+   "Kuzon",
+   "Bonzu Pippinpaddleopsicopolis III"
+  ],
+  "gender": "Male",
+  "nation": "Air Nomads",
+  "origin": "Southern Air Temple",
+  "bending": "Avatar",
+  "elements": [
+   "Air",
+   "Water",
+   "Earth",
+   "Fire"
+  ],
+  "skills": [
+   "Energybending"
+  ],
+  "affiliation": "Team Avatar",
+  "age": 12,
+  "trueAge": 112,
+  "hair": "Bald",
+  "eyes": "Gray",
+  "firstEpisode": 1,
+  "firstEpisodeNote": null,
+  "history": {
+   "skills": [
+    {
+     "value": "Energybending",
+     "episode": 61
+    }
+   ],
+   "affiliation": [
+    {
+     "value": "Team Avatar",
+     "episode": 1
+    }
+   ]
+  },
+  "portrait": "aang.png",
+  "wikiPage": "Aang"
+ },
+ {
+  "name": "Appa",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Air Nomads",
+  "origin": "Eastern Air Temple",
+  "bending": "Airbender",
+  "elements": [
+   "Air"
+  ],
+  "skills": [],
+  "affiliation": "Team Avatar",
+  "age": null,
+  "trueAge": null,
+  "hair": "White",
+  "eyes": "Brown",
+  "firstEpisode": 1,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Team Avatar",
+     "episode": 1
+    }
+   ]
+  },
+  "portrait": "appa.png",
+  "wikiPage": "Appa"
+ },
+ {
+  "name": "Arnook",
+  "aliases": [
+   "Chief Arnook"
+  ],
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Agna Qel'a, Northern Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Northern Water Tribe",
+  "age": 50,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Blue",
+  "firstEpisode": 18,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Northern Water Tribe",
+     "episode": 18
+    }
+   ]
+  },
+  "portrait": "arnook.png",
+  "wikiPage": "Arnook"
+ },
+ {
+  "name": "Aunt Wu",
+  "aliases": [
+   "Wu",
+   "The Fortuneteller"
+  ],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "firstEpisode": 14,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 14
+    }
+   ]
+  },
+  "portrait": "wu-fortuneteller.png",
+  "wikiPage": "Wu (fortuneteller)"
+ },
+ {
+  "name": "Azula",
+  "aliases": [
+   "Princess Azula"
+  ],
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [
+   "Lightning"
+  ],
+  "affiliation": "Fire Nation Royal Family",
+  "age": 14,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Amber gold",
+  "firstEpisode": 12,
+  "firstEpisodeNote": null,
+  "history": {
+   "skills": [
+    {
+     "value": "Lightning",
+     "episode": 21
+    }
+   ],
+   "affiliation": [
+    {
+     "value": "Fire Nation Royal Family",
+     "episode": 12
+    }
+   ]
+  },
+  "portrait": "azula.png",
+  "wikiPage": "Azula"
+ },
+ {
+  "name": "Azulon",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Fire Nation Royal Family",
+  "age": 95,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "firstEpisode": 27,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation Royal Family",
+     "episode": 27
+    }
+   ]
+  },
+  "portrait": "azulon.png",
+  "wikiPage": "Azulon"
+ },
+ {
+  "name": "Bato",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Wolf Cove, Southern Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Southern Water Tribe",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Royal blue",
+  "firstEpisode": 15,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Southern Water Tribe",
+     "episode": 15
+    }
+   ]
+  },
+  "portrait": "bato.png",
+  "wikiPage": "Bato"
+ },
+ {
+  "name": "Bosco",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Eastern coast, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Ba Sing Se",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Black",
+  "firstEpisode": 34,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Ba Sing Se",
+     "episode": 34
+    }
+   ]
+  },
+  "portrait": "bosco.png",
+  "wikiPage": "Bosco"
+ },
+ {
+  "name": "Bujing",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Fire Nation military",
+  "age": null,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "firstEpisode": 12,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation military",
+     "episode": 12
+    }
+   ]
+  },
+  "portrait": "bujing.png",
+  "wikiPage": "Bujing"
+ },
+ {
+  "name": "Bumi",
+  "aliases": [
+   "King Bumi",
+   "The Mad Genius"
+  ],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Omashu, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Omashu",
+  "age": 112,
+  "trueAge": null,
+  "hair": "White",
+  "eyes": "Green",
+  "firstEpisode": 5,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Omashu",
+     "episode": 5
+    }
+   ]
+  },
+  "portrait": "bumi-king-of-omashu.png",
+  "wikiPage": "Bumi (King of Omashu)"
+ },
+ {
+  "name": "Cabbage Merchant",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": "Dark brown",
+  "firstEpisode": 5,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 5
+    }
+   ]
+  },
+  "portrait": "cabbage-merchant.png",
+  "wikiPage": "Cabbage merchant"
+ },
+ {
+  "name": "Canyon Guide",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "White",
+  "eyes": "Green",
+  "firstEpisode": 11,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 11
+    }
+   ]
+  },
+  "portrait": "canyon-guide.png",
+  "wikiPage": "Canyon guide"
+ },
+ {
+  "name": "Chey",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Fire Nation military",
+  "age": 30,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 16,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation military",
+     "episode": 16
+    }
+   ]
+  },
+  "portrait": "chey.png",
+  "wikiPage": "Chey"
+ },
+ {
+  "name": "Chit Sang",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Fire Nation",
+  "age": 30,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Pale green",
+  "firstEpisode": 54,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 54
+    }
+   ]
+  },
+  "portrait": "chit-sang.png",
+  "wikiPage": "Chit Sang"
+ },
+ {
+  "name": "Chong",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Dark brown",
+  "firstEpisode": 22,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 22
+    }
+   ]
+  },
+  "portrait": "chong.png",
+  "wikiPage": "Chong"
+ },
+ {
+  "name": "Combustion Man",
+  "aliases": [
+   "Sparky Sparky Boom Man"
+  ],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [
+   "Combustion"
+  ],
+  "affiliation": "Fire Nation",
+  "age": null,
+  "trueAge": null,
+  "hair": "Bald",
+  "eyes": "Dark",
+  "firstEpisode": 42,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 42
+    }
+   ],
+   "skills": [
+    {
+     "value": "Combustion",
+     "episode": 42
+    }
+   ]
+  },
+  "portrait": "combustion-man.png",
+  "wikiPage": "Combustion Man"
+ },
+ {
+  "name": "Ding",
+  "aliases": [
+   "Old Man Ding"
+  ],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Hama's village, Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Fire Nation",
+  "age": 67,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "firstEpisode": 48,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 48
+    }
+   ]
+  },
+  "portrait": "ding.png",
+  "wikiPage": "Ding"
+ },
+ {
+  "name": "Due",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Foggy Swamp Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "affiliation": "Foggy Swamp Tribe",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 24,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Foggy Swamp Tribe",
+     "episode": 24
+    }
+   ]
+  },
+  "portrait": "due.png",
+  "wikiPage": "Due"
+ },
+ {
+  "name": "Fang",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Fire Nation",
+  "age": null,
+  "trueAge": null,
+  "hair": "None",
+  "eyes": "Gold",
+  "firstEpisode": 7,
+  "firstEpisodeNote": "as a spirit",
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 7
+    }
+   ]
+  },
+  "portrait": "fang.png",
+  "wikiPage": "Fang"
+ },
+ {
+  "name": "Fat",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Shu Jing, Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Swords"
+  ],
+  "affiliation": "Fire Nation",
+  "age": null,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "firstEpisode": 44,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 44
+    }
+   ],
+   "skills": [
+    {
+     "value": "Swords",
+     "episode": 44
+    }
+   ]
+  },
+  "portrait": "fat.png",
+  "wikiPage": "Fat"
+ },
+ {
+  "name": "Fire Nation Man",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Si Wong Desert, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Earth Rumble",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 26,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Rumble",
+     "episode": 26
+    }
+   ]
+  },
+  "portrait": "fire-nation-man.png",
+  "wikiPage": "Fire Nation Man"
+ },
+ {
+  "name": "Flopsie",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Omashu, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Omashu",
+  "age": null,
+  "trueAge": null,
+  "hair": "White",
+  "eyes": null,
+  "firstEpisode": 5,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Omashu",
+     "episode": 5
+    }
+   ]
+  },
+  "portrait": "flopsie.png",
+  "wikiPage": "Flopsie"
+ },
+ {
+  "name": "Foaming Mouth Guy",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Suki's village, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Kyoshi Island",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Dark",
+  "firstEpisode": 4,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kyoshi Island",
+     "episode": 4
+    }
+   ]
+  },
+  "portrait": "foaming-mouth-guy.png",
+  "wikiPage": "Foaming mouth guy"
+ },
+ {
+  "name": "Fong",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Earth Kingdom military",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "firstEpisode": 21,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom military",
+     "episode": 21
+    }
+   ]
+  },
+  "portrait": "fong.png",
+  "wikiPage": "Fong"
+ },
+ {
+  "name": "Gansu",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Plains village, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 27,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 27
+    }
+   ]
+  },
+  "portrait": "gansu.png",
+  "wikiPage": "Gansu"
+ },
+ {
+  "name": "Ghashiun",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Si Wong Desert, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [
+   "Sandbending"
+  ],
+  "affiliation": "Si Wong tribes",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 30,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Si Wong tribes",
+     "episode": 30
+    }
+   ],
+   "skills": [
+    {
+     "value": "Sandbending",
+     "episode": 30
+    }
+   ]
+  },
+  "portrait": "ghashiun.png",
+  "wikiPage": "Ghashiun"
+ },
+ {
+  "name": "Gow",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Earth Kingdom military",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Light green",
+  "firstEpisode": 27,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom military",
+     "episode": 27
+    }
+   ]
+  },
+  "portrait": "gow.png",
+  "wikiPage": "Gow"
+ },
+ {
+  "name": "Gyatso",
+  "aliases": [
+   "Monk Gyatso"
+  ],
+  "gender": "Male",
+  "nation": "Air Nomads",
+  "origin": "Southern Air Temple",
+  "bending": "Airbender",
+  "elements": [
+   "Air"
+  ],
+  "skills": [],
+  "affiliation": "Air Nomads",
+  "age": 82,
+  "trueAge": null,
+  "hair": "Bald",
+  "eyes": "Light brown",
+  "firstEpisode": 3,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Air Nomads",
+     "episode": 3
+    }
+   ]
+  },
+  "portrait": "gyatso.png",
+  "wikiPage": "Gyatso"
+ },
+ {
+  "name": "Hahn",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Agna Qel'a, Northern Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Northern Water Tribe",
+  "age": 17,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Light blue",
+  "firstEpisode": 19,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Northern Water Tribe",
+     "episode": 19
+    }
+   ]
+  },
+  "portrait": "hahn.png",
+  "wikiPage": "Hahn"
+ },
+ {
+  "name": "Hakoda",
+  "aliases": [
+   "Chief Hakoda"
+  ],
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Wolf Cove, Southern Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Southern Water Tribe",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Blue",
+  "firstEpisode": 15,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Southern Water Tribe",
+     "episode": 15
+    }
+   ]
+  },
+  "portrait": "hakoda.png",
+  "wikiPage": "Hakoda"
+ },
+ {
+  "name": "Ham Ghao",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Sun Warriors' ancient city",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Sun Warriors",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 53,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Sun Warriors",
+     "episode": 53
+    }
+   ]
+  },
+  "portrait": "ham-ghao.png",
+  "wikiPage": "Ham Ghao"
+ },
+ {
+  "name": "Hama",
+  "aliases": [
+   "The Puppetmaster"
+  ],
+  "gender": "Female",
+  "nation": "Water Tribe",
+  "origin": "Wolf Cove, Southern Water Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [
+   "Bloodbending"
+  ],
+  "affiliation": "Southern Water Tribe",
+  "age": null,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": "Gray",
+  "firstEpisode": 48,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Southern Water Tribe",
+     "episode": 48
+    }
+   ],
+   "skills": [
+    {
+     "value": "Bloodbending",
+     "episode": 48
+    }
+   ]
+  },
+  "portrait": "hama.png",
+  "wikiPage": "Hama"
+ },
+ {
+  "name": "Haru",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Mining village, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": 16,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Green",
+  "firstEpisode": 6,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 6
+    }
+   ]
+  },
+  "portrait": "haru.png",
+  "wikiPage": "Haru"
+ },
+ {
+  "name": "Hei Bai",
+  "aliases": [
+   "The Forest Spirit"
+  ],
+  "gender": "Male",
+  "nation": "Spirit World",
+  "origin": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Spirit World",
+  "age": null,
+  "trueAge": null,
+  "hair": "White",
+  "eyes": null,
+  "firstEpisode": 7,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Spirit World",
+     "episode": 7
+    }
+   ]
+  },
+  "portrait": "hei-bai.png",
+  "wikiPage": "Hei Bai"
+ },
+ {
+  "name": "Hide",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Fire Nation",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 42,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 42
+    }
+   ]
+  },
+  "portrait": "hide.png",
+  "wikiPage": "Hide"
+ },
+ {
+  "name": "How",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Earth Kingdom military",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 38,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom military",
+     "episode": 38
+    }
+   ]
+  },
+  "portrait": "how.png",
+  "wikiPage": "How"
+ },
+ {
+  "name": "Huu",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Foggy Swamp Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [
+   "Plantbending"
+  ],
+  "affiliation": "Foggy Swamp Tribe",
+  "age": null,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "firstEpisode": 24,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Foggy Swamp Tribe",
+     "episode": 24
+    }
+   ],
+   "skills": [
+    {
+     "value": "Plantbending",
+     "episode": 24
+    }
+   ]
+  },
+  "portrait": "huu.png",
+  "wikiPage": "Huu"
+ },
+ {
+  "name": "Iroh",
+  "aliases": [
+   "The Dragon of the West",
+   "Mushi",
+   "Uncle Iroh"
+  ],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [
+   "Lightning",
+   "Lightning redirection"
+  ],
+  "affiliation": "Order of the White Lotus",
+  "age": 50,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": "Amber",
+  "firstEpisode": 1,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Order of the White Lotus",
+     "episode": 59
+    },
+    {
+     "value": "Fire Nation Royal Family",
+     "episode": 1
+    }
+   ],
+   "skills": [
+    {
+     "value": "Lightning redirection",
+     "episode": 21
+    },
+    {
+     "value": "Lightning",
+     "episode": 21
+    }
+   ]
+  },
+  "portrait": "iroh.png",
+  "wikiPage": "Iroh"
+ },
+ {
+  "name": "Jee",
+  "aliases": [
+   "Lieutenant Jee"
+  ],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Fire Nation military",
+  "age": null,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "firstEpisode": 9,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation military",
+     "episode": 9
+    }
+   ]
+  },
+  "portrait": "jee.png",
+  "wikiPage": "Jee"
+ },
+ {
+  "name": "Jeong Jeong",
+  "aliases": [
+   "The Deserter"
+  ],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Order of the White Lotus",
+  "age": 61,
+  "trueAge": null,
+  "hair": "White",
+  "eyes": null,
+  "firstEpisode": 16,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Order of the White Lotus",
+     "episode": 59
+    },
+    {
+     "value": "Fire Nation military",
+     "episode": 16
+    }
+   ]
+  },
+  "portrait": "jeong-jeong.png",
+  "wikiPage": "Jeong Jeong"
+ },
+ {
+  "name": "Jet",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Bihou, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Swords"
+  ],
+  "affiliation": "Freedom Fighters",
+  "age": 16,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Black",
+  "firstEpisode": 10,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Freedom Fighters",
+     "episode": 10
+    }
+   ],
+   "skills": [
+    {
+     "value": "Swords",
+     "episode": 10
+    }
+   ]
+  },
+  "portrait": "jet.png",
+  "wikiPage": "Jet"
+ },
+ {
+  "name": "Jin",
+  "aliases": [
+   "\"Huajin\""
+  ],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Daying, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Ba Sing Se",
+  "age": 16,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Dark olive green",
+  "firstEpisode": 35,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Ba Sing Se",
+     "episode": 35
+    }
+   ]
+  },
+  "portrait": "jin.png",
+  "wikiPage": "Jin"
+ },
+ {
+  "name": "Joo Dee",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Dai Li",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Grey",
+  "firstEpisode": 34,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Dai Li",
+     "episode": 34
+    }
+   ]
+  },
+  "portrait": "joo-dee.png",
+  "wikiPage": "Joo Dee"
+ },
+ {
+  "name": "June",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Gray",
+  "firstEpisode": 15,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 15
+    }
+   ]
+  },
+  "portrait": "june.png",
+  "wikiPage": "June"
+ },
+ {
+  "name": "Kahchi",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Rough Rhinos",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 25,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Rough Rhinos",
+     "episode": 25
+    }
+   ]
+  },
+  "portrait": "kahchi.png",
+  "wikiPage": "Kahchi"
+ },
+ {
+  "name": "Kanna",
+  "aliases": [
+   "Gran Gran",
+   "Kanna of the Southern Water Tribe"
+  ],
+  "gender": "Female",
+  "nation": "Water Tribe",
+  "origin": "Northern Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Southern Water Tribe",
+  "age": 80,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": "Blue",
+  "firstEpisode": 1,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Southern Water Tribe",
+     "episode": 1
+    }
+   ]
+  },
+  "portrait": "kanna.png",
+  "wikiPage": "Kanna"
+ },
+ {
+  "name": "Katara",
+  "aliases": [
+   "The Painted Lady",
+   "Sugar Queen",
+   "Sapphire Fire"
+  ],
+  "gender": "Female",
+  "nation": "Water Tribe",
+  "origin": "Wolf Cove, Southern Water Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [
+   "Healing",
+   "Bloodbending"
+  ],
+  "affiliation": "Team Avatar",
+  "age": 14,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Blue",
+  "firstEpisode": 1,
+  "firstEpisodeNote": null,
+  "history": {
+   "skills": [
+    {
+     "value": "Bloodbending",
+     "episode": 48
+    },
+    {
+     "value": "Healing",
+     "episode": 18
+    }
+   ],
+   "affiliation": [
+    {
+     "value": "Team Avatar",
+     "episode": 1
+    }
+   ]
+  },
+  "portrait": "katara.png",
+  "wikiPage": "Katara"
+ },
+ {
+  "name": "Koh",
+  "aliases": [
+   "The Face Stealer"
+  ],
+  "gender": "Male",
+  "nation": "Spirit World",
+  "origin": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Spirit World",
+  "age": null,
+  "trueAge": null,
+  "hair": "None",
+  "eyes": "Changes with face",
+  "firstEpisode": 20,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Spirit World",
+     "episode": 20
+    }
+   ]
+  },
+  "portrait": "koh.png",
+  "wikiPage": "Koh"
+ },
+ {
+  "name": "Kuei",
+  "aliases": [
+   "Earth King Kuei",
+   "The Earth King"
+  ],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Ba Sing Se",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Light green",
+  "firstEpisode": 34,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Ba Sing Se",
+     "episode": 34
+    }
+   ]
+  },
+  "portrait": "kuei.png",
+  "wikiPage": "Kuei"
+ },
+ {
+  "name": "Kuruk",
+  "aliases": [
+   "Avatar Kuruk"
+  ],
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Northern Water Tribe",
+  "bending": "Avatar",
+  "elements": [
+   "Water",
+   "Earth",
+   "Fire",
+   "Air"
+  ],
+  "skills": [],
+  "affiliation": "Northern Water Tribe",
+  "age": 33,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Blue",
+  "firstEpisode": 21,
+  "firstEpisodeNote": "vision",
+  "history": {
+   "affiliation": [
+    {
+     "value": "Northern Water Tribe",
+     "episode": 21
+    }
+   ]
+  },
+  "portrait": "kuruk.png",
+  "wikiPage": "Kuruk"
+ },
+ {
+  "name": "Kwan",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Fire Nation",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "firstEpisode": 42,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 42
+    }
+   ]
+  },
+  "portrait": "kwan.png",
+  "wikiPage": "Kwan"
+ },
+ {
+  "name": "Kya",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Water Tribe",
+  "origin": "Wolf Cove, Southern Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Southern Water Tribe",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Blue",
+  "firstEpisode": 24,
+  "firstEpisodeNote": "vision",
+  "history": {
+   "affiliation": [
+    {
+     "value": "Southern Water Tribe",
+     "episode": 24
+    }
+   ]
+  },
+  "portrait": "kya-nonbender.png",
+  "wikiPage": "Kya (nonbender)"
+ },
+ {
+  "name": "Kyoshi",
+  "aliases": [
+   "Avatar Kyoshi"
+  ],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Avatar",
+  "elements": [
+   "Earth",
+   "Fire",
+   "Air",
+   "Water"
+  ],
+  "skills": [
+   "War fans"
+  ],
+  "affiliation": "Kyoshi Island",
+  "age": 230,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Dark green",
+  "firstEpisode": 21,
+  "firstEpisodeNote": "vision",
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kyoshi Island",
+     "episode": 21
+    }
+   ],
+   "skills": [
+    {
+     "value": "War fans",
+     "episode": 21
+    }
+   ]
+  },
+  "portrait": "kyoshi.png",
+  "wikiPage": "Kyoshi"
+ },
+ {
+  "name": "La",
+  "aliases": [
+   "The Ocean Spirit"
+  ],
+  "gender": "Male",
+  "nation": "Spirit World",
+  "origin": null,
+  "bending": "Non-bender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "affiliation": "Spirit World",
+  "age": null,
+  "trueAge": null,
+  "hair": "None",
+  "eyes": null,
+  "firstEpisode": 19,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Spirit World",
+     "episode": 19
+    }
+   ]
+  },
+  "portrait": "la.png",
+  "wikiPage": "La"
+ },
+ {
+  "name": "Lao Beifong",
+  "aliases": [
+   "Boss Man"
+  ],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Beifong family",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Brown",
+  "firstEpisode": 26,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Beifong family",
+     "episode": 26
+    }
+   ]
+  },
+  "portrait": "lao-beifong.png",
+  "wikiPage": "Lao Beifong"
+ },
+ {
+  "name": "Lee",
+  "aliases": [
+   "Lee (farm boy)"
+  ],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Plains village, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Green",
+  "firstEpisode": 27,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 27
+    }
+   ]
+  },
+  "portrait": "lee.png",
+  "wikiPage": "Lee"
+ },
+ {
+  "name": "Lily",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Brown",
+  "firstEpisode": 22,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 22
+    }
+   ]
+  },
+  "portrait": "lily.png",
+  "wikiPage": "Lily"
+ },
+ {
+  "name": "Lion Turtle",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Spirit World",
+  "origin": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Energybending"
+  ],
+  "affiliation": "Spirit World",
+  "age": null,
+  "trueAge": null,
+  "hair": "None",
+  "eyes": null,
+  "firstEpisode": 59,
+  "firstEpisodeNote": null,
+  "history": {
+   "skills": [
+    {
+     "value": "Energybending",
+     "episode": 59
+    }
+   ],
+   "affiliation": [
+    {
+     "value": "Spirit World",
+     "episode": 59
+    }
+   ]
+  },
+  "portrait": "lion-turtle.png",
+  "wikiPage": "Lion turtle"
+ },
+ {
+  "name": "Lo and Li",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Fire Nation",
+  "age": null,
+  "trueAge": null,
+  "hair": "White",
+  "eyes": null,
+  "firstEpisode": 21,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 21
+    }
+   ]
+  },
+  "portrait": "lo-and-li.png",
+  "wikiPage": "Lo and Li"
+ },
+ {
+  "name": "Long Feng",
+  "aliases": [
+   "Grand Secretariat"
+  ],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Dai Li",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Jade green",
+  "firstEpisode": 34,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Dai Li",
+     "episode": 34
+    }
+   ]
+  },
+  "portrait": "long-feng.png",
+  "wikiPage": "Long Feng"
+ },
+ {
+  "name": "Longshot",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Northwestern Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Archery"
+  ],
+  "affiliation": "Freedom Fighters",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 10,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Freedom Fighters",
+     "episode": 10
+    }
+   ],
+   "skills": [
+    {
+     "value": "Archery",
+     "episode": 10
+    }
+   ]
+  },
+  "portrait": "longshot.png",
+  "wikiPage": "Longshot"
+ },
+ {
+  "name": "Lu Ten",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Fire Nation Royal Family",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Amber",
+  "firstEpisode": 29,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation Royal Family",
+     "episode": 29
+    }
+   ]
+  },
+  "portrait": "lu-ten.png",
+  "wikiPage": "Lu Ten"
+ },
+ {
+  "name": "Mai",
+  "aliases": [
+   "Babe"
+  ],
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Knives"
+  ],
+  "affiliation": "Azula's team",
+  "age": 15,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Tawny",
+  "firstEpisode": 23,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Azula's team",
+     "episode": 23
+    }
+   ],
+   "skills": [
+    {
+     "value": "Knives",
+     "episode": 23
+    }
+   ]
+  },
+  "portrait": "mai.png",
+  "wikiPage": "Mai"
+ },
+ {
+  "name": "Meng",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Makapu Village, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": 10,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 14,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 14
+    }
+   ]
+  },
+  "portrait": "meng.png",
+  "wikiPage": "Meng"
+ },
+ {
+  "name": "Michi",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Fire Nation",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Tawny",
+  "firstEpisode": 23,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 23
+    }
+   ]
+  },
+  "portrait": "michi.png",
+  "wikiPage": "Michi"
+ },
+ {
+  "name": "Ming",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Fire Nation military",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 50,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation military",
+     "episode": 50
+    }
+   ]
+  },
+  "portrait": "ming.png",
+  "wikiPage": "Ming"
+ },
+ {
+  "name": "Moku",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 22,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 22
+    }
+   ]
+  },
+  "portrait": "moku.png",
+  "wikiPage": "Moku"
+ },
+ {
+  "name": "Momo",
+  "aliases": [
+   "Twinklewings"
+  ],
+  "gender": "Male",
+  "nation": "Air Nomads",
+  "origin": "Southern Air Temple",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Team Avatar",
+  "age": null,
+  "trueAge": null,
+  "hair": "White",
+  "eyes": "Light green",
+  "firstEpisode": 3,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Team Avatar",
+     "episode": 3
+    }
+   ]
+  },
+  "portrait": "momo.png",
+  "wikiPage": "Momo"
+ },
+ {
+  "name": "Mongke",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Rough Rhinos",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 25,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Rough Rhinos",
+     "episode": 25
+    }
+   ]
+  },
+  "portrait": "mongke.png",
+  "wikiPage": "Mongke"
+ },
+ {
+  "name": "Nyla",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 15,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 15
+    }
+   ]
+  },
+  "portrait": "nyla.png",
+  "wikiPage": "Nyla"
+ },
+ {
+  "name": "Ogodei",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Rough Rhinos",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 25,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Rough Rhinos",
+     "episode": 25
+    }
+   ]
+  },
+  "portrait": "ogodei.png",
+  "wikiPage": "Ogodei"
+ },
+ {
+  "name": "On Ji",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Fire Nation",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 42,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 42
+    }
+   ]
+  },
+  "portrait": "on-ji.png",
+  "wikiPage": "On Ji"
+ },
+ {
+  "name": "Oyaji",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Suki's village, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Kyoshi Island",
+  "age": null,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "firstEpisode": 4,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kyoshi Island",
+     "episode": 4
+    }
+   ]
+  },
+  "portrait": "oyaji.png",
+  "wikiPage": "Oyaji"
+ },
+ {
+  "name": "Ozai",
+  "aliases": [
+   "Fire Lord Ozai",
+   "Phoenix King"
+  ],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [
+   "Lightning"
+  ],
+  "affiliation": "Fire Nation Royal Family",
+  "age": 40,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Amber gold",
+  "firstEpisode": 8,
+  "firstEpisodeNote": "silhouette",
+  "history": {
+   "skills": [
+    {
+     "value": "Lightning",
+     "episode": 51
+    }
+   ],
+   "affiliation": [
+    {
+     "value": "Fire Nation Royal Family",
+     "episode": 8
+    }
+   ]
+  },
+  "portrait": "ozai.png",
+  "wikiPage": "Ozai"
+ },
+ {
+  "name": "Painted Lady",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Spirit World",
+  "origin": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Spirit World",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 43,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Spirit World",
+     "episode": 43
+    }
+   ]
+  },
+  "portrait": "painted-lady.png",
+  "wikiPage": "Painted Lady"
+ },
+ {
+  "name": "Pakku",
+  "aliases": [
+   "Master Pakku"
+  ],
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Agna Qel'a, Northern Water Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "affiliation": "Northern Water Tribe",
+  "age": null,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": "Pale blue",
+  "firstEpisode": 18,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Northern Water Tribe",
+     "episode": 18
+    }
+   ]
+  },
+  "portrait": "pakku.png",
+  "wikiPage": "Pakku"
+ },
+ {
+  "name": "Pao",
+  "aliases": [
+   "\"Rat-beetle\""
+  ],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Ba Sing Se",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 34,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Ba Sing Se",
+     "episode": 34
+    }
+   ]
+  },
+  "portrait": "pao.png",
+  "wikiPage": "Pao"
+ },
+ {
+  "name": "Pathik",
+  "aliases": [
+   "Guru Pathik"
+  ],
+  "gender": "Male",
+  "nation": "Unknown",
+  "origin": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Air Nomads",
+  "age": 150,
+  "trueAge": null,
+  "hair": "Bald",
+  "eyes": "Green",
+  "firstEpisode": 36,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Air Nomads",
+     "episode": 36
+    }
+   ]
+  },
+  "portrait": "pathik.png",
+  "wikiPage": "Pathik"
+ },
+ {
+  "name": "Piandao",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Swords"
+  ],
+  "affiliation": "Order of the White Lotus",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Gray",
+  "firstEpisode": 44,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Order of the White Lotus",
+     "episode": 59
+    },
+    {
+     "value": "Fire Nation",
+     "episode": 44
+    }
+   ],
+   "skills": [
+    {
+     "value": "Swords",
+     "episode": 44
+    }
+   ]
+  },
+  "portrait": "piandao.png",
+  "wikiPage": "Piandao"
+ },
+ {
+  "name": "Pipsqueak",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Freedom Fighters",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 10,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Freedom Fighters",
+     "episode": 10
+    }
+   ]
+  },
+  "portrait": "pipsqueak.png",
+  "wikiPage": "Pipsqueak"
+ },
+ {
+  "name": "Poon",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Fire Nation military",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 44,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation military",
+     "episode": 44
+    }
+   ]
+  },
+  "portrait": "poon.png",
+  "wikiPage": "Poon"
+ },
+ {
+  "name": "Poppy Beifong",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Beifong family",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 26,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Beifong family",
+     "episode": 26
+    }
+   ]
+  },
+  "portrait": "poppy-beifong.png",
+  "wikiPage": "Poppy Beifong"
+ },
+ {
+  "name": "Qin",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Fire Nation military",
+  "age": null,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": "Amber brown",
+  "firstEpisode": 17,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation military",
+     "episode": 17
+    }
+   ]
+  },
+  "portrait": "qin.png",
+  "wikiPage": "Qin"
+ },
+ {
+  "name": "Quon",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Ba Sing Se",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Gray",
+  "firstEpisode": 37,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Ba Sing Se",
+     "episode": 37
+    }
+   ]
+  },
+  "portrait": "quon.png",
+  "wikiPage": "Quon"
+ },
+ {
+  "name": "Ran and Shaw",
+  "aliases": [
+   "The Masters"
+  ],
+  "gender": "Unknown",
+  "nation": "Fire Nation",
+  "origin": null,
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Sun Warriors",
+  "age": null,
+  "trueAge": null,
+  "hair": "None",
+  "eyes": null,
+  "firstEpisode": 53,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Sun Warriors",
+     "episode": 53
+    }
+   ]
+  },
+  "portrait": "ran-and-shaw.png",
+  "wikiPage": "Ran and Shaw"
+ },
+ {
+  "name": "Roku",
+  "aliases": [
+   "Avatar Roku"
+  ],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "bending": "Avatar",
+  "elements": [
+   "Fire",
+   "Air",
+   "Water",
+   "Earth"
+  ],
+  "skills": [
+   "Lavabending"
+  ],
+  "affiliation": "Fire Nation",
+  "age": 70,
+  "trueAge": null,
+  "hair": "White",
+  "eyes": "Amber brown",
+  "firstEpisode": 8,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 8
+    }
+   ],
+   "skills": [
+    {
+     "value": "Lavabending",
+     "episode": 8
+    }
+   ]
+  },
+  "portrait": "roku.png",
+  "wikiPage": "Roku"
+ },
+ {
+  "name": "Sela",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Plains village, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Brown",
+  "firstEpisode": 27,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 27
+    }
+   ]
+  },
+  "portrait": "sela.png",
+  "wikiPage": "Sela"
+ },
+ {
+  "name": "Sha-Mo",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Si Wong Desert, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [
+   "Sandbending"
+  ],
+  "affiliation": "Si Wong tribes",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "firstEpisode": 31,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Si Wong tribes",
+     "episode": 31
+    }
+   ],
+   "skills": [
+    {
+     "value": "Sandbending",
+     "episode": 31
+    }
+   ]
+  },
+  "portrait": "sha-mo.png",
+  "wikiPage": "Sha-Mo"
+ },
+ {
+  "name": "Shoji",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Fire Nation",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Olive green",
+  "firstEpisode": 42,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 42
+    }
+   ]
+  },
+  "portrait": "shoji.png",
+  "wikiPage": "Shoji"
+ },
+ {
+  "name": "Shyu",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Fire Sages",
+  "age": 60,
+  "trueAge": null,
+  "hair": "White",
+  "eyes": "Dark",
+  "firstEpisode": 8,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Sages",
+     "episode": 8
+    }
+   ]
+  },
+  "portrait": "shyu.png",
+  "wikiPage": "Shyu"
+ },
+ {
+  "name": "Smellerbee",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Northwestern Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Knives"
+  ],
+  "affiliation": "Freedom Fighters",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Black",
+  "firstEpisode": 10,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Freedom Fighters",
+     "episode": 10
+    }
+   ],
+   "skills": [
+    {
+     "value": "Knives",
+     "episode": 10
+    }
+   ]
+  },
+  "portrait": "smellerbee.png",
+  "wikiPage": "Smellerbee"
+ },
+ {
+  "name": "Sneers",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Freedom Fighters",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 10,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Freedom Fighters",
+     "episode": 10
+    }
+   ]
+  },
+  "portrait": "sneers.png",
+  "wikiPage": "Sneers"
+ },
+ {
+  "name": "Sokka",
+  "aliases": [
+   "Wang Fire",
+   "Captain Boomerang",
+   "Snoozles"
+  ],
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Wolf Cove, Southern Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Boomerang",
+   "Swords"
+  ],
+  "affiliation": "Team Avatar",
+  "age": 15,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Blue",
+  "firstEpisode": 1,
+  "firstEpisodeNote": null,
+  "history": {
+   "skills": [
+    {
+     "value": "Swords",
+     "episode": 44
+    },
+    {
+     "value": "Boomerang",
+     "episode": 1
+    }
+   ],
+   "affiliation": [
+    {
+     "value": "Team Avatar",
+     "episode": 1
+    }
+   ]
+  },
+  "portrait": "sokka.png",
+  "wikiPage": "Sokka"
+ },
+ {
+  "name": "Song",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Farming village, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "firstEpisode": 22,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 22
+    }
+   ]
+  },
+  "portrait": "song-villager.png",
+  "wikiPage": "Song (villager)"
+ },
+ {
+  "name": "Sozin",
+  "aliases": [
+   "Lee",
+   "Soso"
+  ],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Fire Nation Royal Family",
+  "age": null,
+  "trueAge": null,
+  "hair": "White",
+  "eyes": "Gold",
+  "firstEpisode": 46,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation Royal Family",
+     "episode": 46
+    }
+   ]
+  },
+  "portrait": "sozin.png",
+  "wikiPage": "Sozin"
+ },
+ {
+  "name": "Sud",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Light brown",
+  "firstEpisode": 46,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 46
+    }
+   ]
+  },
+  "portrait": "sud.png",
+  "wikiPage": "Sud"
+ },
+ {
+  "name": "Suki",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Suki's village, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "War fans"
+  ],
+  "affiliation": "Team Avatar",
+  "age": 15,
+  "trueAge": null,
+  "hair": "Auburn",
+  "eyes": "Blue",
+  "firstEpisode": 4,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Team Avatar",
+     "episode": 55
+    },
+    {
+     "value": "Kyoshi Warriors",
+     "episode": 4
+    }
+   ],
+   "skills": [
+    {
+     "value": "War fans",
+     "episode": 4
+    }
+   ]
+  },
+  "portrait": "suki.png",
+  "wikiPage": "Suki"
+ },
+ {
+  "name": "Sun Warrior Chief",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Sun Warriors' ancient city",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Sun Warriors",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 53,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Sun Warriors",
+     "episode": 53
+    }
+   ]
+  },
+  "portrait": "sun-warrior-chief.png",
+  "wikiPage": "Sun Warrior chief"
+ },
+ {
+  "name": "Ta Min",
+  "aliases": [
+   "Lee"
+  ],
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Fire Nation",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Gray",
+  "firstEpisode": 46,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 46
+    }
+   ]
+  },
+  "portrait": "ta-min.png",
+  "wikiPage": "Ta Min"
+ },
+ {
+  "name": "Tashi",
+  "aliases": [
+   "\"Dour Monk\""
+  ],
+  "gender": "Male",
+  "nation": "Air Nomads",
+  "origin": "Southern Air Temple",
+  "bending": "Airbender",
+  "elements": [
+   "Air"
+  ],
+  "skills": [],
+  "affiliation": "Air Nomads",
+  "age": null,
+  "trueAge": null,
+  "hair": "Bald",
+  "eyes": "Gray",
+  "firstEpisode": 3,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Air Nomads",
+     "episode": 3
+    }
+   ]
+  },
+  "portrait": "tashi.png",
+  "wikiPage": "Tashi"
+ },
+ {
+  "name": "Teo",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Northern Air Temple",
+  "age": 13,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 17,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Northern Air Temple",
+     "episode": 17
+    }
+   ]
+  },
+  "portrait": "teo.png",
+  "wikiPage": "Teo"
+ },
+ {
+  "name": "Than",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 27,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 27
+    }
+   ]
+  },
+  "portrait": "than.png",
+  "wikiPage": "Than"
+ },
+ {
+  "name": "The Big Bad Hippo",
+  "aliases": [
+   "The Hippo"
+  ],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Earth Rumble",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "firstEpisode": 26,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Rumble",
+     "episode": 26
+    }
+   ]
+  },
+  "portrait": "the-big-bad-hippo.png",
+  "wikiPage": "The Big Bad Hippo"
+ },
+ {
+  "name": "The Boulder",
+  "aliases": [
+   "The Pebble"
+  ],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Earth Rumble",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Green",
+  "firstEpisode": 26,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Rumble",
+     "episode": 26
+    }
+   ]
+  },
+  "portrait": "the-boulder.png",
+  "wikiPage": "The Boulder"
+ },
+ {
+  "name": "The Duke",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Freedom Fighters",
+  "age": 8,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 10,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Freedom Fighters",
+     "episode": 10
+    }
+   ]
+  },
+  "portrait": "the-duke.png",
+  "wikiPage": "The Duke"
+ },
+ {
+  "name": "The Mechanist",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Northern Air Temple",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 17,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Northern Air Temple",
+     "episode": 17
+    }
+   ]
+  },
+  "portrait": "mechanist.png",
+  "wikiPage": "Mechanist"
+ },
+ {
+  "name": "The Warden",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Fire Nation military",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "firstEpisode": 54,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation military",
+     "episode": 54
+    }
+   ]
+  },
+  "portrait": "warden-boiling-rock.png",
+  "wikiPage": "Warden (Boiling Rock)"
+ },
+ {
+  "name": "Tho",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Foggy Swamp Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "affiliation": "Foggy Swamp Tribe",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 24,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Foggy Swamp Tribe",
+     "episode": 24
+    }
+   ]
+  },
+  "portrait": "tho.png",
+  "wikiPage": "Tho"
+ },
+ {
+  "name": "Tom-Tom",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Fire Nation",
+  "age": 2,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Gray",
+  "firstEpisode": 23,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 23
+    }
+   ]
+  },
+  "portrait": "tom-tom.png",
+  "wikiPage": "Tom-Tom"
+ },
+ {
+  "name": "Toph Beifong",
+  "aliases": [
+   "Toph",
+   "The Blind Bandit",
+   "The Runaway",
+   "Melon Lord"
+  ],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [
+   "Metalbending",
+   "Seismic sense"
+  ],
+  "affiliation": "Team Avatar",
+  "age": 12,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Seafoam green",
+  "firstEpisode": 24,
+  "firstEpisodeNote": "vision",
+  "history": {
+   "affiliation": [
+    {
+     "value": "Team Avatar",
+     "episode": 26
+    },
+    {
+     "value": "Beifong family",
+     "episode": 24
+    }
+   ],
+   "skills": [
+    {
+     "value": "Metalbending",
+     "episode": 40
+    },
+    {
+     "value": "Seismic sense",
+     "episode": 26
+    }
+   ]
+  },
+  "portrait": "toph-beifong.png",
+  "wikiPage": "Toph Beifong"
+ },
+ {
+  "name": "Tui",
+  "aliases": [
+   "The Moon Spirit"
+  ],
+  "gender": "Unknown",
+  "nation": "Spirit World",
+  "origin": null,
+  "bending": "Non-bender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "affiliation": "Spirit World",
+  "age": null,
+  "trueAge": null,
+  "hair": "None",
+  "eyes": null,
+  "firstEpisode": 19,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Spirit World",
+     "episode": 19
+    }
+   ]
+  },
+  "portrait": "tui.png",
+  "wikiPage": "Tui"
+ },
+ {
+  "name": "Ty Lee",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Chi-blocking"
+  ],
+  "affiliation": "Azula's team",
+  "age": 14,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Brown-gray",
+  "firstEpisode": 23,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Azula's team",
+     "episode": 23
+    }
+   ],
+   "skills": [
+    {
+     "value": "Chi-blocking",
+     "episode": 23
+    }
+   ]
+  },
+  "portrait": "ty-lee.png",
+  "wikiPage": "Ty Lee"
+ },
+ {
+  "name": "Tyro",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Mining village, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "White",
+  "eyes": "Green",
+  "firstEpisode": 6,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 6
+    }
+   ]
+  },
+  "portrait": "tyro.png",
+  "wikiPage": "Tyro"
+ },
+ {
+  "name": "Ukano",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Fire Nation",
+  "age": null,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": "Tawny",
+  "firstEpisode": 23,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation",
+     "episode": 23
+    }
+   ]
+  },
+  "portrait": "ukano.png",
+  "wikiPage": "Ukano"
+ },
+ {
+  "name": "Ursa",
+  "aliases": [
+   "Noriko"
+  ],
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Hira'a, Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Fire Nation Royal Family",
+  "age": 30,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Gold",
+  "firstEpisode": 27,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation Royal Family",
+     "episode": 27
+    }
+   ]
+  },
+  "portrait": "ursa.png",
+  "wikiPage": "Ursa"
+ },
+ {
+  "name": "Vachir",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Eastern Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [
+   "Archery"
+  ],
+  "affiliation": "Rough Rhinos",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "firstEpisode": 25,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Rough Rhinos",
+     "episode": 25
+    }
+   ],
+   "skills": [
+    {
+     "value": "Archery",
+     "episode": 25
+    }
+   ]
+  },
+  "portrait": "vachir.png",
+  "wikiPage": "Vachir"
+ },
+ {
+  "name": "Wan Shi Tong",
+  "aliases": [
+   "The Knowledge Spirit",
+   "He Who Knows Ten Thousand Things"
+  ],
+  "gender": "Male",
+  "nation": "Spirit World",
+  "origin": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Spirit World",
+  "age": null,
+  "trueAge": null,
+  "hair": "None",
+  "eyes": "Black",
+  "firstEpisode": 30,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Spirit World",
+     "episode": 30
+    }
+   ]
+  },
+  "portrait": "wan-shi-tong.png",
+  "wikiPage": "Wan Shi Tong"
+ },
+ {
+  "name": "Xin Fu",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Earth Rumble",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Gray",
+  "firstEpisode": 26,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Rumble",
+     "episode": 26
+    }
+   ]
+  },
+  "portrait": "xin-fu.png",
+  "wikiPage": "Xin Fu"
+ },
+ {
+  "name": "Yagoda",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Water Tribe",
+  "origin": "Agna Qel'a, Northern Water Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [
+   "Healing"
+  ],
+  "affiliation": "Northern Water Tribe",
+  "age": 80,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": "Light blue",
+  "firstEpisode": 18,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Northern Water Tribe",
+     "episode": 18
+    }
+   ],
+   "skills": [
+    {
+     "value": "Healing",
+     "episode": 18
+    }
+   ]
+  },
+  "portrait": "yagoda.png",
+  "wikiPage": "Yagoda"
+ },
+ {
+  "name": "Yangchen",
+  "aliases": [
+   "Avatar Yangchen"
+  ],
+  "gender": "Female",
+  "nation": "Air Nomads",
+  "origin": "Western Air Temple",
+  "bending": "Avatar",
+  "elements": [
+   "Air",
+   "Water",
+   "Earth",
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Air Nomads",
+  "age": 17,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Gray",
+  "firstEpisode": 21,
+  "firstEpisodeNote": "vision",
+  "history": {
+   "affiliation": [
+    {
+     "value": "Air Nomads",
+     "episode": 21
+    }
+   ]
+  },
+  "portrait": "yangchen.png",
+  "wikiPage": "Yangchen"
+ },
+ {
+  "name": "Yeh-Lu",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Rough Rhinos",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 25,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Rough Rhinos",
+     "episode": 25
+    }
+   ]
+  },
+  "portrait": "yeh-lu.png",
+  "wikiPage": "Yeh-Lu"
+ },
+ {
+  "name": "Ying",
+  "aliases": [],
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "firstEpisode": 27,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 27
+    }
+   ]
+  },
+  "portrait": "ying.png",
+  "wikiPage": "Ying"
+ },
+ {
+  "name": "Yon Rha",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Fire Nation military",
+  "age": null,
+  "trueAge": null,
+  "hair": "Gray",
+  "eyes": "Dark brown",
+  "firstEpisode": 56,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation military",
+     "episode": 56
+    }
+   ]
+  },
+  "portrait": "yon-rha.png",
+  "wikiPage": "Yon Rha"
+ },
+ {
+  "name": "Yu",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "affiliation": "Earth Kingdom",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Black",
+  "firstEpisode": 26,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Earth Kingdom",
+     "episode": 26
+    }
+   ]
+  },
+  "portrait": "yu.png",
+  "wikiPage": "Yu"
+ },
+ {
+  "name": "Yue",
+  "aliases": [
+   "Princess Yue"
+  ],
+  "gender": "Female",
+  "nation": "Water Tribe",
+  "origin": "Agna Qel'a, Northern Water Tribe",
+  "bending": "Non-bender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "affiliation": "Northern Water Tribe",
+  "age": 16,
+  "trueAge": null,
+  "hair": "White",
+  "eyes": "Blue",
+  "firstEpisode": 18,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Northern Water Tribe",
+     "episode": 18
+    }
+   ]
+  },
+  "portrait": "yue.png",
+  "wikiPage": "Yue"
+ },
+ {
+  "name": "Zei",
+  "aliases": [],
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "affiliation": "Ba Sing Se",
+  "age": null,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "firstEpisode": 30,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Ba Sing Se",
+     "episode": 30
+    }
+   ]
+  },
+  "portrait": "zei.png",
+  "wikiPage": "Zei"
+ },
+ {
+  "name": "Zhao",
+  "aliases": [
+   "Commander Zhao",
+   "Admiral Zhao",
+   "Zhao the Conqueror"
+  ],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "affiliation": "Fire Nation military",
+  "age": null,
+  "trueAge": null,
+  "hair": "Black",
+  "eyes": "Amber",
+  "firstEpisode": 3,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Nation military",
+     "episode": 3
+    }
+   ]
+  },
+  "portrait": "zhao.png",
+  "wikiPage": "Zhao"
+ },
+ {
+  "name": "Zuko",
+  "aliases": [
+   "The Blue Spirit",
+   "Lee",
+   "Zuzu",
+   "Sifu Hotman"
+  ],
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [
+   "Swords",
+   "Lightning redirection"
+  ],
+  "affiliation": "Team Avatar",
+  "age": 16,
+  "trueAge": null,
+  "hair": "Brown",
+  "eyes": "Amber",
+  "firstEpisode": 1,
+  "firstEpisodeNote": null,
+  "history": {
+   "affiliation": [
+    {
+     "value": "Team Avatar",
+     "episode": 52
+    },
+    {
+     "value": "Fire Nation Royal Family",
+     "episode": 1
+    }
+   ],
+   "skills": [
+    {
+     "value": "Lightning redirection",
+     "episode": 29
+    },
+    {
+     "value": "Swords",
+     "episode": 13
+    }
+   ]
+  },
+  "portrait": "zuko.png",
+  "wikiPage": "Zuko"
+ }
+]

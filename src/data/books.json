@@ -1,0 +1,17 @@
+[
+ {
+  "name": "Water",
+  "number": 1,
+  "endEpisode": 20
+ },
+ {
+  "name": "Earth",
+  "number": 2,
+  "endEpisode": 40
+ },
+ {
+  "name": "Fire",
+  "number": 3,
+  "endEpisode": 61
+ }
+]

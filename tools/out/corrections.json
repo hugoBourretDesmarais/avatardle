@@ -1,0 +1,627 @@
+{
+ "Aang": {
+  "affiliation": "Team Avatar",
+  "aliases": [
+   "Avatar Aang",
+   "Twinkle Toes",
+   "Kuzon",
+   "Bonzu Pippinpaddleopsicopolis III"
+  ],
+  "hair": "Bald",
+  "age": 12,
+  "trueAge": 112,
+  "skills": [
+   "Energybending"
+  ]
+ },
+ "Appa": {
+  "affiliation": "Team Avatar",
+  "hair": "White"
+ },
+ "Arnook": {
+  "affiliation": "Northern Water Tribe",
+  "aliases": [
+   "Chief Arnook"
+  ]
+ },
+ "Azula": {
+  "affiliation": "Fire Nation Royal Family",
+  "aliases": [
+   "Princess Azula"
+  ],
+  "skills": [
+   "Lightning"
+  ]
+ },
+ "Azulon": {
+  "affiliation": "Fire Nation Royal Family"
+ },
+ "Bato": {
+  "affiliation": "Southern Water Tribe"
+ },
+ "Bosco": {
+  "affiliation": "Ba Sing Se",
+  "hair": "Brown"
+ },
+ "Bujing": {
+  "affiliation": "Fire Nation military"
+ },
+ "Bumi (King of Omashu)": {
+  "affiliation": "Omashu",
+  "name": "Bumi",
+  "aliases": [
+   "King Bumi",
+   "The Mad Genius"
+  ]
+ },
+ "Cabbage merchant": {
+  "affiliation": "Earth Kingdom",
+  "name": "Cabbage Merchant"
+ },
+ "Canyon guide": {
+  "affiliation": "Earth Kingdom",
+  "name": "Canyon Guide"
+ },
+ "Chey": {
+  "affiliation": "Fire Nation military",
+  "skills": []
+ },
+ "Chit Sang": {
+  "affiliation": "Fire Nation"
+ },
+ "Chong": {
+  "affiliation": "Earth Kingdom"
+ },
+ "Combustion Man": {
+  "affiliation": "Fire Nation",
+  "aliases": [
+   "Sparky Sparky Boom Man"
+  ],
+  "hair": "Bald"
+ },
+ "Ding": {
+  "affiliation": "Fire Nation"
+ },
+ "Due": {
+  "affiliation": "Foggy Swamp Tribe",
+  "gender": "Male"
+ },
+ "Fang": {
+  "affiliation": "Fire Nation",
+  "hair": "None"
+ },
+ "Fat": {
+  "affiliation": "Fire Nation"
+ },
+ "Fire Nation Man": {
+  "affiliation": "Earth Rumble"
+ },
+ "Flopsie": {
+  "affiliation": "Omashu",
+  "hair": "White"
+ },
+ "Foaming mouth guy": {
+  "affiliation": "Kyoshi Island",
+  "name": "Foaming Mouth Guy"
+ },
+ "Fong": {
+  "affiliation": "Earth Kingdom military"
+ },
+ "Gansu": {
+  "affiliation": "Earth Kingdom"
+ },
+ "Ghashiun": {
+  "affiliation": "Si Wong tribes"
+ },
+ "Gow": {
+  "affiliation": "Earth Kingdom military"
+ },
+ "Gyatso": {
+  "affiliation": "Air Nomads",
+  "aliases": [
+   "Monk Gyatso"
+  ],
+  "hair": "Bald"
+ },
+ "Hahn": {
+  "affiliation": "Northern Water Tribe"
+ },
+ "Hakoda": {
+  "affiliation": "Southern Water Tribe",
+  "aliases": [
+   "Chief Hakoda"
+  ]
+ },
+ "Ham Ghao": {
+  "affiliation": "Sun Warriors"
+ },
+ "Hama": {
+  "affiliation": "Southern Water Tribe",
+  "aliases": [
+   "The Puppetmaster"
+  ]
+ },
+ "Haru": {
+  "affiliation": "Earth Kingdom",
+  "age": 16
+ },
+ "Hei Bai": {
+  "affiliation": "Spirit World",
+  "aliases": [
+   "The Forest Spirit"
+  ],
+  "hair": "White"
+ },
+ "Hide": {
+  "affiliation": "Fire Nation"
+ },
+ "How": {
+  "affiliation": "Earth Kingdom military"
+ },
+ "Huu": {
+  "affiliation": "Foggy Swamp Tribe",
+  "skills": [
+   "Plantbending"
+  ]
+ },
+ "Iroh": {
+  "affiliation": "Order of the White Lotus",
+  "aliases": [
+   "The Dragon of the West",
+   "Mushi",
+   "Uncle Iroh"
+  ],
+  "skills": [
+   "Lightning",
+   "Lightning redirection"
+  ]
+ },
+ "Jee": {
+  "affiliation": "Fire Nation military",
+  "aliases": [
+   "Lieutenant Jee"
+  ],
+  "gender": "Male"
+ },
+ "Jeong Jeong": {
+  "affiliation": "Order of the White Lotus",
+  "aliases": [
+   "The Deserter"
+  ]
+ },
+ "Jet": {
+  "affiliation": "Freedom Fighters"
+ },
+ "Jin": {
+  "affiliation": "Ba Sing Se"
+ },
+ "Joo Dee": {
+  "affiliation": "Dai Li"
+ },
+ "June": {
+  "affiliation": "Earth Kingdom"
+ },
+ "Kahchi": {
+  "affiliation": "Rough Rhinos",
+  "skills": []
+ },
+ "Kanna": {
+  "affiliation": "Southern Water Tribe",
+  "aliases": [
+   "Gran Gran",
+   "Kanna of the Southern Water Tribe"
+  ]
+ },
+ "Katara": {
+  "affiliation": "Team Avatar",
+  "aliases": [
+   "The Painted Lady",
+   "Sugar Queen",
+   "Sapphire Fire"
+  ],
+  "skills": [
+   "Healing",
+   "Bloodbending"
+  ]
+ },
+ "Koh": {
+  "affiliation": "Spirit World",
+  "aliases": [
+   "The Face Stealer"
+  ],
+  "hair": "None"
+ },
+ "Kuei": {
+  "affiliation": "Ba Sing Se",
+  "aliases": [
+   "Earth King Kuei",
+   "The Earth King"
+  ]
+ },
+ "Kuruk": {
+  "affiliation": "Northern Water Tribe",
+  "aliases": [
+   "Avatar Kuruk"
+  ]
+ },
+ "Kwan": {
+  "affiliation": "Fire Nation"
+ },
+ "Kya (nonbender)": {
+  "affiliation": "Southern Water Tribe",
+  "name": "Kya"
+ },
+ "Kyoshi": {
+  "affiliation": "Kyoshi Island",
+  "aliases": [
+   "Avatar Kyoshi"
+  ],
+  "age": 230,
+  "skills": [
+   "War fans"
+  ]
+ },
+ "La": {
+  "affiliation": "Spirit World",
+  "aliases": [
+   "The Ocean Spirit"
+  ],
+  "bending": "Non-bender",
+  "hair": "None"
+ },
+ "Lao Beifong": {
+  "affiliation": "Beifong family"
+ },
+ "Lee": {
+  "affiliation": "Earth Kingdom",
+  "aliases": [
+   "Lee (farm boy)"
+  ]
+ },
+ "Lily": {
+  "affiliation": "Earth Kingdom"
+ },
+ "Lion turtle": {
+  "affiliation": "Spirit World",
+  "name": "Lion Turtle",
+  "gender": "Male",
+  "nation": "Spirit World",
+  "bending": "Non-bender",
+  "hair": "None",
+  "skills": [
+   "Energybending"
+  ]
+ },
+ "Lo and Li": {
+  "affiliation": "Fire Nation",
+  "gender": "Female"
+ },
+ "Long Feng": {
+  "affiliation": "Dai Li",
+  "aliases": [
+   "Grand Secretariat"
+  ]
+ },
+ "Longshot": {
+  "affiliation": "Freedom Fighters"
+ },
+ "Lu Ten": {
+  "affiliation": "Fire Nation Royal Family"
+ },
+ "Mai": {
+  "affiliation": "Azula's team",
+  "age": 15
+ },
+ "Mechanist": {
+  "affiliation": "Northern Air Temple",
+  "name": "The Mechanist"
+ },
+ "Meng": {
+  "affiliation": "Earth Kingdom",
+  "age": 10
+ },
+ "Michi": {
+  "affiliation": "Fire Nation"
+ },
+ "Ming": {
+  "affiliation": "Fire Nation military"
+ },
+ "Moku": {
+  "affiliation": "Earth Kingdom"
+ },
+ "Momo": {
+  "affiliation": "Team Avatar",
+  "hair": "White"
+ },
+ "Mongke": {
+  "affiliation": "Rough Rhinos"
+ },
+ "Nyla": {
+  "affiliation": "Earth Kingdom",
+  "hair": "Brown"
+ },
+ "Ogodei": {
+  "affiliation": "Rough Rhinos",
+  "skills": []
+ },
+ "On Ji": {
+  "affiliation": "Fire Nation"
+ },
+ "Oyaji": {
+  "affiliation": "Kyoshi Island"
+ },
+ "Ozai": {
+  "affiliation": "Fire Nation Royal Family",
+  "aliases": [
+   "Fire Lord Ozai",
+   "Phoenix King"
+  ],
+  "skills": [
+   "Lightning"
+  ]
+ },
+ "Painted Lady": {
+  "affiliation": "Spirit World"
+ },
+ "Pakku": {
+  "affiliation": "Northern Water Tribe",
+  "aliases": [
+   "Master Pakku"
+  ]
+ },
+ "Pao": {
+  "affiliation": "Ba Sing Se"
+ },
+ "Pathik": {
+  "affiliation": "Air Nomads",
+  "aliases": [
+   "Guru Pathik"
+  ],
+  "nation": "Unknown",
+  "hair": "Bald"
+ },
+ "Piandao": {
+  "affiliation": "Order of the White Lotus"
+ },
+ "Pipsqueak": {
+  "affiliation": "Freedom Fighters"
+ },
+ "Poon": {
+  "affiliation": "Fire Nation military"
+ },
+ "Poppy Beifong": {
+  "affiliation": "Beifong family"
+ },
+ "Qin": {
+  "affiliation": "Fire Nation military"
+ },
+ "Quon": {
+  "affiliation": "Ba Sing Se"
+ },
+ "Ran and Shaw": {
+  "affiliation": "Sun Warriors",
+  "gender": "Unknown",
+  "hair": "None"
+ },
+ "Roku": {
+  "affiliation": "Fire Nation",
+  "aliases": [
+   "Avatar Roku"
+  ],
+  "age": 70,
+  "skills": [
+   "Lavabending"
+  ]
+ },
+ "Sela": {
+  "affiliation": "Earth Kingdom"
+ },
+ "Sha-Mo": {
+  "affiliation": "Si Wong tribes"
+ },
+ "Shoji": {
+  "affiliation": "Fire Nation",
+  "gender": "Male"
+ },
+ "Shyu": {
+  "affiliation": "Fire Sages"
+ },
+ "Smellerbee": {
+  "affiliation": "Freedom Fighters",
+  "skills": [
+   "Knives"
+  ]
+ },
+ "Sneers": {
+  "affiliation": "Freedom Fighters"
+ },
+ "Sokka": {
+  "affiliation": "Team Avatar",
+  "aliases": [
+   "Wang Fire",
+   "Captain Boomerang",
+   "Snoozles"
+  ],
+  "skills": [
+   "Boomerang",
+   "Swords"
+  ]
+ },
+ "Song (villager)": {
+  "affiliation": "Earth Kingdom",
+  "name": "Song",
+  "gender": "Female",
+  "bending": "Non-bender"
+ },
+ "Sozin": {
+  "affiliation": "Fire Nation Royal Family",
+  "age": null
+ },
+ "Sud": {
+  "affiliation": "Earth Kingdom"
+ },
+ "Suki": {
+  "affiliation": "Team Avatar",
+  "age": 15,
+  "skills": [
+   "War fans"
+  ]
+ },
+ "Sun Warrior chief": {
+  "affiliation": "Sun Warriors",
+  "name": "Sun Warrior Chief",
+  "hair": "Black"
+ },
+ "Ta Min": {
+  "affiliation": "Fire Nation"
+ },
+ "Tashi": {
+  "affiliation": "Air Nomads",
+  "gender": "Male",
+  "hair": "Bald"
+ },
+ "Teo": {
+  "affiliation": "Northern Air Temple"
+ },
+ "Than": {
+  "affiliation": "Earth Kingdom"
+ },
+ "The Big Bad Hippo": {
+  "affiliation": "Earth Rumble",
+  "aliases": [
+   "The Hippo"
+  ]
+ },
+ "The Boulder": {
+  "affiliation": "Earth Rumble"
+ },
+ "The Duke": {
+  "affiliation": "Freedom Fighters"
+ },
+ "Tho": {
+  "affiliation": "Foggy Swamp Tribe",
+  "gender": "Male"
+ },
+ "Tom-Tom": {
+  "affiliation": "Fire Nation"
+ },
+ "Toph Beifong": {
+  "affiliation": "Team Avatar",
+  "aliases": [
+   "Toph",
+   "The Blind Bandit",
+   "The Runaway",
+   "Melon Lord"
+  ],
+  "skills": [
+   "Metalbending",
+   "Seismic sense"
+  ]
+ },
+ "Tui": {
+  "affiliation": "Spirit World",
+  "aliases": [
+   "The Moon Spirit"
+  ],
+  "gender": "Unknown",
+  "bending": "Non-bender",
+  "hair": "None"
+ },
+ "Ty Lee": {
+  "affiliation": "Azula's team",
+  "age": 14
+ },
+ "Tyro": {
+  "affiliation": "Earth Kingdom"
+ },
+ "Ukano": {
+  "affiliation": "Fire Nation"
+ },
+ "Ursa": {
+  "affiliation": "Fire Nation Royal Family"
+ },
+ "Vachir": {
+  "affiliation": "Rough Rhinos"
+ },
+ "Wan Shi Tong": {
+  "affiliation": "Spirit World",
+  "aliases": [
+   "The Knowledge Spirit",
+   "He Who Knows Ten Thousand Things"
+  ],
+  "hair": "None"
+ },
+ "Warden (Boiling Rock)": {
+  "affiliation": "Fire Nation military",
+  "name": "The Warden"
+ },
+ "Wu (fortuneteller)": {
+  "affiliation": "Earth Kingdom",
+  "name": "Aunt Wu",
+  "aliases": [
+   "Wu",
+   "The Fortuneteller"
+  ]
+ },
+ "Xin Fu": {
+  "affiliation": "Earth Rumble"
+ },
+ "Yagoda": {
+  "affiliation": "Northern Water Tribe",
+  "skills": [
+   "Healing"
+  ]
+ },
+ "Yangchen": {
+  "affiliation": "Air Nomads",
+  "aliases": [
+   "Avatar Yangchen"
+  ]
+ },
+ "Yeh-Lu": {
+  "affiliation": "Rough Rhinos",
+  "hair": "Black"
+ },
+ "Ying": {
+  "affiliation": "Earth Kingdom"
+ },
+ "Yon Rha": {
+  "affiliation": "Fire Nation military"
+ },
+ "Yu": {
+  "affiliation": "Earth Kingdom"
+ },
+ "Yue": {
+  "affiliation": "Northern Water Tribe",
+  "aliases": [
+   "Princess Yue"
+  ],
+  "bending": "Non-bender"
+ },
+ "Zei": {
+  "affiliation": "Ba Sing Se"
+ },
+ "Zhao": {
+  "affiliation": "Fire Nation military",
+  "aliases": [
+   "Commander Zhao",
+   "Admiral Zhao",
+   "Zhao the Conqueror"
+  ],
+  "hair": "Black"
+ },
+ "Zuko": {
+  "affiliation": "Team Avatar",
+  "aliases": [
+   "The Blue Spirit",
+   "Lee",
+   "Zuzu",
+   "Sifu Hotman"
+  ],
+  "hair": "Brown",
+  "skills": [
+   "Swords",
+   "Lightning redirection"
+  ]
+ }
+}

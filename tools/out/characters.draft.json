@@ -1,0 +1,4115 @@
+[
+ {
+  "name": "Aang",
+  "requested": "Aang",
+  "gender": "Male",
+  "nation": "Air Nomads",
+  "origin": "Southern Air Temple",
+  "ethnicity": "Air Nomad",
+  "bending": "Avatar",
+  "elements": [
+   "Air",
+   "Water",
+   "Earth",
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Airbending, waterbending , earthbending , firebending , energybending",
+  "weaponRaw": "The elements, airbender staff",
+  "affiliations": [
+   "Air Acolytes",
+   "Air Nomads",
+   "Team Avatar"
+  ],
+  "positions": [
+   "Co-founder of the United Republic of Nations",
+   "Fully realized Avatar"
+  ],
+  "age": 112,
+  "bioAge": 12,
+  "hair": "Dark brown",
+  "eyes": "Gray",
+  "aliases": [
+   "Bonzu Pippinpaddleopsicopolis III",
+   "Kuzon",
+   "Aangy",
+   "Sweetie",
+   "Twinkle Toes"
+  ],
+  "appearanceTitle": "The Boy in the Iceberg",
+  "appearanceNote": null,
+  "firstEpisode": 1,
+  "imageFile": "Aang at Jasmine Dragon.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/a/ae/Aang_at_Jasmine_Dragon.png/revision/latest?cb=20250504214141"
+ },
+ {
+  "name": "Katara",
+  "requested": "Katara",
+  "gender": "Female",
+  "nation": "Water Tribe",
+  "origin": "Wolf Cove, Southern Water Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [
+   "Bloodbending"
+  ],
+  "fightingStyleRaw": "Waterbending , bloodbending",
+  "weaponRaw": "Water",
+  "affiliations": [
+   "Team Avatar",
+   "Water Tribe",
+   "Jiang's pirate crew",
+   "United Republic of Nations",
+   "United Republic Council"
+  ],
+  "positions": [
+   "Daughter of the Southern Water Tribe Head Chieftain",
+   "Waterbending master",
+   "Master healer",
+   "United Republic Council representative"
+  ],
+  "age": 14,
+  "bioAge": null,
+  "hair": "Dark brown",
+  "eyes": "Blue",
+  "aliases": [
+   "June Pippinpaddleopsicopolis",
+   "Hwamei",
+   "Sapphire Fire",
+   "The Painted Lady",
+   "My Little Waterbender",
+   "Sweetie",
+   "Sugar Queen",
+   "Sweetness",
+   "Gran Gran"
+  ],
+  "appearanceTitle": "The Boy in the Iceberg",
+  "appearanceNote": null,
+  "firstEpisode": 1,
+  "imageFile": "Katara smiles at coronation.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/7/7a/Katara_smiles_at_coronation.png/revision/latest?cb=20150104171449"
+ },
+ {
+  "name": "Sokka",
+  "requested": "Sokka",
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Wolf Cove, Southern Water Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Swords",
+   "Boomerang",
+   "War fans",
+   "Knives"
+  ],
+  "fightingStyleRaw": "Water Tribe Warrior style, tessenjutsu , swordsmanship",
+  "weaponRaw": "Sokka's weapons",
+  "affiliations": [
+   "Bendless Boomerang Club",
+   "Southern Water Tribe",
+   "Team Avatar",
+   "Fire Nation Army",
+   "United Republic Council"
+  ],
+  "positions": [
+   "Chieftain in the Southern Water Tribe",
+   "Map reader",
+   "Son of Head Chieftain Hakoda",
+   "Southern Water Tribe representative and Chairman of the United Republic Council"
+  ],
+  "age": 15,
+  "bioAge": null,
+  "hair": "Dark brown",
+  "eyes": "Blue",
+  "aliases": [
+   "Wang Fire",
+   "Captain Boomerang"
+  ],
+  "appearanceTitle": "The Boy in the Iceberg",
+  "appearanceNote": null,
+  "firstEpisode": 1,
+  "imageFile": "Sokka.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/c/cc/Sokka.png/revision/latest?cb=20140905085428"
+ },
+ {
+  "name": "Toph Beifong",
+  "requested": "Toph Beifong",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [
+   "Metalbending"
+  ],
+  "fightingStyleRaw": "Earthbending ; metalbending",
+  "weaponRaw": "Earth, metal",
+  "affiliations": [
+   "Beifong family",
+   "Earth Kingdom",
+   "Earth Rumble",
+   "Earthen Fire Industries",
+   "Metalbending Police Force",
+   "Team Avatar",
+   "Team Beifong"
+  ],
+  "positions": [
+   "Chief of Police in Republic City",
+   "Earthbending master",
+   "Founder of the Metalbending Police Force",
+   "Gubernatorial candidate for the State of Gaoling"
+  ],
+  "age": 12,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Seafoam green",
+  "aliases": [
+   "The Blind Bandit",
+   "Dung",
+   "The Runaway",
+   "Powerful Earthbender Lady",
+   "Melon Lord"
+  ],
+  "appearanceTitle": "The Swamp",
+  "appearanceNote": "vision",
+  "firstEpisode": 24,
+  "imageFile": "Toph Beifong.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/46/Toph_Beifong.png/revision/latest?cb=20131230122047"
+ },
+ {
+  "name": "Zuko",
+  "requested": "Zuko",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [
+   "Swords"
+  ],
+  "fightingStyleRaw": "Firebending , swordsmanship (dual dao)",
+  "weaponRaw": "Fire, dual broadswords",
+  "affiliations": [
+   "Fire Nation",
+   "Fire Nation Royal Family",
+   "Team Avatar"
+  ],
+  "positions": [
+   "Ambassador",
+   "Co-founder of the United Republic of Nations",
+   "Crown Prince of the Fire Nation",
+   "Fire Lord"
+  ],
+  "age": 16,
+  "bioAge": null,
+  "hair": "Dark brown/black",
+  "eyes": "Amber",
+  "aliases": [
+   "The Blue Spirit",
+   "Lee",
+   "Junior",
+   "Zuzu",
+   "Sifu Hotman"
+  ],
+  "appearanceTitle": "The Boy in the Iceberg",
+  "appearanceNote": null,
+  "firstEpisode": 1,
+  "imageFile": "Zuko.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/4b/Zuko.png/revision/latest?cb=20180630112142"
+ },
+ {
+  "name": "Suki",
+  "requested": "Suki",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Suki's village, Earth Kingdom",
+  "ethnicity": "Kyoshi Islander",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Chi-blocking",
+   "Swords",
+   "War fans"
+  ],
+  "fightingStyleRaw": "Tessenjutsu, chi-blocking",
+  "weaponRaw": "War fans, katana",
+  "affiliations": [
+   "Earth Kingdom",
+   "Kyoshi Warriors",
+   "Suki's team",
+   "Team Avatar"
+  ],
+  "positions": [
+   "Fire Nation prisoner",
+   "Kyoshi Warriors village band's leader",
+   "Member of Team Avatar",
+   "Fire Lord Zuko's guard"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Auburn",
+  "eyes": "Blue",
+  "aliases": [],
+  "appearanceTitle": "The Warriors of Kyoshi",
+  "appearanceNote": null,
+  "firstEpisode": 4,
+  "imageFile": "Suki.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/1/14/Suki.png/revision/latest?cb=20130819094354"
+ },
+ {
+  "name": "Appa",
+  "requested": "Appa",
+  "gender": "Male",
+  "nation": "Air Nomads",
+  "origin": "Eastern Air Temple",
+  "ethnicity": null,
+  "bending": "Airbender",
+  "elements": [
+   "Air"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Airbending",
+  "weaponRaw": "Air, body bulk, tail",
+  "affiliations": [
+   "Air Nomads",
+   "Team Avatar"
+  ],
+  "positions": [
+   "Aang's sky bison"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "White and brown",
+  "eyes": "Brown",
+  "aliases": [],
+  "appearanceTitle": "The Boy in the Iceberg",
+  "appearanceNote": null,
+  "firstEpisode": 1,
+  "imageFile": "Appa flying.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/6/65/Appa_flying.png/revision/latest?cb=20140517110636"
+ },
+ {
+  "name": "Momo",
+  "requested": "Momo",
+  "gender": "Male",
+  "nation": "Air Nomads",
+  "origin": "Southern Air Temple",
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Air Nomads",
+   "Team Avatar"
+  ],
+  "positions": [
+   "Aang's pet lemur"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "White and brown",
+  "eyes": "Light green",
+  "aliases": [
+   "Twinklewings"
+  ],
+  "appearanceTitle": "The Southern Air Temple",
+  "appearanceNote": null,
+  "firstEpisode": 3,
+  "imageFile": "Momo staring.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/8/80/Momo_staring.png/revision/latest?cb=20200802080013"
+ },
+ {
+  "name": "Iroh",
+  "requested": "Iroh",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [
+   "Lightning"
+  ],
+  "fightingStyleRaw": "Firebending, lightning generation",
+  "weaponRaw": "Fire, lightning",
+  "affiliations": [
+   "Fire Nation",
+   "Fire Nation military",
+   "Fire Nation Royal Family",
+   "Jasmine Dragon",
+   "Order of the White Lotus",
+   "Spirit World"
+  ],
+  "positions": [
+   "Crown Prince of the Fire Nation",
+   "\"Finest Tea Brewer in Ba Sing Se\"",
+   "Fire Nation traitor",
+   "Fire Nation prisoner"
+  ],
+  "age": 50,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": "Amber",
+  "aliases": [
+   "Hong Mushi",
+   "The Dragon of the West"
+  ],
+  "appearanceTitle": "The Boy in the Iceberg",
+  "appearanceNote": null,
+  "firstEpisode": 1,
+  "imageFile": "Iroh smiling.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/c/c1/Iroh_smiling.png/revision/latest?cb=20130626131914"
+ },
+ {
+  "name": "Ozai",
+  "requested": "Ozai",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [
+   "Lightning"
+  ],
+  "fightingStyleRaw": "Firebending , lightning generation",
+  "weaponRaw": "Fire , lightning",
+  "affiliations": [
+   "Fire Nation",
+   "Fire Nation Royal Family"
+  ],
+  "positions": [
+   "Fire Nation prisoner",
+   "Fire Lord",
+   "Firebending master",
+   "Phoenix King"
+  ],
+  "age": 40,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Amber gold",
+  "aliases": [],
+  "appearanceTitle": "Winter Solstice, Part 2: Avatar Roku",
+  "appearanceNote": "silhouette",
+  "firstEpisode": 8,
+  "imageFile": "Ozai.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/4a/Ozai.png/revision/latest?cb=20130612170743"
+ },
+ {
+  "name": "Azula",
+  "requested": "Azula",
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [
+   "Lightning"
+  ],
+  "fightingStyleRaw": "Firebending, lightning generation",
+  "weaponRaw": "Fire, lightning",
+  "affiliations": [
+   "Azula's team",
+   "Dai Li",
+   "Fire Nation",
+   "Fire Nation Royal Family",
+   "Fire Warriors",
+   "Royal Fire Academy for Girls"
+  ],
+  "positions": [
+   "Crown Princess of the Fire Nation",
+   "Firebending master",
+   "Head of the Dai Li",
+   "Leader of the Fire Warriors"
+  ],
+  "age": 14,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Amber gold",
+  "aliases": [],
+  "appearanceTitle": "The Storm",
+  "appearanceNote": null,
+  "firstEpisode": 12,
+  "imageFile": "Azula.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/1/12/Azula.png/revision/latest?cb=20140905084941"
+ },
+ {
+  "name": "Mai",
+  "requested": "Mai",
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Knives"
+  ],
+  "fightingStyleRaw": "Shuriken-jutsu",
+  "weaponRaw": "Knives and stilettos",
+  "affiliations": [
+   "Fire Nation",
+   "Royal Fire Academy for Girls",
+   "Azula's team"
+  ],
+  "positions": [
+   "High class Fire Nation citizen",
+   "Imprisoned Fire Nation traitor",
+   "Daughter of the Governor of New Ozai",
+   "Girlfriend to the Fire Lord"
+  ],
+  "age": 15,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Tawny",
+  "aliases": [
+   "Babe"
+  ],
+  "appearanceTitle": "Return to Omashu",
+  "appearanceNote": null,
+  "firstEpisode": 23,
+  "imageFile": "Mai.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/40/Mai.png/revision/latest?cb=20090406114652"
+ },
+ {
+  "name": "Ty Lee",
+  "requested": "Ty Lee",
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Chi-blocking"
+  ],
+  "fightingStyleRaw": "* Chi-blocking\n* Hand-to-hand combat",
+  "weaponRaw": "",
+  "affiliations": [
+   "Azula's team",
+   "Fire Nation",
+   "Fire Nation circus",
+   "Kyoshi Warriors",
+   "Royal Fire Academy for Girls",
+   "Suki's team",
+   "Ty sisters"
+  ],
+  "positions": [
+   "Chi-blocking master",
+   "High class Fire Nation citizen",
+   "Imprisoned Fire Nation traitor",
+   "Kyoshi Warrior"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Brown-gray",
+  "aliases": [],
+  "appearanceTitle": "Return to Omashu",
+  "appearanceNote": null,
+  "firstEpisode": 23,
+  "imageFile": "Ty Lee.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/6/6d/Ty_Lee.png/revision/latest?cb=20140905083814"
+ },
+ {
+  "name": "Zhao",
+  "requested": "Zhao",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Fire Army",
+   "Fire Navy"
+  ],
+  "positions": [
+   "Firebending master",
+   "Commander of Ketu Harbor",
+   "Admiral",
+   "Prisoner in the Fog of Lost Souls"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": "Amber",
+  "aliases": [],
+  "appearanceTitle": "The Southern Air Temple",
+  "appearanceNote": null,
+  "firstEpisode": 3,
+  "imageFile": "Commander Zhao.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/e/e1/Commander_Zhao.png/revision/latest?cb=20140103180854"
+ },
+ {
+  "name": "Ursa",
+  "requested": "Ursa",
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Hira'a, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Fire Nation",
+   "Fire Nation Royal Family",
+   "Hira'a Acting Troupe"
+  ],
+  "positions": [
+   "Princess of the Fire Nation",
+   "Fire Nation traitor"
+  ],
+  "age": 30,
+  "bioAge": null,
+  "hair": "Dark brown",
+  "eyes": "Gold",
+  "aliases": [
+   "Noriko"
+  ],
+  "appearanceTitle": "Zuko Alone",
+  "appearanceNote": null,
+  "firstEpisode": 27,
+  "imageFile": "Ursa.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/a/a6/Ursa.png/revision/latest?cb=20140331143655"
+ },
+ {
+  "name": "Azulon",
+  "requested": "Azulon",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Fire Nation",
+   "Fire Nation Royal Family",
+   "Military of the Fire Nation"
+  ],
+  "positions": [
+   "Crown Prince of the Fire Nation",
+   "General",
+   "Fire Lord",
+   "Firebending master"
+  ],
+  "age": 95,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Zuko Alone",
+  "appearanceNote": null,
+  "firstEpisode": 27,
+  "imageFile": "Azulon.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/1/1e/Azulon.png/revision/latest?cb=20140331143003"
+ },
+ {
+  "name": "Sozin",
+  "requested": "Sozin",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Fire Nation",
+   "Fire Nation Royal Family"
+  ],
+  "positions": [
+   "Crown Prince of the Fire Nation",
+   "Fire Lord",
+   "Firebending master",
+   "Instigator of the Hundred Year War"
+  ],
+  "age": 16,
+  "bioAge": null,
+  "hair": "White",
+  "eyes": "Gold",
+  "aliases": [
+   "Lee",
+   "Soso"
+  ],
+  "appearanceTitle": "The Avatar and the Fire Lord",
+  "appearanceNote": null,
+  "firstEpisode": 46,
+  "imageFile": "Old Sozin.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/a/aa/Old_Sozin.png/revision/latest?cb=20220323100904"
+ },
+ {
+  "name": "Roku",
+  "requested": "Roku",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Avatar",
+  "elements": [
+   "Fire",
+   "Air",
+   "Water",
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending, airbending, waterbending , earthbending, lavabending",
+  "weaponRaw": "The elements, airbender staff",
+  "affiliations": [
+   "Roku's team"
+  ],
+  "positions": [
+   "Fully realized Avatar",
+   "Upper-class Fire Nation citizen"
+  ],
+  "age": 16,
+  "bioAge": null,
+  "hair": "White",
+  "eyes": "Amber brown",
+  "aliases": [
+   "Ro"
+  ],
+  "appearanceTitle": "Winter Solstice, Part 2: Avatar Roku",
+  "appearanceNote": null,
+  "firstEpisode": 8,
+  "imageFile": "Roku.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/f/f6/Roku.png/revision/latest?cb=20220323130414"
+ },
+ {
+  "name": "Lu Ten",
+  "requested": "Lu Ten",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Fire Nation",
+   "Fire Nation Royal Family",
+   "Fire Nation military"
+  ],
+  "positions": [
+   "Prince of the Fire Nation",
+   "Captain"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Dark brown",
+  "eyes": "Amber",
+  "aliases": [],
+  "appearanceTitle": "Bitter Work",
+  "appearanceNote": null,
+  "firstEpisode": 29,
+  "imageFile": "Lu Ten bowing.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/1/14/Lu_Ten_bowing.png/revision/latest?cb=20241203231226"
+ },
+ {
+  "name": "Piandao",
+  "requested": "Piandao",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Swords"
+  ],
+  "fightingStyleRaw": "Swordsmanship",
+  "weaponRaw": "Jian",
+  "affiliations": [
+   "Fire Army",
+   "Order of the White Lotus"
+  ],
+  "positions": [
+   "High-ranking member of the Order of the White Lotus",
+   "Swordmaster"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Gray",
+  "aliases": [],
+  "appearanceTitle": "Sokka's Master",
+  "appearanceNote": null,
+  "firstEpisode": 44,
+  "imageFile": "Piandao.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/e/e1/Piandao.png/revision/latest?cb=20140905225031"
+ },
+ {
+  "name": "Jeong Jeong",
+  "requested": "Jeong Jeong",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Fire Navy",
+   "Order of the White Lotus"
+  ],
+  "positions": [
+   "Firebending master",
+   "Admiral",
+   "High-ranking member of the Order of the White Lotus"
+  ],
+  "age": 61,
+  "bioAge": null,
+  "hair": "White",
+  "eyes": null,
+  "aliases": [
+   "\"The Deserter\""
+  ],
+  "appearanceTitle": "The Deserter",
+  "appearanceNote": null,
+  "firstEpisode": 16,
+  "imageFile": "Jeong Jeong serious.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/a/a7/Jeong_Jeong_serious.png/revision/latest?cb=20140116113256"
+ },
+ {
+  "name": "Combustion Man",
+  "requested": "Combustion Man",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [
+   "Combustion"
+  ],
+  "fightingStyleRaw": "Firebending, combustionbending",
+  "weaponRaw": "Fire, metal prosthetics",
+  "affiliations": [
+   "Contract employer"
+  ],
+  "positions": [
+   "Firebending master"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Dark",
+  "aliases": [
+   "Sparky Sparky Boom Man"
+  ],
+  "appearanceTitle": "The Headband",
+  "appearanceNote": null,
+  "firstEpisode": 42,
+  "imageFile": "Combustion Man.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/f/fc/Combustion_Man.png/revision/latest?cb=20140908141111"
+ },
+ {
+  "name": "Shyu",
+  "requested": "Shyu",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Fire Sages"
+  ],
+  "positions": [
+   "Great Sage"
+  ],
+  "age": 60,
+  "bioAge": null,
+  "hair": "White",
+  "eyes": "Dark",
+  "aliases": [],
+  "appearanceTitle": "Winter Solstice, Part 2: Avatar Roku",
+  "appearanceNote": null,
+  "firstEpisode": 8,
+  "imageFile": "Shyu.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/c/c9/Shyu.png/revision/latest?cb=20130622211349"
+ },
+ {
+  "name": "Warden (Boiling Rock)",
+  "requested": "Warden (Boiling Rock)",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Boiling Rock",
+   "Capital City Prison",
+   "Fire Nation",
+   "Domestic Forces"
+  ],
+  "positions": [
+   "Head of the Boiling Rock"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "aliases": [],
+  "appearanceTitle": "The Boiling Rock, Part 1",
+  "appearanceNote": null,
+  "firstEpisode": 54,
+  "imageFile": "Boiling Rock warden.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/0/0f/Boiling_Rock_warden.png/revision/latest?cb=20220328163908"
+ },
+ {
+  "name": "Chit Sang",
+  "requested": "Chit Sang",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [],
+  "positions": [
+   "Fugitive"
+  ],
+  "age": 30,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Pale green",
+  "aliases": [],
+  "appearanceTitle": "The Boiling Rock, Part 1",
+  "appearanceNote": null,
+  "firstEpisode": 54,
+  "imageFile": "Chit Sang.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/8/81/Chit_Sang.png/revision/latest?cb=20121021000707"
+ },
+ {
+  "name": "Ming",
+  "requested": "Ming",
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Domestic Forces"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Day of Black Sun, Part 1: The Invasion",
+  "appearanceNote": null,
+  "firstEpisode": 50,
+  "imageFile": "Ming.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/a/a5/Ming.png/revision/latest?cb=20220324013206"
+ },
+ {
+  "name": "Qin",
+  "requested": "Qin",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Fire Nation"
+  ],
+  "positions": [
+   "War Minister"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": "Amber brown",
+  "aliases": [],
+  "appearanceTitle": "The Northern Air Temple",
+  "appearanceNote": null,
+  "firstEpisode": 17,
+  "imageFile": "Qin.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/d/d4/Qin.png/revision/latest?cb=20140118125456"
+ },
+ {
+  "name": "Mongke",
+  "requested": "Mongke",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Fire Nation military",
+   "Rough Rhinos"
+  ],
+  "positions": [
+   "Colonel, leader of the Rough Rhinos"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Avatar Day",
+  "appearanceNote": null,
+  "firstEpisode": 25,
+  "imageFile": "Colonel Mongke.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/f/f9/Colonel_Mongke.png/revision/latest?cb=20140215111854"
+ },
+ {
+  "name": "Lo and Li",
+  "requested": "Lo and Li",
+  "gender": null,
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Fire Nation",
+   "Fire Nation Royal Family"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "White",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Avatar State",
+  "appearanceNote": null,
+  "firstEpisode": 21,
+  "imageFile": "Lo and Li.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/1/14/Lo_and_Li.png/revision/latest?cb=20130111101305"
+ },
+ {
+  "name": "Yon Rha",
+  "requested": "Yon Rha",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Southern Raiders",
+   "Fire Nation"
+  ],
+  "positions": [
+   "Leader of the Southern Raiders"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": "Dark brown",
+  "aliases": [],
+  "appearanceTitle": "The Southern Raiders",
+  "appearanceNote": null,
+  "firstEpisode": 56,
+  "imageFile": "Yon Rha.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/9/94/Yon_Rha.png/revision/latest?cb=20081225191900"
+ },
+ {
+  "name": "Ran and Shaw",
+  "requested": "Ran and Shaw",
+  "gender": null,
+  "nation": "Fire Nation",
+  "origin": null,
+  "ethnicity": null,
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Claws, teeth, fire",
+  "affiliations": [
+   "Sun Warriors"
+  ],
+  "positions": [
+   "Firebending masters",
+   "The last dragons"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": null,
+  "eyes": null,
+  "aliases": [
+   "The Masters"
+  ],
+  "appearanceTitle": "The Firebending Masters",
+  "appearanceNote": null,
+  "firstEpisode": 53,
+  "imageFile": "Ran and Shaw.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/6/62/Ran_and_Shaw.png/revision/latest?cb=20140901163755"
+ },
+ {
+  "name": "Ham Ghao",
+  "requested": "Ham Ghao",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Sun Warriors' ancient city",
+  "ethnicity": "Sun Warrior",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Sun Warriors"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Firebending Masters",
+  "appearanceNote": null,
+  "firstEpisode": 53,
+  "imageFile": "Ham Ghao.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/9/99/Ham_Ghao.png/revision/latest?cb=20081225190937"
+ },
+ {
+  "name": "Jee",
+  "requested": "Jee",
+  "gender": null,
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Fire Nation Navy"
+  ],
+  "positions": [
+   "Lieutenant"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Waterbending Scroll",
+  "appearanceNote": null,
+  "firstEpisode": 9,
+  "imageFile": "Jee.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/e/eb/Jee.png/revision/latest?cb=20130714141540"
+ },
+ {
+  "name": "Hide",
+  "requested": "Hide",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": null,
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Fire Nation school"
+  ],
+  "positions": [
+   "Star pupil"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Headband",
+  "appearanceNote": null,
+  "firstEpisode": 42,
+  "imageFile": "Hide.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/9/96/Hide.png/revision/latest?cb=20140602093934"
+ },
+ {
+  "name": "On Ji",
+  "requested": "On Ji",
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Fire Nation school"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Headband",
+  "appearanceNote": null,
+  "firstEpisode": 42,
+  "imageFile": "On Ji.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/9/9a/On_Ji.png/revision/latest?cb=20140602125810"
+ },
+ {
+  "name": "Shoji",
+  "requested": "Shoji",
+  "gender": null,
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Fire Nation school"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Olive green",
+  "aliases": [],
+  "appearanceTitle": "The Headband",
+  "appearanceNote": null,
+  "firstEpisode": 42,
+  "imageFile": "School clothes.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/d/d0/School_clothes.png/revision/latest?cb=20140602125811"
+ },
+ {
+  "name": "Kwan",
+  "requested": "Kwan",
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Fire Nation school"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "aliases": [],
+  "appearanceTitle": "The Headband",
+  "appearanceNote": null,
+  "firstEpisode": 42,
+  "imageFile": "Kwan.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/b/b0/Kwan.png/revision/latest?cb=20140602125758"
+ },
+ {
+  "name": "Bujing",
+  "requested": "Bujing",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": null,
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Fire Army"
+  ],
+  "positions": [
+   "High General"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Storm",
+  "appearanceNote": null,
+  "firstEpisode": 12,
+  "imageFile": "Bujing.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/7/76/Bujing.png/revision/latest?cb=20130714152817"
+ },
+ {
+  "name": "Ta Min",
+  "requested": "Ta Min",
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Fire Nation",
+   "Fire Nation University",
+   "Roku's team"
+  ],
+  "positions": [
+   "Upper-class Fire Nation citizen",
+   "Fire Nation emissary to Omashu"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Dark brown",
+  "eyes": "Gray",
+  "aliases": [
+   "Lee"
+  ],
+  "appearanceTitle": "The Avatar and the Fire Lord",
+  "appearanceNote": null,
+  "firstEpisode": 46,
+  "imageFile": "Young Ta Min.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/1/1e/Young_Ta_Min.png/revision/latest?cb=20131230132842"
+ },
+ {
+  "name": "Fat",
+  "requested": "Fat",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Shu Jing, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Swords"
+  ],
+  "fightingStyleRaw": "Swordsmanship",
+  "weaponRaw": "Sword",
+  "affiliations": [],
+  "positions": [
+   "Assistant sword trainer"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Sokka's Master",
+  "appearanceNote": null,
+  "firstEpisode": 44,
+  "imageFile": "Fat.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/2/2e/Fat.png/revision/latest?cb=20140905232010"
+ },
+ {
+  "name": "Ukano",
+  "requested": "Ukano",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Fire Nation",
+   "New Ozai Society",
+   "Safe Nation Society"
+  ],
+  "positions": [
+   "Former governor of New Ozai",
+   "Leader of the New Ozai Society",
+   "Co-leader of Safe Nation Society"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": "Tawny",
+  "aliases": [],
+  "appearanceTitle": "Return to Omashu",
+  "appearanceNote": null,
+  "firstEpisode": 23,
+  "imageFile": "Ukano.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/e/ee/Ukano.png/revision/latest?cb=20130706145902"
+ },
+ {
+  "name": "Michi",
+  "requested": "Michi",
+  "gender": "Female",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Fire Nation"
+  ],
+  "positions": [
+   "Governor's wife",
+   "High class Fire Nation citizen"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Tawny",
+  "aliases": [],
+  "appearanceTitle": "Return to Omashu",
+  "appearanceNote": null,
+  "firstEpisode": 23,
+  "imageFile": "Michi.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/0/0b/Michi.png/revision/latest?cb=20130706134435"
+ },
+ {
+  "name": "Tom-Tom",
+  "requested": "Tom-Tom",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Fire Nation"
+  ],
+  "positions": [
+   "Governor's son",
+   "High class Fire Nation citizen"
+  ],
+  "age": 2,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Gray",
+  "aliases": [],
+  "appearanceTitle": "Return to Omashu",
+  "appearanceNote": null,
+  "firstEpisode": 23,
+  "imageFile": "Tom-Tom tearful.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/4a/Tom-Tom_tearful.png/revision/latest?cb=20220320160427"
+ },
+ {
+  "name": "Poon",
+  "requested": "Poon",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation Capital, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Capital City Prison",
+   "Fire Nation military",
+   "Domestic Forces"
+  ],
+  "positions": [
+   "Prison warden"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Sokka's Master",
+  "appearanceNote": null,
+  "firstEpisode": 44,
+  "imageFile": "Warden Poon.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/e/e5/Warden_Poon.png/revision/latest?cb=20130123150230"
+ },
+ {
+  "name": "Chey",
+  "requested": "Chey",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Explosives",
+  "affiliations": [
+   "Fire Army"
+  ],
+  "positions": [],
+  "age": 30,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Deserter",
+  "appearanceNote": null,
+  "firstEpisode": 16,
+  "imageFile": "Chey.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/8/8d/Chey.png/revision/latest?cb=20140116103519"
+ },
+ {
+  "name": "Vachir",
+  "requested": "Vachir",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Eastern Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [
+   "Archery"
+  ],
+  "fightingStyleRaw": "Archery, firebending",
+  "weaponRaw": "Bow and flaming arrows",
+  "affiliations": [
+   "Fire Nation military",
+   "Rough Rhinos",
+   "Yuyan Archers"
+  ],
+  "positions": [
+   "Rough Rhino",
+   "Yuyan Archer"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Avatar Day",
+  "appearanceNote": null,
+  "firstEpisode": 25,
+  "imageFile": "Vachir.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/a/ad/Vachir.png/revision/latest?cb=20140407161002"
+ },
+ {
+  "name": "Ogodei",
+  "requested": "Ogodei",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "Melee style",
+  "weaponRaw": "Meteorite hammer or bolo",
+  "affiliations": [
+   "Fire Nation military",
+   "Rough Rhinos"
+  ],
+  "positions": [
+   "Bolo master",
+   "Rough Rhino"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Avatar Day",
+  "appearanceNote": null,
+  "firstEpisode": 25,
+  "imageFile": "Ogodei.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/b/ba/Ogodei.png/revision/latest?cb=20140407160127"
+ },
+ {
+  "name": "Yeh-Lu",
+  "requested": "Yeh-Lu",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Explosives",
+  "affiliations": [
+   "Fire Nation military",
+   "Rough Rhinos"
+  ],
+  "positions": [
+   "Rough Rhino"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": null,
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Avatar Day",
+  "appearanceNote": null,
+  "firstEpisode": 25,
+  "imageFile": "Yeh-Lu.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/f/fe/Yeh-Lu.png/revision/latest?cb=20140407161003"
+ },
+ {
+  "name": "Kahchi",
+  "requested": "Kahchi",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Swords"
+  ],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Guan dao",
+  "affiliations": [
+   "Fire Nation military",
+   "Rough Rhinos"
+  ],
+  "positions": [
+   "Rough Rhino"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Avatar Day",
+  "appearanceNote": null,
+  "firstEpisode": 25,
+  "imageFile": "Kahchi.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/7/77/Kahchi.png/revision/latest?cb=20140407160126"
+ },
+ {
+  "name": "Sun Warrior chief",
+  "requested": "Sun Warrior chief",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Sun Warriors' ancient city",
+  "ethnicity": "Sun Warrior",
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire",
+  "affiliations": [
+   "Sun Warriors"
+  ],
+  "positions": [
+   "Tribal chief"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Firebending Masters",
+  "appearanceNote": null,
+  "firstEpisode": 53,
+  "imageFile": "The Sun Warriors.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/2/2e/The_Sun_Warriors.png/revision/latest?cb=20171016193449"
+ },
+ {
+  "name": "Hakoda",
+  "requested": "Hakoda",
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Wolf Cove, Southern Water Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Water Tribe weapons",
+  "affiliations": [
+   "Southern Water Tribe"
+  ],
+  "positions": [
+   "Fire Nation prisoner",
+   "Chieftain of Wolf Cove",
+   "Head Chieftain of the Southern Water Tribe"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Dark brown",
+  "eyes": "Blue",
+  "aliases": [],
+  "appearanceTitle": "Bato of the Water Tribe",
+  "appearanceNote": null,
+  "firstEpisode": 15,
+  "imageFile": "Hakoda smiling.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/4e/Hakoda_smiling.png/revision/latest?cb=20201220143258"
+ },
+ {
+  "name": "Bato",
+  "requested": "Bato",
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Wolf Cove, Southern Water Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Water Tribe weapons",
+  "affiliations": [
+   "Southern Water Tribe"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Royal blue",
+  "aliases": [],
+  "appearanceTitle": "Bato of the Water Tribe",
+  "appearanceNote": null,
+  "firstEpisode": 15,
+  "imageFile": "Bato smiling.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/e/e3/Bato_smiling.png/revision/latest?cb=20130626122901"
+ },
+ {
+  "name": "Kanna",
+  "requested": "Kanna",
+  "gender": "Female",
+  "nation": "Water Tribe",
+  "origin": "Northern Water Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Northern Water Tribe",
+   "Southern Water Tribe"
+  ],
+  "positions": [
+   "Tribe elder"
+  ],
+  "age": 80,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": "Blue",
+  "aliases": [
+   "Gran Gran"
+  ],
+  "appearanceTitle": "The Boy in the Iceberg",
+  "appearanceNote": null,
+  "firstEpisode": 1,
+  "imageFile": "Kanna.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/47/Kanna.png/revision/latest?cb=20130822224809"
+ },
+ {
+  "name": "Pakku",
+  "requested": "Pakku",
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Agna Qel'a, Northern Water Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Waterbending",
+  "weaponRaw": "Water",
+  "affiliations": [
+   "Northern Water Tribe",
+   "Order of the White Lotus"
+  ],
+  "positions": [
+   "High-ranking member of the Order of the White Lotus",
+   "Waterbending master"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": "Pale blue",
+  "aliases": [],
+  "appearanceTitle": "The Waterbending Master",
+  "appearanceNote": null,
+  "firstEpisode": 18,
+  "imageFile": "Pakku looking smug.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/b/bb/Pakku_looking_smug.png/revision/latest?cb=20140119164142"
+ },
+ {
+  "name": "Yue",
+  "requested": "Yue",
+  "gender": "Female",
+  "nation": "Water Tribe",
+  "origin": "Agna Qel'a, Northern Water Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Waterbending",
+  "weaponRaw": "Water",
+  "affiliations": [
+   "Spirit World",
+   "Water Tribe"
+  ],
+  "positions": [
+   "Moon Spirit",
+   "Princess of the Northern Water Tribe",
+   "Tribal Chief's advisor"
+  ],
+  "age": 16,
+  "bioAge": null,
+  "hair": "White",
+  "eyes": "Blue",
+  "aliases": [],
+  "appearanceTitle": "The Waterbending Master",
+  "appearanceNote": null,
+  "firstEpisode": 18,
+  "imageFile": "Kind Yue.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/9/9d/Kind_Yue.png/revision/latest?cb=20140122221734"
+ },
+ {
+  "name": "Arnook",
+  "requested": "Arnook",
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Agna Qel'a, Northern Water Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Water Tribe weapons",
+  "affiliations": [
+   "Northern Water Tribe"
+  ],
+  "positions": [
+   "Chief of the Northern and Southern Water Tribe"
+  ],
+  "age": 50,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Blue",
+  "aliases": [],
+  "appearanceTitle": "The Waterbending Master",
+  "appearanceNote": null,
+  "firstEpisode": 18,
+  "imageFile": "Chief.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/0/0c/Chief.png/revision/latest?cb=20140122221730"
+ },
+ {
+  "name": "Hahn",
+  "requested": "Hahn",
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Agna Qel'a, Northern Water Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Water Tribe weapons",
+  "affiliations": [
+   "Northern Water Tribe"
+  ],
+  "positions": [],
+  "age": 17,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Light blue",
+  "aliases": [],
+  "appearanceTitle": "The Siege of the North, Part 1",
+  "appearanceNote": null,
+  "firstEpisode": 19,
+  "imageFile": "Hahn.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/46/Hahn.png/revision/latest?cb=20140122221732"
+ },
+ {
+  "name": "Hama",
+  "requested": "Hama",
+  "gender": "Female",
+  "nation": "Water Tribe",
+  "origin": "Wolf Cove, Southern Water Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [
+   "Bloodbending"
+  ],
+  "fightingStyleRaw": "Waterbending , bloodbending",
+  "weaponRaw": "Water",
+  "affiliations": [
+   "Southern Water Tribe"
+  ],
+  "positions": [
+   "Fire Nation prisoner",
+   "Southern Water Tribe prisoner",
+   "Inventor of bloodbending",
+   "Waterbending master"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Light gray",
+  "eyes": "Gray",
+  "aliases": [],
+  "appearanceTitle": "The Puppetmaster",
+  "appearanceNote": null,
+  "firstEpisode": 48,
+  "imageFile": "Sinister Hama.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/4d/Sinister_Hama.png/revision/latest?cb=20111215082556"
+ },
+ {
+  "name": "Kya (nonbender)",
+  "requested": "Kya (nonbender)",
+  "gender": "Female",
+  "nation": "Water Tribe",
+  "origin": "Wolf Cove, Southern Water Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Southern Water Tribe"
+  ],
+  "positions": [
+   "Wife of the Tribal Chief"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Blue",
+  "aliases": [],
+  "appearanceTitle": "The Swamp",
+  "appearanceNote": "vision",
+  "firstEpisode": 24,
+  "imageFile": "Kya (nonbender).png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/b/b5/Kya_%28nonbender%29.png/revision/latest?cb=20170523213135"
+ },
+ {
+  "name": "Kuruk",
+  "requested": "Kuruk",
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Northern Water Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Avatar",
+  "elements": [
+   "Water",
+   "Earth",
+   "Fire",
+   "Air"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Waterbending, earthbending, firebending, airbending",
+  "weaponRaw": "The elements",
+  "affiliations": [
+   "Kuruk's team"
+  ],
+  "positions": [
+   "Fully realized Avatar"
+  ],
+  "age": 33,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Blue",
+  "aliases": [],
+  "appearanceTitle": "The Avatar State",
+  "appearanceNote": "vision",
+  "firstEpisode": 21,
+  "imageFile": "Kuruk.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/d/d1/Kuruk.png/revision/latest?cb=20260818193030"
+ },
+ {
+  "name": "Yagoda",
+  "requested": "Yagoda",
+  "gender": "Female",
+  "nation": "Water Tribe",
+  "origin": "Agna Qel'a, Northern Water Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Water",
+  "affiliations": [
+   "Northern Water Tribe"
+  ],
+  "positions": [
+   "Master healer"
+  ],
+  "age": 80,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": "Light blue",
+  "aliases": [],
+  "appearanceTitle": "The Waterbending Master",
+  "appearanceNote": null,
+  "firstEpisode": 18,
+  "imageFile": "Yagoda.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/5/5b/Yagoda.png/revision/latest?cb=20140119144821"
+ },
+ {
+  "name": "Huu",
+  "requested": "Huu",
+  "gender": "Male",
+  "nation": "Water Tribe",
+  "origin": "Foggy Swamp Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Waterbending , plantbending",
+  "weaponRaw": "Water, saturated plants",
+  "affiliations": [
+   "Foggy Swamp Tribe"
+  ],
+  "positions": [
+   "Protector of the Foggy Swamp",
+   "Waterbending master"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Swamp",
+  "appearanceNote": null,
+  "firstEpisode": 24,
+  "imageFile": "Huu.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/8/85/Huu.png/revision/latest?cb=20130630224726"
+ },
+ {
+  "name": "Due",
+  "requested": "Due",
+  "gender": null,
+  "nation": "Water Tribe",
+  "origin": "Foggy Swamp Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Waterbending",
+  "weaponRaw": "Water",
+  "affiliations": [
+   "Foggy Swamp Tribe"
+  ],
+  "positions": [
+   "Waterbending master"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Swamp",
+  "appearanceNote": null,
+  "firstEpisode": 24,
+  "imageFile": "Due.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/7/7b/Due.png/revision/latest?cb=20130630225941"
+ },
+ {
+  "name": "Tho",
+  "requested": "Tho",
+  "gender": null,
+  "nation": "Water Tribe",
+  "origin": "Foggy Swamp Tribe",
+  "ethnicity": "Water Tribe",
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Waterbending",
+  "weaponRaw": "Water",
+  "affiliations": [
+   "Foggy Swamp Tribe"
+  ],
+  "positions": [
+   "Waterbending master"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Swamp",
+  "appearanceNote": null,
+  "firstEpisode": 24,
+  "imageFile": "Tho.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/d/d6/Tho.png/revision/latest?cb=20130630225558"
+ },
+ {
+  "name": "Bumi (King of Omashu)",
+  "requested": "Bumi (King of Omashu)",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Omashu, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Earth Kingdom",
+   "Order of the White Lotus"
+  ],
+  "positions": [
+   "Earthbending master",
+   "King of Omashu",
+   "High-ranking member of the Order of the White Lotus"
+  ],
+  "age": 112,
+  "bioAge": null,
+  "hair": "White",
+  "eyes": "Green",
+  "aliases": [],
+  "appearanceTitle": "The King of Omashu",
+  "appearanceNote": null,
+  "firstEpisode": 5,
+  "imageFile": "King Bumi.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/e/e8/King_Bumi.png/revision/latest?cb=20140106141303"
+ },
+ {
+  "name": "Kuei",
+  "requested": "Kuei",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Earth Kingdom government",
+   "Hou-Ting dynasty"
+  ],
+  "positions": [
+   "Earth King"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Light green",
+  "aliases": [
+   "The 52nd Earth King"
+  ],
+  "appearanceTitle": "City of Walls and Secrets",
+  "appearanceNote": null,
+  "firstEpisode": 34,
+  "imageFile": "Kuei.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/5/5e/Kuei.png/revision/latest?cb=20130627084042"
+ },
+ {
+  "name": "Bosco",
+  "requested": "Bosco",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Eastern coast, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Earth Kingdom"
+  ],
+  "positions": [
+   "Earth King Kuei's pet"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Black",
+  "aliases": [],
+  "appearanceTitle": "City of Walls and Secrets",
+  "appearanceNote": null,
+  "firstEpisode": 34,
+  "imageFile": "Bosco.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/9/9b/Bosco.png/revision/latest?cb=20140517110638"
+ },
+ {
+  "name": "Long Feng",
+  "requested": "Long Feng",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Ba Sing Se",
+   "Dai Li"
+  ],
+  "positions": [
+   "Earthbending master",
+   "Cultural minister",
+   "Grand Secretariat of Ba Sing Se",
+   "Head of the Dai Li"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Jade green",
+  "aliases": [],
+  "appearanceTitle": "City of Walls and Secrets",
+  "appearanceNote": null,
+  "firstEpisode": 34,
+  "imageFile": "Long Feng scheming.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/8/8d/Long_Feng_scheming.png/revision/latest?cb=20140510202422"
+ },
+ {
+  "name": "Joo Dee",
+  "requested": "Joo Dee",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Dai Li",
+   "Fire Nation"
+  ],
+  "positions": [
+   "Cultural Ambassador",
+   "Supreme Bureaucratic Administrator"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Grey",
+  "aliases": [],
+  "appearanceTitle": "City of Walls and Secrets",
+  "appearanceNote": null,
+  "firstEpisode": 34,
+  "imageFile": "Joo Dee.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/1/1f/Joo_Dee.png/revision/latest?cb=20140422090643"
+ },
+ {
+  "name": "Haru",
+  "requested": "Haru",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Mining village, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Earth Kingdom",
+   "Hakoda's forces",
+   "\"Team Tyro\""
+  ],
+  "positions": [
+   "Fire Nation prisoner",
+   "Militia member"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Green",
+  "aliases": [],
+  "appearanceTitle": "Imprisoned",
+  "appearanceNote": null,
+  "firstEpisode": 6,
+  "imageFile": "Haru.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/d/da/Haru.png/revision/latest?cb=20110104010244"
+ },
+ {
+  "name": "Tyro",
+  "requested": "Tyro",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Mining village, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Earth Kingdom",
+   "Hakoda's forces",
+   "\"Team Tyro\""
+  ],
+  "positions": [
+   "Resistance leader",
+   "Fire Nation prisoner"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "White",
+  "eyes": "Green",
+  "aliases": [],
+  "appearanceTitle": "Imprisoned",
+  "appearanceNote": null,
+  "firstEpisode": 6,
+  "imageFile": "Tyro during the invasion.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/8/88/Tyro_during_the_invasion.png/revision/latest?cb=20130609164844"
+ },
+ {
+  "name": "Jet",
+  "requested": "Jet",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Bihou, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Swords"
+  ],
+  "fightingStyleRaw": "Swordsmanship",
+  "weaponRaw": "Hook swords",
+  "affiliations": [
+   "Dai Li",
+   "Earth Kingdom",
+   "Freedom Fighters"
+  ],
+  "positions": [
+   "Leader of the Freedom Fighters"
+  ],
+  "age": 16,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Black",
+  "aliases": [],
+  "appearanceTitle": "Jet",
+  "appearanceNote": null,
+  "firstEpisode": 10,
+  "imageFile": "Jet.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/1/1e/Jet.png/revision/latest?cb=20150324102352"
+ },
+ {
+  "name": "Smellerbee",
+  "requested": "Smellerbee",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Northwestern Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Swords",
+   "Knives"
+  ],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Swords, daggers, knives",
+  "affiliations": [
+   "Earth Kingdom",
+   "Freedom Fighters",
+   "Silver Fangs"
+  ],
+  "positions": [
+   "Leader of the Freedom Fighters",
+   "Thief"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Black",
+  "aliases": [],
+  "appearanceTitle": "Jet",
+  "appearanceNote": null,
+  "firstEpisode": 10,
+  "imageFile": "Smellerbee.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/3/3a/Smellerbee.png/revision/latest?cb=20140413234450"
+ },
+ {
+  "name": "Longshot",
+  "requested": "Longshot",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Northwestern Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [
+   "Archery"
+  ],
+  "fightingStyleRaw": "Archery",
+  "weaponRaw": "Bow",
+  "affiliations": [
+   "Freedom Fighters",
+   "Silver Fangs"
+  ],
+  "positions": [
+   "Archer",
+   "Refugee"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Jet",
+  "appearanceNote": null,
+  "firstEpisode": 10,
+  "imageFile": "Longshot.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/e/e7/Longshot.png/revision/latest?cb=20140413233811"
+ },
+ {
+  "name": "Pipsqueak",
+  "requested": "Pipsqueak",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Wooden club",
+  "affiliations": [
+   "Earth Kingdom",
+   "Freedom Fighters",
+   "Hakoda's forces"
+  ],
+  "positions": [
+   "Strongarm"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Jet",
+  "appearanceNote": null,
+  "firstEpisode": 10,
+  "imageFile": "Pipsqueak.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/e/ef/Pipsqueak.png/revision/latest?cb=20130706005357"
+ },
+ {
+  "name": "The Duke",
+  "requested": "The Duke",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Earth Kingdom",
+   "Freedom Fighters",
+   "Hakoda's forces"
+  ],
+  "positions": [
+   "Sentry"
+  ],
+  "age": 8,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Jet",
+  "appearanceNote": null,
+  "firstEpisode": 10,
+  "imageFile": "The Duke.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/c/cd/The_Duke.png/revision/latest?cb=20130706011726"
+ },
+ {
+  "name": "Sneers",
+  "requested": "Sneers",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Axes",
+  "affiliations": [
+   "Earth Kingdom",
+   "Freedom Fighters",
+   "Yu Dao Resistance"
+  ],
+  "positions": [
+   "Scout"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Jet",
+  "appearanceNote": null,
+  "firstEpisode": 10,
+  "imageFile": "Sneers.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/6/65/Sneers.png/revision/latest?cb=20200728155533"
+ },
+ {
+  "name": "Oyaji",
+  "requested": "Oyaji",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Suki's village, Earth Kingdom",
+  "ethnicity": "Kyoshi Islander",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Kyoshi Island"
+  ],
+  "positions": [
+   "Village leader"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Warriors of Kyoshi",
+  "appearanceNote": null,
+  "firstEpisode": 4,
+  "imageFile": "Oyaji.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/42/Oyaji.png/revision/latest?cb=20130819103514"
+ },
+ {
+  "name": "Xin Fu",
+  "requested": "Xin Fu",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Earth Rumble",
+   "Lao Beifong"
+  ],
+  "positions": [
+   "Host and referee of Earth Rumble"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Gray",
+  "aliases": [],
+  "appearanceTitle": "The Blind Bandit",
+  "appearanceNote": null,
+  "firstEpisode": 26,
+  "imageFile": "Xin Fu.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/0/02/Xin_Fu.png/revision/latest?cb=20140317211615"
+ },
+ {
+  "name": "Yu",
+  "requested": "Yu",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Gaoling",
+   "His earthbending academy",
+   "Lao Beifong"
+  ],
+  "positions": [
+   "Earthbending master",
+   "Head of Master Yu's Earthbending Academy"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Black",
+  "aliases": [],
+  "appearanceTitle": "The Blind Bandit",
+  "appearanceNote": null,
+  "firstEpisode": 26,
+  "imageFile": "Yu.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/e/e2/Yu.png/revision/latest?cb=20140317211616"
+ },
+ {
+  "name": "Lao Beifong",
+  "requested": "Lao Beifong",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Beifong family",
+   "Cranefish Town Business Council",
+   "Earth Kingdom",
+   "Earthen Fire Industries"
+  ],
+  "positions": [
+   "Co-owner of the Earthen Fire Refinery",
+   "High class Earth Kingdom citizen",
+   "Member of the Cranefish Town Business Council"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Brown",
+  "aliases": [
+   "Boss Man"
+  ],
+  "appearanceTitle": "The Blind Bandit",
+  "appearanceNote": null,
+  "firstEpisode": 26,
+  "imageFile": "Lao Beifong.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/a/aa/Lao_Beifong.png/revision/latest?cb=20140317211137"
+ },
+ {
+  "name": "Poppy Beifong",
+  "requested": "Poppy Beifong",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Beifong family",
+   "Earth Kingdom"
+  ],
+  "positions": [
+   "High-class Earth Kingdom citizen"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Blind Bandit",
+  "appearanceNote": null,
+  "firstEpisode": 26,
+  "imageFile": "Poppy Beifong.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/c/c8/Poppy_Beifong.png/revision/latest?cb=20131231180143"
+ },
+ {
+  "name": "The Boulder",
+  "requested": "The Boulder",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Earth Kingdom",
+   "Earth Rumble"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Green",
+  "aliases": [
+   "The Pebble"
+  ],
+  "appearanceTitle": "The Blind Bandit",
+  "appearanceNote": null,
+  "firstEpisode": 26,
+  "imageFile": "The Boulder.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/7/70/The_Boulder.png/revision/latest?cb=20140317195145"
+ },
+ {
+  "name": "The Big Bad Hippo",
+  "requested": "The Big Bad Hippo",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Earth Kingdom",
+   "Earth Rumble"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "aliases": [],
+  "appearanceTitle": "The Blind Bandit",
+  "appearanceNote": null,
+  "firstEpisode": 26,
+  "imageFile": "The Big Bad Hippo.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/d/df/The_Big_Bad_Hippo.png/revision/latest?cb=20140317211139"
+ },
+ {
+  "name": "Fire Nation Man",
+  "requested": "Fire Nation Man",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Si Wong Desert, Earth Kingdom",
+  "ethnicity": "Si Wong",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Earth Kingdom",
+   "Earth Rumble",
+   "Si Wong tribes"
+  ],
+  "positions": [
+   "Heel"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Blind Bandit",
+  "appearanceNote": null,
+  "firstEpisode": 26,
+  "imageFile": "Fire Nation Man.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/46/Fire_Nation_Man.png/revision/latest?cb=20140317210008"
+ },
+ {
+  "name": "Song (villager)",
+  "requested": "Song (villager)",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Farming village, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Farming village hospital"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "aliases": [],
+  "appearanceTitle": "The Cave of Two Lovers",
+  "appearanceNote": null,
+  "firstEpisode": 22,
+  "imageFile": "Song.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/7/7e/Song.png/revision/latest?cb=20140128110439"
+ },
+ {
+  "name": "Lee",
+  "requested": "Lee",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Plains village, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Lee Family Pig Farm"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Green",
+  "aliases": [],
+  "appearanceTitle": "Zuko Alone",
+  "appearanceNote": null,
+  "firstEpisode": 27,
+  "imageFile": "Lee.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/5/50/Lee.png/revision/latest?cb=20140331143006"
+ },
+ {
+  "name": "Gow",
+  "requested": "Gow",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth, twin hammers",
+  "affiliations": [
+   "Earth Kingdom military"
+  ],
+  "positions": [
+   "Group leader"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Dark brown",
+  "eyes": "Light green",
+  "aliases": [],
+  "appearanceTitle": "Zuko Alone",
+  "appearanceNote": null,
+  "firstEpisode": 27,
+  "imageFile": "Gow.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/d/d9/Gow.png/revision/latest?cb=20140331143005"
+ },
+ {
+  "name": "Chong",
+  "requested": "Chong",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Trustfully in Love"
+  ],
+  "positions": [
+   "Nomad"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Dark brown",
+  "aliases": [],
+  "appearanceTitle": "The Cave of Two Lovers",
+  "appearanceNote": null,
+  "firstEpisode": 22,
+  "imageFile": "Chong.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/f/f8/Chong.png/revision/latest?cb=20140127210142"
+ },
+ {
+  "name": "Lily",
+  "requested": "Lily",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Trustfully in Love"
+  ],
+  "positions": [
+   "Nomad"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Brown",
+  "aliases": [],
+  "appearanceTitle": "The Cave of Two Lovers",
+  "appearanceNote": null,
+  "firstEpisode": 22,
+  "imageFile": "Lily.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/0/0a/Lily.png/revision/latest?cb=20140128105159"
+ },
+ {
+  "name": "Moku",
+  "requested": "Moku",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Trustfully in Love"
+  ],
+  "positions": [
+   "Nomad"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Cave of Two Lovers",
+  "appearanceNote": null,
+  "firstEpisode": 22,
+  "imageFile": "Moku.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/7/78/Moku.png/revision/latest?cb=20140128105200"
+ },
+ {
+  "name": "Fong",
+  "requested": "Fong",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Earth Kingdom military"
+  ],
+  "positions": [
+   "General"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "aliases": [],
+  "appearanceTitle": "The Avatar State",
+  "appearanceNote": null,
+  "firstEpisode": 21,
+  "imageFile": "Fong.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/0/08/Fong.png/revision/latest?cb=20130625120143"
+ },
+ {
+  "name": "How",
+  "requested": "How",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Earth Kingdom Army",
+   "Council of Five"
+  ],
+  "positions": [
+   "Top general",
+   "Leader of the Earth Kingdom military",
+   "Leader of the Council of Five",
+   "Chief military adviser of the Earth King"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Earth King",
+  "appearanceNote": null,
+  "firstEpisode": 38,
+  "imageFile": "How.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/5/54/How.png/revision/latest?cb=20130627093056"
+ },
+ {
+  "name": "Than",
+  "requested": "Than",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Earth Kingdom"
+  ],
+  "positions": [
+   "Refugee"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Zuko Alone",
+  "appearanceNote": null,
+  "firstEpisode": 27,
+  "imageFile": "Than.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/8/85/Than.png/revision/latest?cb=20140413234452"
+ },
+ {
+  "name": "Ying",
+  "requested": "Ying",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Earth Kingdom"
+  ],
+  "positions": [
+   "Refugee"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Zuko Alone",
+  "appearanceNote": null,
+  "firstEpisode": 27,
+  "imageFile": "Ying.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/7/76/Ying.png/revision/latest?cb=20140413234455"
+ },
+ {
+  "name": "Wu (fortuneteller)",
+  "requested": "Wu (fortuneteller)",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Earth Kingdom"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Fortuneteller",
+  "appearanceNote": null,
+  "firstEpisode": 14,
+  "imageFile": "Aunt Wu.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/c/c9/Aunt_Wu.png/revision/latest?cb=20130626124117"
+ },
+ {
+  "name": "Meng",
+  "requested": "Meng",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Makapu Village, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Aunt Wu's Fortune Salon",
+   "Earth Kingdom"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Fortuneteller",
+  "appearanceNote": null,
+  "firstEpisode": 14,
+  "imageFile": "Meng.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/42/Meng.png/revision/latest?cb=20130814090639"
+ },
+ {
+  "name": "Kyoshi",
+  "requested": "Kyoshi",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Air Nomad-Earth Kingdom",
+  "bending": "Avatar",
+  "elements": [
+   "Earth",
+   "Fire",
+   "Air",
+   "Water"
+  ],
+  "skills": [
+   "War fans"
+  ],
+  "fightingStyleRaw": "Earthbending, firebending, airbending, waterbending, lavabending, tessenjutsu",
+  "weaponRaw": "The elements, war fans",
+  "affiliations": [
+   "Flying Opera Company",
+   "Kyoshi Island inhabitants",
+   "Anti-Corruption Task Force"
+  ],
+  "positions": [
+   "Founder of the Kyoshi Warriors, Dai Li and Anti-Corruption Task Force",
+   "Fully realized Avatar",
+   "Governor of Kyoshi Island",
+   "Leader of the Flying Opera Company"
+  ],
+  "age": 16,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Dark green",
+  "aliases": [],
+  "appearanceTitle": "The Avatar State",
+  "appearanceNote": "vision",
+  "firstEpisode": 21,
+  "imageFile": "Kyoshi.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/3/39/Kyoshi.png/revision/latest?cb=20230729120809"
+ },
+ {
+  "name": "Mechanist",
+  "requested": "Mechanist",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Earth Kingdom",
+   "Fire Nation"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Northern Air Temple",
+  "appearanceNote": null,
+  "firstEpisode": 17,
+  "imageFile": "Mechanist.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/b/b7/Mechanist.png/revision/latest?cb=20140118124602"
+ },
+ {
+  "name": "Teo",
+  "requested": "Teo",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Earth Kingdom"
+  ],
+  "positions": [],
+  "age": 13,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Northern Air Temple",
+  "appearanceNote": null,
+  "firstEpisode": 17,
+  "imageFile": "Teo.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/7/77/Teo.png/revision/latest?cb=20140118125457"
+ },
+ {
+  "name": "Zei",
+  "requested": "Zei",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Ba Sing Se University",
+   "Earth Kingdom"
+  ],
+  "positions": [
+   "Department head"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "aliases": [],
+  "appearanceTitle": "The Library",
+  "appearanceNote": null,
+  "firstEpisode": 30,
+  "imageFile": "Zei.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/b/b0/Zei.png/revision/latest?cb=20140404204805"
+ },
+ {
+  "name": "June",
+  "requested": "June",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Whip",
+  "affiliations": [
+   "Jasmine Dragon"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Gray",
+  "aliases": [],
+  "appearanceTitle": "Bato of the Water Tribe",
+  "appearanceNote": null,
+  "firstEpisode": 15,
+  "imageFile": "June.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/e/ea/June.png/revision/latest?cb=20130626132827"
+ },
+ {
+  "name": "Foaming mouth guy",
+  "requested": "Foaming mouth guy",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Suki's village, Earth Kingdom",
+  "ethnicity": "Kyoshi Islander",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Dark",
+  "aliases": [],
+  "appearanceTitle": "The Warriors of Kyoshi",
+  "appearanceNote": null,
+  "firstEpisode": 4,
+  "imageFile": "Foaming mouth guy.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/1/12/Foaming_mouth_guy.png/revision/latest?cb=20140215111856"
+ },
+ {
+  "name": "Cabbage merchant",
+  "requested": "Cabbage merchant",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Gaoling, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Cabbage Corp",
+   "Earth Kingdom"
+  ],
+  "positions": [
+   "Founder of Cabbage Corp",
+   "Owner of \"Cabbage Delicacies Bistro\""
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": "Dark brown",
+  "aliases": [
+   "Cabbage merchant"
+  ],
+  "appearanceTitle": "The King of Omashu",
+  "appearanceNote": null,
+  "firstEpisode": 5,
+  "imageFile": "Cabbage merchant.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/2/2f/Cabbage_merchant.png/revision/latest?cb=20140112200908"
+ },
+ {
+  "name": "Sha-Mo",
+  "requested": "Sha-Mo",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Si Wong Desert, Earth Kingdom",
+  "ethnicity": "Si Wong",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [
+   "Sandbending"
+  ],
+  "fightingStyleRaw": "Sandbending",
+  "weaponRaw": "Sand",
+  "affiliations": [
+   "Si Wong tribes"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Brown",
+  "aliases": [],
+  "appearanceTitle": "The Desert",
+  "appearanceNote": null,
+  "firstEpisode": 31,
+  "imageFile": "Sha-Mo.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/9/9f/Sha-Mo.png/revision/latest?cb=20260512022246"
+ },
+ {
+  "name": "Ghashiun",
+  "requested": "Ghashiun",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Si Wong Desert, Earth Kingdom",
+  "ethnicity": "Si Wong",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [
+   "Sandbending"
+  ],
+  "fightingStyleRaw": "Sandbending",
+  "weaponRaw": "Sand",
+  "affiliations": [
+   "Si Wong tribes"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Library",
+  "appearanceNote": null,
+  "firstEpisode": 30,
+  "imageFile": "Ghashiun.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/9/98/Ghashiun.png/revision/latest?cb=20130705103954"
+ },
+ {
+  "name": "Sud",
+  "requested": "Sud",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Earth Kingdom"
+  ],
+  "positions": [
+   "Earthbending master"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Dark brown",
+  "eyes": "Light brown",
+  "aliases": [],
+  "appearanceTitle": "The Avatar and the Fire Lord",
+  "appearanceNote": null,
+  "firstEpisode": 46,
+  "imageFile": "Sud.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/d/d1/Sud.png/revision/latest?cb=20130110111840"
+ },
+ {
+  "name": "Jin",
+  "requested": "Jin",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Daying, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Guan family",
+   "Silver Fangs",
+   "Wen Bakery"
+  ],
+  "positions": [
+   "Refugee",
+   "Literature student",
+   "Silver Fangs agent"
+  ],
+  "age": 16,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Dark olive green",
+  "aliases": [
+   "\"Huajin\""
+  ],
+  "appearanceTitle": "The Tales of Ba Sing Se",
+  "appearanceNote": null,
+  "firstEpisode": 35,
+  "imageFile": "Jin.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/0/08/Jin.png/revision/latest?cb=20140504182006"
+ },
+ {
+  "name": "Quon",
+  "requested": "Quon",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [],
+  "positions": [
+   "Patron of the Jasmine Dragon",
+   "High class Earth Kingdom citizen"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Gray",
+  "aliases": [],
+  "appearanceTitle": "Lake Laogai",
+  "appearanceNote": null,
+  "firstEpisode": 37,
+  "imageFile": "Quon.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/8/8a/Quon.png/revision/latest?cb=20130701091130"
+ },
+ {
+  "name": "Pao",
+  "requested": "Pao",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Ba Sing Se, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Pao Family Tea House"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [
+   "\"Rat-beetle\""
+  ],
+  "appearanceTitle": "City of Walls and Secrets",
+  "appearanceNote": null,
+  "firstEpisode": 34,
+  "imageFile": "Pao.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/45/Pao.png/revision/latest?cb=20140422090645"
+ },
+ {
+  "name": "Ding",
+  "requested": "Ding",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Hama's village, Fire Nation",
+  "ethnicity": "Fire Nation",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [],
+  "positions": [],
+  "age": 67,
+  "bioAge": null,
+  "hair": "Gray",
+  "eyes": null,
+  "aliases": [
+   "Old Man Ding"
+  ],
+  "appearanceTitle": "The Puppetmaster",
+  "appearanceNote": null,
+  "firstEpisode": 48,
+  "imageFile": "Ding.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/e/ef/Ding.png/revision/latest?cb=20140903132916"
+ },
+ {
+  "name": "Sela",
+  "requested": "Sela",
+  "gender": "Female",
+  "nation": "Earth Kingdom",
+  "origin": "Plains village, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Lee Family Pig Farm"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": "Brown",
+  "aliases": [],
+  "appearanceTitle": "Zuko Alone",
+  "appearanceNote": null,
+  "firstEpisode": 27,
+  "imageFile": "Sela.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/5/5c/Sela.png/revision/latest?cb=20140331143654"
+ },
+ {
+  "name": "Gansu",
+  "requested": "Gansu",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Plains village, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Lee Family Pig Farm"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Zuko Alone",
+  "appearanceNote": null,
+  "firstEpisode": 27,
+  "imageFile": "Gansu.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/b/b9/Gansu.png/revision/latest?cb=20140331143004"
+ },
+ {
+  "name": "Canyon guide",
+  "requested": "Canyon guide",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Earthbender",
+  "elements": [
+   "Earth"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Earthbending",
+  "weaponRaw": "Earth",
+  "affiliations": [
+   "Earth Kingdom"
+  ],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "White",
+  "eyes": "Green",
+  "aliases": [],
+  "appearanceTitle": "The Great Divide",
+  "appearanceNote": null,
+  "firstEpisode": 11,
+  "imageFile": "Canyon guide.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/d/db/Canyon_guide.png/revision/latest?cb=20131202201055"
+ },
+ {
+  "name": "Flopsie",
+  "requested": "Flopsie",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Omashu, Earth Kingdom",
+  "ethnicity": "Earth Kingdom",
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [],
+  "positions": [
+   "King Bumi's pet"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Cream",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The King of Omashu",
+  "appearanceNote": null,
+  "firstEpisode": 5,
+  "imageFile": "Goat gorilla.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/4c/Goat_gorilla.png/revision/latest?cb=20130706150318"
+ },
+ {
+  "name": "Nyla",
+  "requested": "Nyla",
+  "gender": "Male",
+  "nation": "Earth Kingdom",
+  "origin": "Earth Kingdom",
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Tongue, claws",
+  "affiliations": [],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": "Brown with a streak of black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Bato of the Water Tribe",
+  "appearanceNote": null,
+  "firstEpisode": 15,
+  "imageFile": "Shirshu.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/7/71/Shirshu.png/revision/latest?cb=20130626132120"
+ },
+ {
+  "name": "Gyatso",
+  "requested": "Gyatso",
+  "gender": "Male",
+  "nation": "Air Nomads",
+  "origin": "Southern Air Temple",
+  "ethnicity": "Air Nomad",
+  "bending": "Airbender",
+  "elements": [
+   "Air"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Airbending",
+  "weaponRaw": "Air, airbender staff",
+  "affiliations": [
+   "Air Nomads",
+   "Council of Elders",
+   "Fire & Air Center of Learning"
+  ],
+  "positions": [
+   "Airbending master",
+   "Council Elder",
+   "Leader of the Fire & Air Center of Learning",
+   "High Monk"
+  ],
+  "age": 82,
+  "bioAge": null,
+  "hair": "Black, later white",
+  "eyes": "Light brown",
+  "aliases": [],
+  "appearanceTitle": "The Southern Air Temple",
+  "appearanceNote": null,
+  "firstEpisode": 3,
+  "imageFile": "Monk Gyatso.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/a/a4/Monk_Gyatso.png/revision/latest?cb=20140103203807"
+ },
+ {
+  "name": "Yangchen",
+  "requested": "Yangchen",
+  "gender": "Female",
+  "nation": "Air Nomads",
+  "origin": "Western Air Temple",
+  "ethnicity": "Air Nomad",
+  "bending": "Avatar",
+  "elements": [
+   "Air",
+   "Water",
+   "Earth",
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Airbending, waterbending, earthbending, firebending",
+  "weaponRaw": "The elements",
+  "affiliations": [
+   "Yangchen's network"
+  ],
+  "positions": [
+   "Captain of the Western Novice Airball Team",
+   "Fully realized Avatar",
+   "Protector of Bin-Er, Jonduri, Port Tuugaq, and Taku"
+  ],
+  "age": 17,
+  "bioAge": null,
+  "hair": "Brown",
+  "eyes": "Gray",
+  "aliases": [
+   "Great Yangchen",
+   "Little egg"
+  ],
+  "appearanceTitle": "The Avatar State",
+  "appearanceNote": "vision",
+  "firstEpisode": 21,
+  "imageFile": "Yangchen.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/d/db/Yangchen.png/revision/latest?cb=20220324195813"
+ },
+ {
+  "name": "Tashi",
+  "requested": "Tashi",
+  "gender": null,
+  "nation": "Air Nomads",
+  "origin": "Southern Air Temple",
+  "ethnicity": "Air Nomad",
+  "bending": "Airbender",
+  "elements": [
+   "Air"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Airbending",
+  "weaponRaw": "Air",
+  "affiliations": [
+   "Air Nomads",
+   "Council of Elders"
+  ],
+  "positions": [
+   "Airbending master",
+   "Council Elder",
+   "High Monk"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "White",
+  "eyes": "Gray",
+  "aliases": [
+   "\"Dour Monk\""
+  ],
+  "appearanceTitle": "The Southern Air Temple",
+  "appearanceNote": null,
+  "firstEpisode": 3,
+  "imageFile": "Tashi.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/3/35/Tashi.png/revision/latest?cb=20130714155745"
+ },
+ {
+  "name": "Pathik",
+  "requested": "Pathik",
+  "gender": "Male",
+  "nation": "neutral",
+  "origin": null,
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [],
+  "positions": [
+   "Avatar Aang's spiritual mentor",
+   "Spiritual expert"
+  ],
+  "age": 150,
+  "bioAge": null,
+  "hair": "White",
+  "eyes": "Green",
+  "aliases": [],
+  "appearanceTitle": "Appa's Lost Days",
+  "appearanceNote": null,
+  "firstEpisode": 36,
+  "imageFile": "Guru Pathik.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/9/91/Guru_Pathik.png/revision/latest?cb=20140510202641"
+ },
+ {
+  "name": "Wan Shi Tong",
+  "requested": "Wan Shi Tong",
+  "gender": "Male",
+  "nation": "Spirit World",
+  "origin": null,
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Talons and beak",
+  "affiliations": [
+   "Wan Shi Tong's Library"
+  ],
+  "positions": [
+   "Knowledge spirit"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": null,
+  "eyes": "Black",
+  "aliases": [
+   "Great Wan Shi Tong"
+  ],
+  "appearanceTitle": "The Library",
+  "appearanceNote": null,
+  "firstEpisode": 30,
+  "imageFile": "Wan Shi Tong.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/4c/Wan_Shi_Tong.png/revision/latest?cb=20140404204804"
+ },
+ {
+  "name": "Koh",
+  "requested": "Koh",
+  "gender": "Male",
+  "nation": "Spirit World",
+  "origin": null,
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Spirit World"
+  ],
+  "positions": [
+   "Ancient spirit"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Changes with face",
+  "eyes": "Changes with face",
+  "aliases": [],
+  "appearanceTitle": "The Siege of the North, Part 2",
+  "appearanceNote": null,
+  "firstEpisode": 20,
+  "imageFile": "Koh the Face Stealer.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/4/4f/Koh_the_Face_Stealer.png/revision/latest?cb=20251121221047"
+ },
+ {
+  "name": "Hei Bai",
+  "requested": "Hei Bai",
+  "gender": "Male",
+  "nation": "Spirit World",
+  "origin": null,
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "Sonic screams",
+  "affiliations": [
+   "Spirit World"
+  ],
+  "positions": [
+   "Forest spirit"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "White and black",
+  "eyes": null,
+  "aliases": [
+   "Black and White Spirit"
+  ],
+  "appearanceTitle": "Winter Solstice, Part 1: The Spirit World",
+  "appearanceNote": null,
+  "firstEpisode": 7,
+  "imageFile": "Calm Hei Bai.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/b/b2/Calm_Hei_Bai.png/revision/latest?cb=20140124170913"
+ },
+ {
+  "name": "Tui",
+  "requested": "Tui",
+  "gender": null,
+  "nation": "Spirit World",
+  "origin": null,
+  "ethnicity": null,
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Waterbending",
+  "weaponRaw": "Water",
+  "affiliations": [
+   "Spirit World",
+   "Water Tribe"
+  ],
+  "positions": [
+   "Moon Spirit"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": null,
+  "eyes": null,
+  "aliases": [
+   "Moon Spirit"
+  ],
+  "appearanceTitle": "The Siege of the North, Part 1",
+  "appearanceNote": null,
+  "firstEpisode": 19,
+  "imageFile": "Tui.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/9/99/Tui.png/revision/latest?cb=20140122221307"
+ },
+ {
+  "name": "La",
+  "requested": "La",
+  "gender": "Male",
+  "nation": "Spirit World",
+  "origin": null,
+  "ethnicity": null,
+  "bending": "Waterbender",
+  "elements": [
+   "Water"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Waterbending",
+  "weaponRaw": "Water",
+  "affiliations": [
+   "Spirit World",
+   "Water Tribe"
+  ],
+  "positions": [
+   "Ocean Spirit"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": null,
+  "eyes": null,
+  "aliases": [
+   "Ocean Spirit"
+  ],
+  "appearanceTitle": "The Siege of the North, Part 1",
+  "appearanceNote": null,
+  "firstEpisode": 19,
+  "imageFile": "La.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/3/32/La.png/revision/latest?cb=20140124171520"
+ },
+ {
+  "name": "Lion turtle",
+  "requested": "Lion turtle",
+  "gender": null,
+  "nation": "neutral",
+  "origin": null,
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [],
+  "positions": [],
+  "age": null,
+  "bioAge": null,
+  "hair": null,
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "Sozin's Comet, Part 2: The Old Masters",
+  "appearanceNote": null,
+  "firstEpisode": 59,
+  "imageFile": "Lion turtle spread.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/3/33/Lion_turtle_spread.png/revision/latest?cb=20260522040421"
+ },
+ {
+  "name": "Fang",
+  "requested": "Fang",
+  "gender": "Male",
+  "nation": "Fire Nation",
+  "origin": "Fire Nation",
+  "ethnicity": null,
+  "bending": "Firebender",
+  "elements": [
+   "Fire"
+  ],
+  "skills": [],
+  "fightingStyleRaw": "Firebending",
+  "weaponRaw": "Fire, claws, teeth",
+  "affiliations": [],
+  "positions": [
+   "Roku's dragon"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": null,
+  "eyes": "Gold",
+  "aliases": [],
+  "appearanceTitle": "Winter Solstice, Part 1: The Spirit World",
+  "appearanceNote": "as a spirit",
+  "firstEpisode": 7,
+  "imageFile": "Fang.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/c/c3/Fang.png/revision/latest?cb=20121217082142"
+ },
+ {
+  "name": "Painted Lady",
+  "requested": "Painted Lady",
+  "gender": "Female",
+  "nation": "Spirit World",
+  "origin": null,
+  "ethnicity": null,
+  "bending": "Non-bender",
+  "elements": [],
+  "skills": [],
+  "fightingStyleRaw": "",
+  "weaponRaw": "",
+  "affiliations": [
+   "Spirit World"
+  ],
+  "positions": [
+   "River spirit"
+  ],
+  "age": null,
+  "bioAge": null,
+  "hair": "Black",
+  "eyes": null,
+  "aliases": [],
+  "appearanceTitle": "The Painted Lady",
+  "appearanceNote": null,
+  "firstEpisode": 43,
+  "imageFile": "Painted Lady.png",
+  "image": "https://static.wikia.nocookie.net/avatar/images/8/80/Painted_Lady.png/revision/latest?cb=20140613143544"
+ }
+]

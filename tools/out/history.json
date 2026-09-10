@@ -1,0 +1,160 @@
+{
+ "Zuko": {
+  "affiliation": [
+   {
+    "value": "Team Avatar",
+    "episode": 52
+   },
+   {
+    "value": "Fire Nation Royal Family",
+    "episode": 1
+   }
+  ],
+  "skills": [
+   {
+    "value": "Lightning redirection",
+    "episode": 29
+   },
+   {
+    "value": "Swords",
+    "episode": 13
+   }
+  ]
+ },
+ "Iroh": {
+  "affiliation": [
+   {
+    "value": "Order of the White Lotus",
+    "episode": 59
+   },
+   {
+    "value": "Fire Nation Royal Family",
+    "episode": 1
+   }
+  ],
+  "skills": [
+   {
+    "value": "Lightning redirection",
+    "episode": 21
+   },
+   {
+    "value": "Lightning",
+    "episode": 21
+   }
+  ]
+ },
+ "Piandao": {
+  "affiliation": [
+   {
+    "value": "Order of the White Lotus",
+    "episode": 59
+   },
+   {
+    "value": "Fire Nation",
+    "episode": 44
+   }
+  ]
+ },
+ "Jeong Jeong": {
+  "affiliation": [
+   {
+    "value": "Order of the White Lotus",
+    "episode": 59
+   },
+   {
+    "value": "Fire Nation military",
+    "episode": 16
+   }
+  ]
+ },
+ "Suki": {
+  "affiliation": [
+   {
+    "value": "Team Avatar",
+    "episode": 55
+   },
+   {
+    "value": "Kyoshi Warriors",
+    "episode": 4
+   }
+  ]
+ },
+ "Toph Beifong": {
+  "affiliation": [
+   {
+    "value": "Team Avatar",
+    "episode": 26
+   },
+   {
+    "value": "Beifong family",
+    "episode": 24
+   }
+  ],
+  "skills": [
+   {
+    "value": "Metalbending",
+    "episode": 40
+   },
+   {
+    "value": "Seismic sense",
+    "episode": 26
+   }
+  ]
+ },
+ "Katara": {
+  "skills": [
+   {
+    "value": "Bloodbending",
+    "episode": 48
+   },
+   {
+    "value": "Healing",
+    "episode": 18
+   }
+  ]
+ },
+ "Sokka": {
+  "skills": [
+   {
+    "value": "Swords",
+    "episode": 44
+   },
+   {
+    "value": "Boomerang",
+    "episode": 1
+   }
+  ]
+ },
+ "Aang": {
+  "skills": [
+   {
+    "value": "Energybending",
+    "episode": 61
+   }
+  ]
+ },
+ "Azula": {
+  "skills": [
+   {
+    "value": "Lightning",
+    "episode": 21
+   }
+  ]
+ },
+ "Ozai": {
+  "skills": [
+   {
+    "value": "Lightning",
+    "episode": 51
+   }
+  ]
+ },
+ "Lion turtle": {
+  "skills": [
+   {
+    "value": "Energybending",
+    "episode": 59
+   }
+  ]
+ }
+}

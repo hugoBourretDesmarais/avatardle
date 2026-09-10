@@ -1,0 +1,78 @@
+128 characters
+
+== affiliation ==
+   19  Earth Kingdom
+   15  Fire Nation
+    9  Fire Nation military
+    8  Team Avatar
+    7  Spirit World
+    6  Northern Water Tribe
+    6  Fire Nation Royal Family
+    6  Ba Sing Se
+    6  Freedom Fighters
+    5  Southern Water Tribe
+    5  Rough Rhinos
+    4  Earth Rumble
+    4  Air Nomads
+    3  Foggy Swamp Tribe
+    3  Kyoshi Island
+    3  Earth Kingdom military
+    3  Sun Warriors
+    3  Order of the White Lotus
+    2  Omashu
+    2  Si Wong tribes
+    2  Dai Li
+    2  Beifong family
+    2  Azula's team
+    2  Northern Air Temple
+    1  Fire Sages
+== nation ==
+   53  Earth Kingdom
+   45  Fire Nation
+   16  Water Tribe
+    7  Spirit World
+    6  Air Nomads
+    1  Unknown
+== bending ==
+   71  Non-bender
+   24  Firebender
+   18  Earthbender
+    7  Waterbender
+    5  Avatar
+    3  Airbender
+== hair ==
+   45  Brown
+   40  Black
+   17  Gray
+   13  White
+    7  None
+    5  Bald
+    1  Auburn
+== gender ==
+   94  Male
+   32  Female
+    2  Unknown
+== skills ==
+    5  Swords
+    3  Lightning
+    2  Energybending
+    2  Sandbending
+    2  Bloodbending
+    2  Lightning redirection
+    2  Healing
+    2  War fans
+    2  Archery
+    2  Knives
+    1  Combustion
+    1  Plantbending
+    1  Lavabending
+    1  Boomerang
+    1  Metalbending
+    1  Seismic sense
+    1  Chi-blocking
+== first book ==
+   53  Book 1
+   53  Book 2
+   22  Book 3
+
+== problems / notes ==

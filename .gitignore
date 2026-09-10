@@ -1,0 +1,9 @@
+.DS_Store
+.env.local
+api/.wrangler
+api/node_modules
+dist
+node_modules
+tools/cache
+tools/out/dossier
+__pycache__/

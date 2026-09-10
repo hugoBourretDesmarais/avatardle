@@ -1,0 +1,26 @@
+[
+ {
+  "slug": "southern-air-temple",
+  "label": "Southern Air Temple"
+ },
+ {
+  "slug": "northern-water-tribe",
+  "label": "Northern Water Tribe"
+ },
+ {
+  "slug": "ba-sing-se",
+  "label": "Ba Sing Se"
+ },
+ {
+  "slug": "fire-nation-capital",
+  "label": "Fire Nation Capital"
+ },
+ {
+  "slug": "foggy-swamp",
+  "label": "Foggy Swamp"
+ },
+ {
+  "slug": "spirit-world",
+  "label": "Spirit World"
+ }
+]

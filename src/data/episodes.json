@@ -1,0 +1,368 @@
+[
+ {
+  "n": 1,
+  "book": 1,
+  "ep": 1,
+  "title": "The Boy in the Iceberg"
+ },
+ {
+  "n": 2,
+  "book": 1,
+  "ep": 2,
+  "title": "The Avatar Returns"
+ },
+ {
+  "n": 3,
+  "book": 1,
+  "ep": 3,
+  "title": "The Southern Air Temple"
+ },
+ {
+  "n": 4,
+  "book": 1,
+  "ep": 4,
+  "title": "The Warriors of Kyoshi"
+ },
+ {
+  "n": 5,
+  "book": 1,
+  "ep": 5,
+  "title": "The King of Omashu"
+ },
+ {
+  "n": 6,
+  "book": 1,
+  "ep": 6,
+  "title": "Imprisoned"
+ },
+ {
+  "n": 7,
+  "book": 1,
+  "ep": 7,
+  "title": "Winter Solstice, Part 1: The Spirit World"
+ },
+ {
+  "n": 8,
+  "book": 1,
+  "ep": 8,
+  "title": "Winter Solstice, Part 2: Avatar Roku"
+ },
+ {
+  "n": 9,
+  "book": 1,
+  "ep": 9,
+  "title": "The Waterbending Scroll"
+ },
+ {
+  "n": 10,
+  "book": 1,
+  "ep": 10,
+  "title": "Jet"
+ },
+ {
+  "n": 11,
+  "book": 1,
+  "ep": 11,
+  "title": "The Great Divide"
+ },
+ {
+  "n": 12,
+  "book": 1,
+  "ep": 12,
+  "title": "The Storm"
+ },
+ {
+  "n": 13,
+  "book": 1,
+  "ep": 13,
+  "title": "The Blue Spirit"
+ },
+ {
+  "n": 14,
+  "book": 1,
+  "ep": 14,
+  "title": "The Fortuneteller"
+ },
+ {
+  "n": 15,
+  "book": 1,
+  "ep": 15,
+  "title": "Bato of the Water Tribe"
+ },
+ {
+  "n": 16,
+  "book": 1,
+  "ep": 16,
+  "title": "The Deserter"
+ },
+ {
+  "n": 17,
+  "book": 1,
+  "ep": 17,
+  "title": "The Northern Air Temple"
+ },
+ {
+  "n": 18,
+  "book": 1,
+  "ep": 18,
+  "title": "The Waterbending Master"
+ },
+ {
+  "n": 19,
+  "book": 1,
+  "ep": 19,
+  "title": "The Siege of the North, Part 1"
+ },
+ {
+  "n": 20,
+  "book": 1,
+  "ep": 20,
+  "title": "The Siege of the North, Part 2"
+ },
+ {
+  "n": 21,
+  "book": 2,
+  "ep": 1,
+  "title": "The Avatar State"
+ },
+ {
+  "n": 22,
+  "book": 2,
+  "ep": 2,
+  "title": "The Cave of Two Lovers"
+ },
+ {
+  "n": 23,
+  "book": 2,
+  "ep": 3,
+  "title": "Return to Omashu"
+ },
+ {
+  "n": 24,
+  "book": 2,
+  "ep": 4,
+  "title": "The Swamp"
+ },
+ {
+  "n": 25,
+  "book": 2,
+  "ep": 5,
+  "title": "Avatar Day"
+ },
+ {
+  "n": 26,
+  "book": 2,
+  "ep": 6,
+  "title": "The Blind Bandit"
+ },
+ {
+  "n": 27,
+  "book": 2,
+  "ep": 7,
+  "title": "Zuko Alone"
+ },
+ {
+  "n": 28,
+  "book": 2,
+  "ep": 8,
+  "title": "The Chase"
+ },
+ {
+  "n": 29,
+  "book": 2,
+  "ep": 9,
+  "title": "Bitter Work"
+ },
+ {
+  "n": 30,
+  "book": 2,
+  "ep": 10,
+  "title": "The Library"
+ },
+ {
+  "n": 31,
+  "book": 2,
+  "ep": 11,
+  "title": "The Desert"
+ },
+ {
+  "n": 32,
+  "book": 2,
+  "ep": 12,
+  "title": "The Serpent's Pass"
+ },
+ {
+  "n": 33,
+  "book": 2,
+  "ep": 13,
+  "title": "The Drill"
+ },
+ {
+  "n": 34,
+  "book": 2,
+  "ep": 14,
+  "title": "City of Walls and Secrets"
+ },
+ {
+  "n": 35,
+  "book": 2,
+  "ep": 15,
+  "title": "The Tales of Ba Sing Se"
+ },
+ {
+  "n": 36,
+  "book": 2,
+  "ep": 16,
+  "title": "Appa's Lost Days"
+ },
+ {
+  "n": 37,
+  "book": 2,
+  "ep": 17,
+  "title": "Lake Laogai"
+ },
+ {
+  "n": 38,
+  "book": 2,
+  "ep": 18,
+  "title": "The Earth King"
+ },
+ {
+  "n": 39,
+  "book": 2,
+  "ep": 19,
+  "title": "The Guru"
+ },
+ {
+  "n": 40,
+  "book": 2,
+  "ep": 20,
+  "title": "The Crossroads of Destiny"
+ },
+ {
+  "n": 41,
+  "book": 3,
+  "ep": 1,
+  "title": "The Awakening"
+ },
+ {
+  "n": 42,
+  "book": 3,
+  "ep": 2,
+  "title": "The Headband"
+ },
+ {
+  "n": 43,
+  "book": 3,
+  "ep": 3,
+  "title": "The Painted Lady"
+ },
+ {
+  "n": 44,
+  "book": 3,
+  "ep": 4,
+  "title": "Sokka's Master"
+ },
+ {
+  "n": 45,
+  "book": 3,
+  "ep": 5,
+  "title": "The Beach"
+ },
+ {
+  "n": 46,
+  "book": 3,
+  "ep": 6,
+  "title": "The Avatar and the Fire Lord"
+ },
+ {
+  "n": 47,
+  "book": 3,
+  "ep": 7,
+  "title": "The Runaway"
+ },
+ {
+  "n": 48,
+  "book": 3,
+  "ep": 8,
+  "title": "The Puppetmaster"
+ },
+ {
+  "n": 49,
+  "book": 3,
+  "ep": 9,
+  "title": "Nightmares and Daydreams"
+ },
+ {
+  "n": 50,
+  "book": 3,
+  "ep": 10,
+  "title": "The Day of Black Sun, Part 1: The Invasion"
+ },
+ {
+  "n": 51,
+  "book": 3,
+  "ep": 11,
+  "title": "The Day of Black Sun, Part 2: The Eclipse"
+ },
+ {
+  "n": 52,
+  "book": 3,
+  "ep": 12,
+  "title": "The Western Air Temple"
+ },
+ {
+  "n": 53,
+  "book": 3,
+  "ep": 13,
+  "title": "The Firebending Masters"
+ },
+ {
+  "n": 54,
+  "book": 3,
+  "ep": 14,
+  "title": "The Boiling Rock, Part 1"
+ },
+ {
+  "n": 55,
+  "book": 3,
+  "ep": 15,
+  "title": "The Boiling Rock, Part 2"
+ },
+ {
+  "n": 56,
+  "book": 3,
+  "ep": 16,
+  "title": "The Southern Raiders"
+ },
+ {
+  "n": 57,
+  "book": 3,
+  "ep": 17,
+  "title": "The Ember Island Players"
+ },
+ {
+  "n": 58,
+  "book": 3,
+  "ep": 18,
+  "title": "Sozin's Comet, Part 1: The Phoenix King"
+ },
+ {
+  "n": 59,
+  "book": 3,
+  "ep": 19,
+  "title": "Sozin's Comet, Part 2: The Old Masters"
+ },
+ {
+  "n": 60,
+  "book": 3,
+  "ep": 20,
+  "title": "Sozin's Comet, Part 3: Into the Inferno"
+ },
+ {
+  "n": 61,
+  "book": 3,
+  "ep": 21,
+  "title": "Sozin's Comet, Part 4: Avatar Aang"
+ }
+]
