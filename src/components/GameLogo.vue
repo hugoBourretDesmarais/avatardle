@@ -18,11 +18,18 @@ const MAX_W = 612
 const BASE_SIZE = 118
 const probe = ref(null)
 const size = ref(BASE_SIZE)
+// Splitting the word into one tspan per letter loses the kerning the stroked
+// copies keep, so each fill letter is pinned to where the unsplit run puts it.
+const xs = ref(null)
 
 function fit() {
-  const w = probe.value?.getComputedTextLength?.()
+  const el = probe.value
+  const w = el?.getComputedTextLength?.()
   if (!w) return
   size.value = Math.min(BASE_SIZE, Math.floor(BASE_SIZE * MAX_W / w * 100) / 100)
+  const k = size.value / BASE_SIZE
+  const x0 = el.getStartPositionOfChar(0).x
+  xs.value = LETTERS.map((_, i) => TX + (el.getStartPositionOfChar(i).x - x0) * k)
 }
 onMounted(() => {
   fit()
@@ -156,7 +163,7 @@ const fillFor = i => CYCLE[i % CYCLE.length]
           <text class="t" :x="TX" y="112"
             fill="none" stroke="#fdf3dc" stroke-width="13" stroke-linejoin="round">{{ WORD }}</text>
           <text class="t" :x="TX" y="112">
-            <tspan v-for="(ch, i) in LETTERS" :key="i" :fill="fillFor(i)">{{ ch }}</tspan>
+            <tspan v-for="(ch, i) in LETTERS" :key="i" :x="xs?.[i]" :fill="fillFor(i)">{{ ch }}</tspan>
           </text>
         </g>
 
