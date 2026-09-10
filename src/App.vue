@@ -285,13 +285,10 @@ onUnmounted(() => {
   clearTimeout(revealTimer)
 })
 
-// Rotates the backdrop once a day so the page doesn't look static day to day.
+// The world map is the everyday backdrop; ?bg=1..6 previews the painted scenes.
 const bgSeed = computed(() => {
-  // ?bg=0..4 forces a palette, for previewing the other times of day
   const forced = Number(new URLSearchParams(location.search).get('bg'))
-  if (Number.isInteger(forced)) return forced
-  const d = localDateString()
-  return (Number(d.slice(0, 4)) * 372 + Number(d.slice(5, 7)) * 31 + Number(d.slice(8, 10)))
+  return Number.isInteger(forced) ? forced : 0
 })
 
 const base = import.meta.env.BASE_URL

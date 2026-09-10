@@ -84,11 +84,12 @@ wiki, so visions and flashbacks count (Toph is first glimpsed in *The Swamp*).
 Same engine as the One Piece version: parchment panels with an inline SVG grain, a drawn SVG
 wordmark (here a four-nations seal in front of letters cycling water, earth, fire and air
 gradients under a generated wear map), a streak flame, drawn toolbar icons, and a slowly panning
-backdrop that rotates by date. The backdrops are painted procedurally by
-`tools/make_backgrounds.py` — the wiki has no widescreen stills large enough — one per setting:
-Southern Air Temple, Northern Water Tribe, Ba Sing Se, Fire Nation Capital, Foggy Swamp and the
-Spirit World. Append `?bg=0`–`?bg=5` to preview a specific one. A book limit tints the banner in that
-book's element colour.
+backdrop. The backdrop is the series' world map from the wiki, fetched and encoded by
+`tools/download_backgrounds.py` (centre-cropped to 16:9, 1920px, WebP with a JPEG fallback). The
+wiki has no other widescreen stills large enough, so `tools/make_backgrounds.py` also paints six
+scenes procedurally — Southern Air Temple, Northern Water Tribe, Ba Sing Se, Fire Nation Capital,
+Foggy Swamp, Spirit World — reachable with `?bg=1`–`?bg=6` for anyone who wants to swap the map
+out. A book limit tints the banner in that book's element colour.
 
 ## Backend (solve counter + leaderboard)
 
