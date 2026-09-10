@@ -93,18 +93,19 @@ book's element colour.
 ## Backend (solve counter + leaderboard)
 
 `api/` is the same Cloudflare Worker + D1 setup as the original (pseudonym + password accounts,
-PBKDF2 in the browser, verified solves, streaks derived from stored days). It is renamed
-`avatardle-api` and **not deployed yet**. To bring it up:
+PBKDF2 in the browser, verified solves, streaks derived from stored days), deployed as
+`avatardle-api` with a D1 database named `avatardle` and an `IP_SALT` secret.
 
 ```bash
-cd api && npx wrangler d1 create avatardle        # paste the id into wrangler.toml
-cd api && npx wrangler d1 execute avatardle --remote --file=./schema.sql
+node api/tools/gen_data.mjs                        # after changing characters.json / books.json
+cd api && npx wrangler d1 execute avatardle --remote --file=./schema.sql   # first time only
 cd api && npx wrangler deploy
 ```
 
-then set `VITE_API_URL` in `.env.production`. Until then the counter and leaderboard hide
-themselves; the game is unaffected. The spoiler limit travels over the wire under the original
-`arcLimit`/`arc_limit` names and holds the book name.
+`schema.sql` is all `CREATE TABLE IF NOT EXISTS`; changes to a live schema go in numbered files
+under `api/migrations/`. `VITE_API_URL` in `.env.production` points the site at the worker; it is a
+public endpoint, not a secret, and every call fails soft. The spoiler limit travels over the wire
+under the original `arcLimit`/`arc_limit` names and holds the book name.
 
 ## Deploying
 
