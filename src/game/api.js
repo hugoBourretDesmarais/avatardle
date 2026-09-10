@@ -64,9 +64,10 @@ const PBKDF2_ITERATIONS = 600_000
 async function deriveKey(name, password) {
   const enc = new TextEncoder()
   // The salt must be derivable before authenticating, so it comes from the
-  // (unique) name rather than being random per account.
+  // (unique) name rather than being random per account. The prefix is
+  // OnePieceDle's on purpose: accounts are shared between the two games.
   const saltBits = await crypto.subtle.digest(
-    'SHA-256', enc.encode(`avatardle:${name.trim().toLowerCase()}`))
+    'SHA-256', enc.encode(`onepiecedle:${name.trim().toLowerCase()}`))
   const material = await crypto.subtle.importKey(
     'raw', enc.encode(password), 'PBKDF2', false, ['deriveBits'])
   const bits = await crypto.subtle.deriveBits(

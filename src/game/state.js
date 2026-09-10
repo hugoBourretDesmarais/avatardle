@@ -90,15 +90,21 @@ export function saveBookLimit(bookName) {
   save('bookLimit', bookName)
 }
 
-// { id, name, code } — the code is the only credential, so losing it means
-// losing the account; the UI makes the player save it before continuing.
+// One account serves both OnePieceDle and AvatarDle: the sites share an
+// origin and a players table, so the token lives under a common key.
+const ACCOUNT_KEY = 'dle:account'
+
 export function loadAccount() {
-  return load('account', null)
+  try {
+    return JSON.parse(localStorage.getItem(ACCOUNT_KEY)) ?? null
+  } catch {
+    return null
+  }
 }
 
 export function saveAccount(account) {
-  if (account) save('account', account)
-  else localStorage.removeItem(`${KEY}:account`)
+  if (account) localStorage.setItem(ACCOUNT_KEY, JSON.stringify(account))
+  else localStorage.removeItem(ACCOUNT_KEY)
 }
 
 // The day a signed-out winner was last invited to sign up, so the prompt comes

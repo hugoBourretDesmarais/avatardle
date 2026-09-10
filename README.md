@@ -41,8 +41,8 @@ Clues unlock as you guess: **First Appearance** (book, episode and title) after 
 stats live in `localStorage`.
 
 Modes: 🌀 **Classic** (one shared daily character), 🎲 **Practice** (unlimited, honours the gallery's
-practice pool) and 📖 **Gallery** (browse and search the roster, open a card for full details and a
-link to its wiki page).
+practice pool) and 📖 **Gallery** (browse and search the roster, open a card for full details, a short
+description taken from the opening of its wiki page, and a link to that page).
 
 ### Spoiler limit by book
 
@@ -50,7 +50,8 @@ link to its wiki page).
 Only characters who have appeared by the end of that book are in play — as the daily answer, in the
 guess suggestions and in the gallery — and each card **rewinds** to what was known by then:
 affiliation and skills follow the story, so with a Book 1 limit Zuko is still Fire Nation royalty,
-Katara has no bloodbending and Toph has not appeared. Players on the same limit share the same daily
+Katara has no bloodbending and Toph has not appeared. The wiki description covers the whole series,
+so a limited card folds it behind a button. Players on the same limit share the same daily
 character. Episodes are numbered 1–61 across the three books; the limit is the book's last episode.
 
 ⚠️ With no limit set, the data covers the whole series.
@@ -75,8 +76,10 @@ node api/tools/gen_data.mjs          # regenerate the worker's copy of the roste
 
 `tools/roster.json` is the character list, `src/data/episodes.json` the 61 episodes and
 `src/data/books.json` the three books. `tools/curate.py` holds every reviewed value as code:
-the primary affiliation per character, hair and age fixes, the skills vocabulary, and the
-in-series timelines (`history`) that the book limit rewinds through. First appearances follow the
+the primary affiliation per character, hair and age fixes, the skills vocabulary, description
+rewrites (`DESCRIPTION`, for leads that lean on the comics), and the in-series timelines
+(`history`) that the book limit rewinds through. Each description is the first paragraph of the
+wiki page, cut at a sentence boundary around 480 characters. First appearances follow the
 wiki, so visions and flashbacks count (Toph is first glimpsed in *The Swamp*).
 
 ## Look and feel

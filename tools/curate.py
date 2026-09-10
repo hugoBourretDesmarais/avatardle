@@ -129,6 +129,29 @@ SKILLS = {
 
 # Values that change inside the series, newest first, dated by the episode the
 # viewer learns them. Characters not listed get a single entry at their debut.
+# Wiki leads fold in the comics and Korra; rewrite one here when it misleads.
+DESCRIPTION = {
+    "Aang": "Aang was the Air Nomad Avatar succeeding Avatar Roku. As the Avatar during the Hundred "
+            "Year War, he was the only person capable of using all four bending arts: airbending, "
+            "waterbending, earthbending, and firebending. He was also one of a select few Avatars to "
+            "learn the ancient art of energybending, and the first known to have actively used it.",
+    "Zuko": "Zuko was a Fire Nation royal and firebending master, the eldest child of Fire Lord Ozai "
+            "and Princess Ursa. Originally the primary enemy of Team Avatar, Zuko devoted three years "
+            "to trying to capture the long-lost Avatar to end his banishment and regain his honor as "
+            "Crown Prince of the Fire Nation, before joining Team Avatar and being crowned Fire Lord at "
+            "the end of the Hundred Year War.",
+    "Foaming mouth guy": "The foaming mouth guy was one of the biggest fans of the Avatar, a resident "
+                         "of Suki's village on Kyoshi Island whose excitement at seeing Aang left him "
+                         "foaming at the mouth and fainting.",
+    "Jin": "Jin was a refugee of the Hundred Year War who lived in Ba Sing Se's Lower Ring. She met "
+           "Zuko while he was working at Pao's tea shop, went on a date with him, and was shown the "
+           "Firelight Fountain lit by his firebending.",
+    "Ukano": "Ukano was the Fire Nation governor of New Ozai, originally Omashu, appointed by Fire "
+             "Lord Ozai himself. The father of Mai and Tom-Tom, he cared greatly for his family but "
+             "was a weak ruler whose faulty assumptions often led to poor decisions, and he was "
+             "deposed when the city was retaken in 100 AG.",
+}
+
 HISTORY = {
     "Zuko": {"affiliation": [{"value": "Team Avatar", "episode": 52}, {"value": "Fire Nation Royal Family", "episode": 1}],
              "skills": [{"value": "Lightning redirection", "episode": 29}, {"value": "Swords", "episode": 13}]},
@@ -151,7 +174,7 @@ HISTORY = {
 def main():
     corrections = {}
     names = set(AFFILIATION) | set(NAMES) | set(ALIASES) | set(GENDER) | set(NATION) | set(BENDING) \
-        | set(HAIR) | set(AGE) | set(SKILLS)
+        | set(HAIR) | set(AGE) | set(SKILLS) | set(DESCRIPTION)
     for n in sorted(names):
         c = {}
         if n in AFFILIATION: c["affiliation"] = AFFILIATION[n]
@@ -164,6 +187,7 @@ def main():
         if n in AGE: c["age"] = AGE[n]
         if n in TRUE_AGE: c["trueAge"] = TRUE_AGE[n]
         if n in SKILLS: c["skills"] = SKILLS[n]
+        if n in DESCRIPTION: c["description"] = DESCRIPTION[n]
         corrections[n] = c
     (OUT / "corrections.json").write_text(json.dumps(corrections, indent=1, ensure_ascii=False))
     (OUT / "history.json").write_text(json.dumps(HISTORY, indent=1, ensure_ascii=False))

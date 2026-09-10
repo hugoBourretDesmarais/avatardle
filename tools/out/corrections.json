@@ -12,7 +12,8 @@
   "trueAge": 112,
   "skills": [
    "Energybending"
-  ]
+  ],
+  "description": "Aang was the Air Nomad Avatar succeeding Avatar Roku. As the Avatar during the Hundred Year War, he was the only person capable of using all four bending arts: airbending, waterbending, earthbending, and firebending. He was also one of a select few Avatars to learn the ancient art of energybending, and the first known to have actively used it."
  },
  "Appa": {
   "affiliation": "Team Avatar",
@@ -102,7 +103,8 @@
  },
  "Foaming mouth guy": {
   "affiliation": "Kyoshi Island",
-  "name": "Foaming Mouth Guy"
+  "name": "Foaming Mouth Guy",
+  "description": "The foaming mouth guy was one of the biggest fans of the Avatar, a resident of Suki's village on Kyoshi Island whose excitement at seeing Aang left him foaming at the mouth and fainting."
  },
  "Fong": {
   "affiliation": "Earth Kingdom military"
@@ -193,7 +195,8 @@
   "affiliation": "Freedom Fighters"
  },
  "Jin": {
-  "affiliation": "Ba Sing Se"
+  "affiliation": "Ba Sing Se",
+  "description": "Jin was a refugee of the Hundred Year War who lived in Ba Sing Se's Lower Ring. She met Zuko while he was working at Pao's tea shop, went on a date with him, and was shown the Firelight Fountain lit by his firebending."
  },
  "Joo Dee": {
   "affiliation": "Dai Li"
@@ -535,7 +538,8 @@
   "affiliation": "Earth Kingdom"
  },
  "Ukano": {
-  "affiliation": "Fire Nation"
+  "affiliation": "Fire Nation",
+  "description": "Ukano was the Fire Nation governor of New Ozai, originally Omashu, appointed by Fire Lord Ozai himself. The father of Mai and Tom-Tom, he cared greatly for his family but was a weak ruler whose faulty assumptions often led to poor decisions, and he was deposed when the city was retaken in 100 AG."
  },
  "Ursa": {
   "affiliation": "Fire Nation Royal Family"
@@ -622,6 +626,7 @@
   "skills": [
    "Swords",
    "Lightning redirection"
-  ]
+  ],
+  "description": "Zuko was a Fire Nation royal and firebending master, the eldest child of Fire Lord Ozai and Princess Ursa. Originally the primary enemy of Team Avatar, Zuko devoted three years to trying to capture the long-lost Avatar to end his banishment and regain his honor as Crown Prince of the Fire Nation, before joining Team Avatar and being crowned Fire Lord at the end of the Hundred Year War."
  }
 }

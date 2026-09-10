@@ -40,6 +40,7 @@
   "appearanceNote": null,
   "firstEpisode": 1,
   "imageFile": "Aang at Jasmine Dragon.png",
+  "description": "Aang was the Air Nomad Avatar succeeding Avatar Roku and preceding Avatar Korra. As the Avatar during the Hundred Year War, he was the only person capable of using all four bending arts: airbending, waterbending, earthbending, and firebending. He was also one of a select few Avatars and one of the first in many cycles to learn the ancient art of energybending as well as the first Avatar known to have actively used the technique.",
   "image": "https://static.wikia.nocookie.net/avatar/images/a/ae/Aang_at_Jasmine_Dragon.png/revision/latest?cb=20250504214141"
  },
  {
@@ -90,6 +91,7 @@
   "appearanceNote": null,
   "firstEpisode": 1,
   "imageFile": "Katara smiles at coronation.png",
+  "description": "Katara was a waterbending master born in the Southern Water Tribe to Chief Hakoda and his wife Kya. During her childhood, she was one of the last waterbenders living in the Southern Water Tribe. After losing her mother in a Fire Nation raid and after her warrior father left to battle against the Fire Nation in the Hundred Year War, she was raised by her paternal grandmother Kanna alongside her older brother Sokka.",
   "image": "https://static.wikia.nocookie.net/avatar/images/7/7a/Katara_smiles_at_coronation.png/revision/latest?cb=20150104171449"
  },
  {
@@ -134,6 +136,7 @@
   "appearanceNote": null,
   "firstEpisode": 1,
   "imageFile": "Sokka.png",
+  "description": "Sokka was a Water Tribe warrior of the Southern Water Tribe and the son of Chief Hakoda and Kya. Following the death of his mother and his father's departure for war, Sokka was raised by his grandmother Kanna along with his younger sister Katara.",
   "image": "https://static.wikia.nocookie.net/avatar/images/c/cc/Sokka.png/revision/latest?cb=20140905085428"
  },
  {
@@ -182,6 +185,7 @@
   "appearanceNote": "vision",
   "firstEpisode": 24,
   "imageFile": "Toph Beifong.png",
+  "description": "Toph Beifong was an earthbending master, one of the most powerful of her time, and the discoverer of metalbending. Blind since birth, Toph was constantly treated condescendingly because of her visual impairment, particularly by her overprotective parents, Lao and Poppy Beifong. Upon discovering badgermoles, earthbending animals who are also blind, she learned how to use earthbending as an extension of her senses.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/46/Toph_Beifong.png/revision/latest?cb=20131230122047"
  },
  {
@@ -226,6 +230,7 @@
   "appearanceNote": null,
   "firstEpisode": 1,
   "imageFile": "Zuko.png",
+  "description": "Zuko was a Fire Nation royal and firebending master who reigned as Fire Lord from 100 AG until his abdication in 167 AG. He was the eldest child of Fire Lord Ozai and Princess Ursa. Originally the primary enemy of Team Avatar, Zuko devoted three years to trying to capture the long-lost Avatar to end his banishment and regain his honor as Crown Prince of the Fire Nation.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/4b/Zuko.png/revision/latest?cb=20180630112142"
  },
  {
@@ -265,6 +270,7 @@
   "appearanceNote": null,
   "firstEpisode": 4,
   "imageFile": "Suki.png",
+  "description": "Suki was the leader of one of the Kyoshi Warrior bands of the Earth Kingdom's Kyoshi Island. Having begun her training when she was only eight years old, she was well-respected by her fellow warriors for her leadership and combat skills. When Team Avatar arrived on Kyoshi Island, Suki and a few other Kyoshi Warriors captured them, thinking they were Fire Nation spies, but released them and quickly befriended them after realizing Aang was the Avatar.",
   "image": "https://static.wikia.nocookie.net/avatar/images/1/14/Suki.png/revision/latest?cb=20130819094354"
  },
  {
@@ -297,6 +303,7 @@
   "appearanceNote": null,
   "firstEpisode": 1,
   "imageFile": "Appa flying.png",
+  "description": "Appa was Avatar Aang's loyal sky bison, who shared a strong bond with him and Momo as they were all some of the few remaining traces of the Air Nomad civilization. Appa was most noted for his ability to fly in spite of his heavy weight, a feat achieved through airbending, which made him the primary means of transportation utilized by Team Avatar.",
   "image": "https://static.wikia.nocookie.net/avatar/images/6/65/Appa_flying.png/revision/latest?cb=20140517110636"
  },
  {
@@ -329,6 +336,7 @@
   "appearanceNote": null,
   "firstEpisode": 3,
   "imageFile": "Momo staring.png",
+  "description": "Momo was a winged lemur and a loyal companion of Avatar Aang and his friends. By late 99 AG, he lived at the Southern Air Temple and was the only known specimen of the winged lemur species to still be alive after the Air Nomad Genocide.",
   "image": "https://static.wikia.nocookie.net/avatar/images/8/80/Momo_staring.png/revision/latest?cb=20200802080013"
  },
  {
@@ -373,6 +381,7 @@
   "appearanceNote": null,
   "firstEpisode": 1,
   "imageFile": "Iroh smiling.png",
+  "description": "Iroh was a retired Fire Nation general, a former Crown Prince of the nation, a Grand Lotus of the Order of the White Lotus, a firebending master, and a wise mentor to his nephew Zuko. He was the elder son of Fire Lord Azulon and Ilah and the older brother of Ozai. Iroh's well-known ability to breathe fire and his claims of \"slaying\" the last dragon earned him the honorary title \"The Dragon of the West\".",
   "image": "https://static.wikia.nocookie.net/avatar/images/c/c1/Iroh_smiling.png/revision/latest?cb=20130626131914"
  },
  {
@@ -410,6 +419,7 @@
   "appearanceNote": "silhouette",
   "firstEpisode": 8,
   "imageFile": "Ozai.png",
+  "description": "Ozai was the ruler of the Fire Nation during the final years of the Hundred Year War, reigning as Fire Lord from 95 to 100 AG. He was the second son of Fire Lord Azulon and Ilah, the younger brother of Iroh, uncle of Lu Ten, husband to Ursa, the father of Prince Zuko and Princess Azula, and the paternal grandfather of Izumi. Ozai was a firebending master and, prior to the end of the war, was believed to be the most powerful firebender in the world.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/4a/Ozai.png/revision/latest?cb=20130612170743"
  },
  {
@@ -451,6 +461,7 @@
   "appearanceNote": null,
   "firstEpisode": 12,
   "imageFile": "Azula.png",
+  "description": "Azula was a princess of the Fire Nation, daughter of Fire Lord Ozai and Ursa, younger sister of Zuko, and older half-sister of Kiyi. She was a key adversary of Team Avatar, chasing Avatar Aang and her banished brother far across the Earth Kingdom accompanied by her then two best friends, Mai and Ty Lee.",
   "image": "https://static.wikia.nocookie.net/avatar/images/1/12/Azula.png/revision/latest?cb=20140905084941"
  },
  {
@@ -489,6 +500,7 @@
   "appearanceNote": null,
   "firstEpisode": 23,
   "imageFile": "Mai.png",
+  "description": "Mai was the only daughter and eldest child of Ukano, the former governor of New Ozai, and his wife Michi. As one of the most privileged girls in the Fire Nation, she attended the Royal Fire Academy for Girls and became a friend of Princess Azula and Ty Lee at a young age. Mai was exceptionally proficient at throwing stilettos, a self-taught skill she developed out of boredom.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/40/Mai.png/revision/latest?cb=20090406114652"
  },
  {
@@ -529,6 +541,7 @@
   "appearanceNote": null,
   "firstEpisode": 23,
   "imageFile": "Ty Lee.png",
+  "description": "Ty Lee was a cheerful and energetic girl who hailed from the Fire Nation. As the daughter of a nobleman, she attended the Royal Fire Academy for Girls with her friends, Princess Azula and Mai. Growing up, Ty Lee dealt with six sisters who shared identical appearances with her. This caused her to feel a loss of individuality and led her to have a longing to be a unique, recognizable person, and a desire for attention from other people.",
   "image": "https://static.wikia.nocookie.net/avatar/images/6/6d/Ty_Lee.png/revision/latest?cb=20140905083814"
  },
  {
@@ -564,6 +577,7 @@
   "appearanceNote": null,
   "firstEpisode": 3,
   "imageFile": "Commander Zhao.png",
+  "description": "Zhao was the leader of the Fire Nation Navy for a brief period in early 100 AG. During his career, he held the ranks of lieutenant, captain, commander, and finally admiral. He was trained by Jeong Jeong to become a master firebender and, as one of the most powerful men in the Fire Nation, took it upon himself to capture Avatar Aang, thus becoming a rival of Prince Zuko.",
   "image": "https://static.wikia.nocookie.net/avatar/images/e/e1/Commander_Zhao.png/revision/latest?cb=20140103180854"
  },
  {
@@ -598,6 +612,7 @@
   "appearanceNote": null,
   "firstEpisode": 27,
   "imageFile": "Ursa.png",
+  "description": "Ursa was the wife of Ozai and later Noren, mother of Zuko, Azula, and Kiyi, daughter of Jinzuk and Rina, and maternal granddaughter of Avatar Roku and Ta Min. She grew up in the Fire Nation village of Hira'a until she was forced by Fire Lord Azulon to marry his son, Prince Ozai, in order to fulfill a prophecy that said that a royal descendant of Roku would bring great power to Azulon's own lineage.",
   "image": "https://static.wikia.nocookie.net/avatar/images/a/a6/Ursa.png/revision/latest?cb=20140331143655"
  },
  {
@@ -634,6 +649,7 @@
   "appearanceNote": null,
   "firstEpisode": 27,
   "imageFile": "Azulon.png",
+  "description": "Azulon was the ruler of the Fire Nation for the majority of the Hundred Year War, reigning as Fire Lord from 20 AG until his assassination in 95 AG. He was the son of Fire Lord Sozin, the husband of Ilah, the father of Iroh and Ozai, and the paternal grandfather of Lu Ten, Zuko, and Azula.",
   "image": "https://static.wikia.nocookie.net/avatar/images/1/1e/Azulon.png/revision/latest?cb=20140331143003"
  },
  {
@@ -672,6 +688,7 @@
   "appearanceNote": null,
   "firstEpisode": 46,
   "imageFile": "Old Sozin.png",
+  "description": "Sozin was the ruler of the Fire Nation from 58 BG until his death in 20 AG, and the instigator of the Hundred Year War. He was the son of Fire Lord Taiso and Lady Hazei, the brother of Princess Zeisan, the grandfather of Iroh and Ozai, and the great-grandfather of Lu Ten, Zuko, and Azula. He was succeeded as Fire Lord by his son Azulon.",
   "image": "https://static.wikia.nocookie.net/avatar/images/a/aa/Old_Sozin.png/revision/latest?cb=20220323100904"
  },
  {
@@ -709,6 +726,7 @@
   "appearanceNote": null,
   "firstEpisode": 8,
   "imageFile": "Roku.png",
+  "description": "Roku was the Fire Nation-born Avatar immediately succeeding Avatar Kyoshi and preceding Avatar Aang. Roku was a wise and merciful Avatar with good intentions. Living in a period of change, technological revolution, and nationalist expansion, he worked tirelessly to maintain peace between the four nations during a time of complex political issues and tense diplomatic relations. However, he himself acknowledged that he was too indecisive during his lifetime.",
   "image": "https://static.wikia.nocookie.net/avatar/images/f/f6/Roku.png/revision/latest?cb=20220323130414"
  },
  {
@@ -743,6 +761,7 @@
   "appearanceNote": null,
   "firstEpisode": 29,
   "imageFile": "Lu Ten bowing.png",
+  "description": "Lu Ten was the son of General Iroh, the nephew of Ozai and Ursa, the cousin of Zuko and Azula, the grandson of Azulon, the great-grandson of Sozin, and second in line to the Fire Nation throne. A compassionate and thoughtful person, Lu Ten strove to both serve his nation as well as help others by joining the Fire Nation military. Witnessing the horrors of the Hundred Year War, he began to increasingly question the direction of his home country.",
   "image": "https://static.wikia.nocookie.net/avatar/images/1/14/Lu_Ten_bowing.png/revision/latest?cb=20241203231226"
  },
  {
@@ -776,6 +795,7 @@
   "appearanceNote": null,
   "firstEpisode": 44,
   "imageFile": "Piandao.png",
+  "description": "Piandao was a Fire Nation bladesmith, swordmaster, and calligrapher. A former member of the Fire Army, he was also a high-ranking member of the Order of the White Lotus and participated in the liberation of Ba Sing Se. Piandao was considered the greatest swordmaster and maker in Fire Nation history and taught both Zuko and Sokka in the art of swordsmanship.",
   "image": "https://static.wikia.nocookie.net/avatar/images/e/e1/Piandao.png/revision/latest?cb=20140905225031"
  },
  {
@@ -812,6 +832,7 @@
   "appearanceNote": null,
   "firstEpisode": 16,
   "imageFile": "Jeong Jeong serious.png",
+  "description": "Jeong Jeong, also known as The Deserter, was a strong, enlightened, yet embittered firebending master who witnessed firsthand the hardships of the Hundred Year War. Once an honored admiral of the Fire Navy, he became disillusioned with his nation and firebending as a whole and defected from the military. At the time, he was widely believed to be the first individual to do so and survive. Because of this, he came to be known as \"The Deserter\" and was regarded as a legend.",
   "image": "https://static.wikia.nocookie.net/avatar/images/a/a7/Jeong_Jeong_serious.png/revision/latest?cb=20140116113256"
  },
  {
@@ -847,6 +868,7 @@
   "appearanceNote": null,
   "firstEpisode": 42,
   "imageFile": "Combustion Man.png",
+  "description": "Combustion Man, given his nickname by Sokka, was a firebending assassin and silent bounty hunter hired by Prince Zuko to track down and eliminate Avatar Aang. Following Team Avatar through the Fire Nation, he terrorized them with his unique combustionbending abilities, which allowed him to project and detonate large explosions at will from his third-eye tattoo.",
   "image": "https://static.wikia.nocookie.net/avatar/images/f/fc/Combustion_Man.png/revision/latest?cb=20140908141111"
  },
  {
@@ -878,6 +900,7 @@
   "appearanceNote": null,
   "firstEpisode": 8,
   "imageFile": "Shyu.png",
+  "description": "Shyu was the Great Sage of the High Temple, appointed after the Hundred Year War. The last of his proud lineage who did not follow the Fire Lord during the war, Shyu defied the Fire Nation authorities and his fellow Fire Sages by remaining loyal to the Avatar.",
   "image": "https://static.wikia.nocookie.net/avatar/images/c/c9/Shyu.png/revision/latest?cb=20130622211349"
  },
  {
@@ -910,6 +933,7 @@
   "appearanceNote": null,
   "firstEpisode": 54,
   "imageFile": "Boiling Rock warden.png",
+  "description": "The warden was the chief authority of the Fire Nation's most secure prison, the Boiling Rock, and prided himself on upholding the prison's reputation as an impenetrable and inescapable fortress. He was the brother of Michi and Mura, brother-in-law of Governor Ukano, and uncle of Mai and Tom-Tom.",
   "image": "https://static.wikia.nocookie.net/avatar/images/0/0f/Boiling_Rock_warden.png/revision/latest?cb=20220328163908"
  },
  {
@@ -939,6 +963,7 @@
   "appearanceNote": null,
   "firstEpisode": 54,
   "imageFile": "Chit Sang.png",
+  "description": "Chit Sang was an inmate at the Boiling Rock prison in the Fire Nation. He claimed that he was falsely accused of the crime for which he was convicted and maintained his innocence. He was rebellious in nature, displaying \"unruly behavior\" according to the prison guards and was frequently picked on by them. When Sokka and Prince Zuko broke into the prison, they formed an alliance with Chit Sang, and with the help of Suki, they escaped.",
   "image": "https://static.wikia.nocookie.net/avatar/images/8/81/Chit_Sang.png/revision/latest?cb=20121021000707"
  },
  {
@@ -968,6 +993,7 @@
   "appearanceNote": null,
   "firstEpisode": 50,
   "imageFile": "Ming.png",
+  "description": "Ming was a guard at the Capital City Prison near the Fire Nation Capital.",
   "image": "https://static.wikia.nocookie.net/avatar/images/a/a5/Ming.png/revision/latest?cb=20220324013206"
  },
  {
@@ -997,6 +1023,7 @@
   "appearanceNote": null,
   "firstEpisode": 17,
   "imageFile": "Qin.png",
+  "description": "War Minister Qin was the overseer of the Fire Nation military's technology, and despite the many failures of his inventions, his technological expertise ensured he remained a valuable member of the Fire Lord's cabinet.",
   "image": "https://static.wikia.nocookie.net/avatar/images/d/d4/Qin.png/revision/latest?cb=20140118125456"
  },
  {
@@ -1029,6 +1056,7 @@
   "appearanceNote": null,
   "firstEpisode": 25,
   "imageFile": "Colonel Mongke.png",
+  "description": "Mongke was the leader of a Fire Nation freelance task group known as the Rough Rhinos and was the main firebender of the group. Before he and his men left the Fire Lord's services after the Hundred Year War's end, Mongke held the position of Colonel in the Fire Nation military and was responsible of the destruction of countless Earth Kingdom villages. His quick wits and ruthless tactics made him a formidable opponent.",
   "image": "https://static.wikia.nocookie.net/avatar/images/f/f9/Colonel_Mongke.png/revision/latest?cb=20140215111854"
  },
  {
@@ -1057,6 +1085,7 @@
   "appearanceNote": null,
   "firstEpisode": 21,
   "imageFile": "Lo and Li.png",
+  "description": "Lo and Li were Princess Azula's two elderly advisers. They were focused people who contributed to Azula's insatiable thirst for power. Although not firebenders themselves, they served as mentors for Azula's firebending training.",
   "image": "https://static.wikia.nocookie.net/avatar/images/1/14/Lo_and_Li.png/revision/latest?cb=20130111101305"
  },
  {
@@ -1089,6 +1118,7 @@
   "appearanceNote": null,
   "firstEpisode": 56,
   "imageFile": "Yon Rha.png",
+  "description": "Yon Rha was the commanding officer of the Southern Raiders who served during the final stages of the Southern Water Tribe raids. He killed Kya in an unsuccessful attempt to eliminate the last of the Southern Water Tribe's waterbender population and retired two years after this event. In his old age, Yon Rha was confronted by Kya's daughter, Katara, the true last waterbender of the tribe.",
   "image": "https://static.wikia.nocookie.net/avatar/images/9/94/Yon_Rha.png/revision/latest?cb=20081225191900"
  },
  {
@@ -1123,6 +1153,7 @@
   "appearanceNote": null,
   "firstEpisode": 53,
   "imageFile": "Ran and Shaw.png",
+  "description": "Ran and Shaw are two ancient dragons revered by the Sun Warriors as the original masters of firebending. At the end of the Hundred Year War, they were the last known surviving dragons, a species nearly hunted to extinction by firebenders after Fire Lord Sozin began the tradition of killing them for glory. Visited by many people throughout history, the dragons only deemed a few people outside the Sun Warrior tribe to be worthy; those deemed unworthy were customarily destroyed.",
   "image": "https://static.wikia.nocookie.net/avatar/images/6/62/Ran_and_Shaw.png/revision/latest?cb=20140901163755"
  },
  {
@@ -1152,6 +1183,7 @@
   "appearanceNote": null,
   "firstEpisode": 53,
   "imageFile": "Ham Ghao.png",
+  "description": "Ham Ghao was one of the most disliked men of the Sun Warriors. He was a gossip and was viewed as the most mischievous and annoying person in the tribe because he always seemed to know and talk about everyone else's business. Several times, other Sun Warriors had secret meetings with the chief to discuss their annoyance at Ham Ghao. Despite this, he is still loyal to the tribe and was quick to accept Aang and Zuko, despite his disappointment that Ran and Shaw didn't eat them.",
   "image": "https://static.wikia.nocookie.net/avatar/images/9/99/Ham_Ghao.png/revision/latest?cb=20081225190937"
  },
  {
@@ -1183,6 +1215,7 @@
   "appearanceNote": null,
   "firstEpisode": 9,
   "imageFile": "Jee.png",
+  "description": "Lieutenant Jee was one of the senior officers aboard Zuko's ship. He was a capable firebender, accomplished singer, and talented pipa player. Jee was aboard the ship for a substantial period of time, during which he occasionally argued with Prince Zuko.",
   "image": "https://static.wikia.nocookie.net/avatar/images/e/eb/Jee.png/revision/latest?cb=20130714141540"
  },
  {
@@ -1214,6 +1247,7 @@
   "appearanceNote": null,
   "firstEpisode": 42,
   "imageFile": "Hide.png",
+  "description": "Hide was a student and a bully at a Fire Nation school.",
   "image": "https://static.wikia.nocookie.net/avatar/images/9/96/Hide.png/revision/latest?cb=20140602093934"
  },
  {
@@ -1241,6 +1275,7 @@
   "appearanceNote": null,
   "firstEpisode": 42,
   "imageFile": "On Ji.png",
+  "description": "On Ji was a young student at a school in the Fire Nation. Her parents valued her education and hoped that she would succeed in school. They wished for her to further her studies at a good university in the Fire Nation Capital, where she could meet royalty and make the perfect Fire Nation wife.",
   "image": "https://static.wikia.nocookie.net/avatar/images/9/9a/On_Ji.png/revision/latest?cb=20140602125810"
  },
  {
@@ -1268,6 +1303,7 @@
   "appearanceNote": null,
   "firstEpisode": 42,
   "imageFile": "School clothes.png",
+  "description": "Shoji was a student at the Fire Nation school whom Aang met during his time there. He was like any other boy his age, and enjoyed playing with friends.",
   "image": "https://static.wikia.nocookie.net/avatar/images/d/d0/School_clothes.png/revision/latest?cb=20140602125811"
  },
  {
@@ -1295,6 +1331,7 @@
   "appearanceNote": null,
   "firstEpisode": 42,
   "imageFile": "Kwan.png",
+  "description": "Kwan was a middle-aged woman who had a fierce passion for grammar. She was a hard-nosed, no-nonsense school teacher who grew up on the upper class outer islands of the Fire Nation. Ms. Kwan was a prime example of a Fire Nation school teacher; she believed in hard work and hard discipline.",
   "image": "https://static.wikia.nocookie.net/avatar/images/b/b0/Kwan.png/revision/latest?cb=20140602125758"
  },
  {
@@ -1326,6 +1363,7 @@
   "appearanceNote": null,
   "firstEpisode": 12,
   "imageFile": "Bujing.png",
+  "description": "Bujing was a High General of the Fire Nation army. He was renowned for his ruthless but effective battlefield strategies.",
   "image": "https://static.wikia.nocookie.net/avatar/images/7/76/Bujing.png/revision/latest?cb=20130714152817"
  },
  {
@@ -1362,6 +1400,7 @@
   "appearanceNote": null,
   "firstEpisode": 46,
   "imageFile": "Young Ta Min.png",
+  "description": "Ta Min was a Fire Nation noblewoman, diplomat, spy, and the wife of Avatar Roku. Born into an influential and rich family, she pursued a career in international relations, initially working for Prince Sozin as an agent and emissary to Omashu. She also played a role helping Roku save Agna Qel'a from a bioterrorist attack during the Festival of First Light.",
   "image": "https://static.wikia.nocookie.net/avatar/images/1/1e/Young_Ta_Min.png/revision/latest?cb=20131230132842"
  },
  {
@@ -1391,6 +1430,7 @@
   "appearanceNote": null,
   "firstEpisode": 44,
   "imageFile": "Fat.png",
+  "description": "Fat was a swordsman who served as Piandao's loyal yet disgruntled butler. A serious man, Fat did not find many things humorous. He prepared meals and beverages for Piandao and his students, whom he also assisted in training.",
   "image": "https://static.wikia.nocookie.net/avatar/images/2/2e/Fat.png/revision/latest?cb=20140905232010"
  },
  {
@@ -1424,6 +1464,7 @@
   "appearanceNote": null,
   "firstEpisode": 23,
   "imageFile": "Ukano.png",
+  "description": "Ukano was the first and only Fire Nation governor of New Ozai, originally Omashu, appointed by Fire Lord Ozai himself. The father of Mai and Tom-Tom, he cared greatly for his family but was a weak ruler whose faulty assumptions often led to poor decisions. Career-minded and deeply loyal to Ozai, Ukano accepted neither his forceful deposition as governor in 100 AG, nor the new Fire Nation government under Fire Lord Zuko.",
   "image": "https://static.wikia.nocookie.net/avatar/images/e/ee/Ukano.png/revision/latest?cb=20130706145902"
  },
  {
@@ -1454,6 +1495,7 @@
   "appearanceNote": null,
   "firstEpisode": 23,
   "imageFile": "Michi.png",
+  "description": "Michi was a Fire Nation noblewoman and member of a politically influential family. She was the sister of the warden of the Boiling Rock and Mura, wife to Ukano, the former governor of New Ozai, and mother to Mai and Tom-Tom. While very proud of her social standing and supportive of her husband's career, Michi ultimately considered her family to be more important than politics and status.",
   "image": "https://static.wikia.nocookie.net/avatar/images/0/0b/Michi.png/revision/latest?cb=20130706134435"
  },
  {
@@ -1484,6 +1526,7 @@
   "appearanceNote": null,
   "firstEpisode": 23,
   "imageFile": "Tom-Tom tearful.png",
+  "description": "Tom-Tom was Mai's younger brother and the beloved son of Ukano, the former governor of New Ozai, and his wife, Michi. As a young child, he innocently got himself in and out of all kinds of trouble during the Hundred Year War and its aftermath.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/4a/Tom-Tom_tearful.png/revision/latest?cb=20220320160427"
  },
  {
@@ -1515,6 +1558,7 @@
   "appearanceNote": null,
   "firstEpisode": 44,
   "imageFile": "Warden Poon.png",
+  "description": "Warden Poon was the warden of the Capital City Prison near the Fire Nation Capital.",
   "image": "https://static.wikia.nocookie.net/avatar/images/e/e5/Warden_Poon.png/revision/latest?cb=20130123150230"
  },
  {
@@ -1542,6 +1586,7 @@
   "appearanceNote": null,
   "firstEpisode": 16,
   "imageFile": "Chey.png",
+  "description": "Chey was a former Fire Nation captain and an explosives expert. He held the title of being the second person to desert the Fire Army and live, after Jeong Jeong, of whom Chey was a disciple.",
   "image": "https://static.wikia.nocookie.net/avatar/images/8/8d/Chey.png/revision/latest?cb=20140116103519"
  },
  {
@@ -1578,6 +1623,7 @@
   "appearanceNote": null,
   "firstEpisode": 25,
   "imageFile": "Vachir.png",
+  "description": "Vachir was a dishonored Yuyan Archer who was forced to resign from the elite force after failing Prince Ozai. Following these events, he became a member of the Rough Rhinos, where he served as their bowman. He specialized in fire arrows and his bow had a small torch just below the grip to ignite them. Vachir, along with the rest of the Rough Rhinos, was responsible for the deaths of Jet's parents and the destruction of their village.",
   "image": "https://static.wikia.nocookie.net/avatar/images/a/ad/Vachir.png/revision/latest?cb=20140407161002"
  },
  {
@@ -1609,6 +1655,7 @@
   "appearanceNote": null,
   "firstEpisode": 25,
   "imageFile": "Ogodei.png",
+  "description": "Ogodei was a member of a Fire Nation cavalry unit known as the Rough Rhinos. He was a master of his preferred weapon, the bolo, or chains. After the Hundred Year War, he remained with the Rough Rhinos as they became a force for hire.",
   "image": "https://static.wikia.nocookie.net/avatar/images/b/ba/Ogodei.png/revision/latest?cb=20140407160127"
  },
  {
@@ -1639,6 +1686,7 @@
   "appearanceNote": null,
   "firstEpisode": 25,
   "imageFile": "Yeh-Lu.png",
+  "description": "Yeh-Lu was the explosives specialist of the Rough Rhinos, an elite Fire Nation group that worked on a freelance basis for the Fire Lord. After the Hundred Year War, he remained with the Rough Rhinos as they became a force for hire.",
   "image": "https://static.wikia.nocookie.net/avatar/images/f/fe/Yeh-Lu.png/revision/latest?cb=20140407161003"
  },
  {
@@ -1671,6 +1719,7 @@
   "appearanceNote": null,
   "firstEpisode": 25,
   "imageFile": "Kahchi.png",
+  "description": "Kahchi was a member of the Fire Nation military group dubbed the Rough Rhinos, whose weapon of choice was a guan dao. After the Hundred Year War, he became a force for hire, along with the rest of the Rough Rhinos, and ended up as a guard at the Earthen Fire Refinery.",
   "image": "https://static.wikia.nocookie.net/avatar/images/7/77/Kahchi.png/revision/latest?cb=20140407160126"
  },
  {
@@ -1702,6 +1751,7 @@
   "appearanceNote": null,
   "firstEpisode": 53,
   "imageFile": "The Sun Warriors.png",
+  "description": "The Sun Warrior chief was the head of the Sun Warrior tribe for over twenty years. His main goals were to protect the tribe, maintain its secrecy, and preserve his people's traditions, a stance that garnered appreciation from his followers. The chief was aware of how valuable the dragons were to the world, and he wanted to keep them safe. As the leader of the tribe, he had a deep spiritual reverence for fire, as it represents energy and life.",
   "image": "https://static.wikia.nocookie.net/avatar/images/2/2e/The_Sun_Warriors.png/revision/latest?cb=20171016193449"
  },
  {
@@ -1733,6 +1783,7 @@
   "appearanceNote": null,
   "firstEpisode": 15,
   "imageFile": "Hakoda smiling.png",
+  "description": "Hakoda was a Southern Water Tribe chieftain, the father of Sokka and Katara, the husband of the late Kya, and the son of Kanna. Originally the head of a minor tribe based at Wolf Cove that was part of the Southern Tribe's tribal confederation, Hakoda rose to one of the South's most prominent leaders at the end of the Hundred Year War. He was skilled as a talented ship captain, igloo builder, weapons maker, and warrior.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/4e/Hakoda_smiling.png/revision/latest?cb=20201220143258"
  },
  {
@@ -1760,6 +1811,7 @@
   "appearanceNote": null,
   "firstEpisode": 15,
   "imageFile": "Bato smiling.png",
+  "description": "Bato was a member of the Southern Water Tribe and a close friend of Katara and Sokka's father, Hakoda, since childhood. He was somewhat of a paternal figure to Katara and Sokka in their father's stead, thus he cared about their well-being and was a loyal and brave warrior who would do anything to protect his tribe.",
   "image": "https://static.wikia.nocookie.net/avatar/images/e/e3/Bato_smiling.png/revision/latest?cb=20130626122901"
  },
  {
@@ -1792,6 +1844,7 @@
   "appearanceNote": null,
   "firstEpisode": 1,
   "imageFile": "Kanna.png",
+  "description": "Kanna, referred to by her grandchildren as \"Gran Gran\", was Katara and Sokka's paternal grandmother. A nonbender and the oldest resident of Wolf Cove during the last year of the Hundred Year War, Kanna was cautious, wise, and caring. Although she initially distrusted Aang, once he was revealed to be the Avatar, she regained hope after a long time.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/47/Kanna.png/revision/latest?cb=20130822224809"
  },
  {
@@ -1825,6 +1878,7 @@
   "appearanceNote": null,
   "firstEpisode": 18,
   "imageFile": "Pakku looking smug.png",
+  "description": "Pakku was a Northern-style waterbending master and instructor who possessed immense skill and power, and was once regarded as the best waterbender in the world. Dryly sarcastic and very serious about his art, he was a harsh, but nonetheless effective teacher, as well as an outwardly acerbic yet inwardly caring old man.",
   "image": "https://static.wikia.nocookie.net/avatar/images/b/bb/Pakku_looking_smug.png/revision/latest?cb=20140119164142"
  },
  {
@@ -1859,6 +1913,7 @@
   "appearanceNote": null,
   "firstEpisode": 18,
   "imageFile": "Kind Yue.png",
+  "description": "Yue was a princess of the Northern Water Tribe, the daughter of Chief Arnook, and one of his advisors. After the death of Tui during the Fire Nation's Siege of the North, she sacrificed her life to replace it and shared its position as the Moon Spirit.",
   "image": "https://static.wikia.nocookie.net/avatar/images/9/9d/Kind_Yue.png/revision/latest?cb=20140122221734"
  },
  {
@@ -1888,6 +1943,7 @@
   "appearanceNote": null,
   "firstEpisode": 18,
   "imageFile": "Chief.png",
+  "description": "Arnook was the chief of the Northern Water Tribe during the final stages of the Hundred Year War. He was born and raised in the North Pole, where he trained as a warrior. Following his father's death more than twenty years prior to Team Avatar's arrival at the North Pole, Arnook assumed the role of the chief. Though he was not a waterbender, the other men respected him, and he grew to become a great leader.",
   "image": "https://static.wikia.nocookie.net/avatar/images/0/0c/Chief.png/revision/latest?cb=20140122221730"
  },
  {
@@ -1915,6 +1971,7 @@
   "appearanceNote": null,
   "firstEpisode": 19,
   "imageFile": "Hahn.png",
+  "description": "Hahn was a slick, career-minded soldier who resided in the Northern Water Tribe and was focused solely on the Hundred Year War. Due to Hahn's high ranking, Chief Arnook arranged a marriage between him and Princess Yue. However, this marriage never took place due to Yue's death. Often considered by women as the most handsome warrior in the Northern Tribe, Hahn preoccupied himself with making a good impression on his superiors.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/46/Hahn.png/revision/latest?cb=20140122221732"
  },
  {
@@ -1951,6 +2008,7 @@
   "appearanceNote": null,
   "firstEpisode": 48,
   "imageFile": "Sinister Hama.png",
+  "description": "Hama was a waterbending master from the Southern Water Tribe. She was the very last waterbender of Wolf Cove to be captured and imprisoned by the Fire Nation during the Southern Water Tribe raids, but she escaped through the use of bloodbending, a waterbending technique she developed while incarcerated. Upon her escape, she fled to a small town in the Fire Nation, where she became an innkeeper.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/4d/Sinister_Hama.png/revision/latest?cb=20111215082556"
  },
  {
@@ -1980,6 +2038,7 @@
   "appearanceNote": "vision",
   "firstEpisode": 24,
   "imageFile": "Kya (nonbender).png",
+  "description": "Kya was the mother of Sokka and Katara and the wife of Hakoda, the chief of their village of Wolf Cove in the Southern Water Tribe. She was killed by Yon Rha during a raid on her home, and her death had a profound impact upon both her children and her husband. Her daughter, Katara, wore her necklace as a memento of her affection.",
   "image": "https://static.wikia.nocookie.net/avatar/images/b/b5/Kya_%28nonbender%29.png/revision/latest?cb=20170523213135"
  },
  {
@@ -2014,6 +2073,7 @@
   "appearanceNote": "vision",
   "firstEpisode": 21,
   "imageFile": "Kuruk.png",
+  "description": "Kuruk was the Water Tribe Avatar immediately succeeding Avatar Yangchen and preceding Avatar Kyoshi. Native to the Northern Water Tribe, he was a powerful and gifted bender who dreamed of changing the mortal world for the better by uniting the people and acting upon the foundations laid by Yangchen. His hopes were dashed, however, after a brutal confrontation with a dark spirit resulted in a deep spiritual corruption that began to fester within him.",
   "image": "https://static.wikia.nocookie.net/avatar/images/d/d1/Kuruk.png/revision/latest?cb=20260818193030"
  },
  {
@@ -2045,6 +2105,7 @@
   "appearanceNote": null,
   "firstEpisode": 18,
   "imageFile": "Yagoda.png",
+  "description": "Yagoda was a female waterbender from the Northern Water Tribe. She specialized in healing and instructed young women of Agna Qel'a on how to use their waterbending abilities for various healing purposes.",
   "image": "https://static.wikia.nocookie.net/avatar/images/5/5b/Yagoda.png/revision/latest?cb=20140119144821"
  },
  {
@@ -2077,6 +2138,7 @@
   "appearanceNote": null,
   "firstEpisode": 24,
   "imageFile": "Huu.png",
+  "description": "Huu was a waterbending master native to the Foggy Swamp Tribe located southwest of the Earth Kingdom. Huu reached enlightenment while sitting under the great banyan-grove tree in the heart of the swamp. Huu, being the wisest member of the tribe, believed that all living things were connected to one another.",
   "image": "https://static.wikia.nocookie.net/avatar/images/8/85/Huu.png/revision/latest?cb=20130630224726"
  },
  {
@@ -2108,6 +2170,7 @@
   "appearanceNote": null,
   "firstEpisode": 24,
   "imageFile": "Due.png",
+  "description": "Due was a waterbender native to the Foggy Swamp Tribe located in the Earth Kingdom. He lived there with his friends and fellow tribesmen, Tho and Huu, as well as the rest of his tribe.",
   "image": "https://static.wikia.nocookie.net/avatar/images/7/7b/Due.png/revision/latest?cb=20130630225941"
  },
  {
@@ -2139,6 +2202,7 @@
   "appearanceNote": null,
   "firstEpisode": 24,
   "imageFile": "Tho.png",
+  "description": "Tho was a waterbender native to the Earth Kingdom's Foggy Swamp. He was close friends with Huu and Due.",
   "image": "https://static.wikia.nocookie.net/avatar/images/d/d6/Tho.png/revision/latest?cb=20130630225558"
  },
  {
@@ -2173,6 +2237,7 @@
   "appearanceNote": null,
   "firstEpisode": 5,
   "imageFile": "King Bumi.png",
+  "description": "Bumi was the wild-eyed, eccentric, elderly King of Omashu. Prior to the start of the Hundred Year War, Bumi had been a close friend of Avatar Aang, and he remained the only known friend from Aang's childhood still alive by 100 AG. He became an old and wild man, prone to cackling and snorting laughter at jokes. Despite his apparent frailty, Bumi was an earthbending master, at one point claiming to be \"the most powerful earthbender you'll ever see\".",
   "image": "https://static.wikia.nocookie.net/avatar/images/e/e8/King_Bumi.png/revision/latest?cb=20140106141303"
  },
  {
@@ -2205,6 +2270,7 @@
   "appearanceNote": null,
   "firstEpisode": 34,
   "imageFile": "Kuei.png",
+  "description": "The 52nd Earth King, born Kuei, was the ruler of the Earth Kingdom during the latter part of the Hundred Year War. For most of his early reign he was nothing more than a figurehead, with the true power residing with the city's Grand Secretariat, Long Feng. Although he briefly regained full power following the involvement of Avatar Aang, he was forced to flee Ba Sing Se after a coup orchestrated by the Dai Li and Princess Azula.",
   "image": "https://static.wikia.nocookie.net/avatar/images/5/5e/Kuei.png/revision/latest?cb=20130627084042"
  },
  {
@@ -2234,6 +2300,7 @@
   "appearanceNote": null,
   "firstEpisode": 34,
   "imageFile": "Bosco.png",
+  "description": "Bosco was Earth King Kuei's pet bear and best friend. He lived with his master in the Earth Kingdom Royal Palace.",
   "image": "https://static.wikia.nocookie.net/avatar/images/9/9b/Bosco.png/revision/latest?cb=20140517110638"
  },
  {
@@ -2269,6 +2336,7 @@
   "appearanceNote": null,
   "firstEpisode": 34,
   "imageFile": "Long Feng scheming.png",
+  "description": "Long Feng was the Grand Secretariat of Ba Sing Se, the leader of the Dai Li, and a very charismatic, influential, and manipulative individual who lusted for power. As Earth King Kuei's closest personal adviser, Long Feng hid the Hundred Year War's existence outside the Earth Kingdom capital's walls while the Dai Li supplanted the king's power over his people.",
   "image": "https://static.wikia.nocookie.net/avatar/images/8/8d/Long_Feng_scheming.png/revision/latest?cb=20140510202422"
  },
  {
@@ -2300,6 +2368,7 @@
   "appearanceNote": null,
   "firstEpisode": 34,
   "imageFile": "Joo Dee.png",
+  "description": "\"Joo Dee\" was one of Ba Sing Se's Cultural Ambassadors. She worked as a guide for important visitors to help the Dai Li neutralize unwanted outside influences. Her robotic, cheery demeanor, mechanical mannerisms, and tendency to hold the party line when talking about the official political practices of Ba Sing Se were all the result of brainwashing by the Dai Li. Even her name was recycled and used by all Cultural Ambassadors.",
   "image": "https://static.wikia.nocookie.net/avatar/images/1/1f/Joo_Dee.png/revision/latest?cb=20140422090643"
  },
  {
@@ -2334,6 +2403,7 @@
   "appearanceNote": null,
   "firstEpisode": 6,
   "imageFile": "Haru.png",
+  "description": "Haru was a skilled earthbender whose Earth Kingdom village was temporarily occupied by the Fire Nation during the final years of the Hundred Year War. After breaking his father, Tyro, and several other earthbenders out of a Fire Nation prison rig with the aid of Team Avatar, Haru became part of his father's militia and fought in the wider anti-Fire Nation rebellions of the western Earth Kingdom.",
   "image": "https://static.wikia.nocookie.net/avatar/images/d/da/Haru.png/revision/latest?cb=20110104010244"
  },
  {
@@ -2368,6 +2438,7 @@
   "appearanceNote": null,
   "firstEpisode": 6,
   "imageFile": "Tyro during the invasion.png",
+  "description": "Tyro was the wise and courageous leader of a rural Earth Kingdom mining village and the father of Haru.",
   "image": "https://static.wikia.nocookie.net/avatar/images/8/88/Tyro_during_the_invasion.png/revision/latest?cb=20130609164844"
  },
  {
@@ -2401,6 +2472,7 @@
   "appearanceNote": null,
   "firstEpisode": 10,
   "imageFile": "Jet.png",
+  "description": "Jet was the teenage leader of a group of refugee Earth Kingdom children who called themselves the Freedom Fighters.",
   "image": "https://static.wikia.nocookie.net/avatar/images/1/1e/Jet.png/revision/latest?cb=20150324102352"
  },
  {
@@ -2436,6 +2508,7 @@
   "appearanceNote": null,
   "firstEpisode": 10,
   "imageFile": "Smellerbee.png",
+  "description": "Smellerbee was a member and the eventual leader of a band of rebels known as the Freedom Fighters. Due to her androgynous appearance and tomboyish clothing, people often mistook her for a boy, to which she took offense. Smellerbee understood both Jet and Longshot better than any of the other Freedom Fighters did. She dressed in light armor and was proficient with bladed weapons such as the sword and knife. She also partook in the liberation of Ba Sing Se.",
   "image": "https://static.wikia.nocookie.net/avatar/images/3/3a/Smellerbee.png/revision/latest?cb=20140413234450"
  },
  {
@@ -2469,6 +2542,7 @@
   "appearanceNote": null,
   "firstEpisode": 10,
   "imageFile": "Longshot.png",
+  "description": "Longshot was an Earth Kingdom revolutionary and exceptionally skilled archer who served as a member of two rebel groups, namely the Freedom Fighters and Silver Fangs. He was often taciturn, though his opinions were greatly valued by his peers.",
   "image": "https://static.wikia.nocookie.net/avatar/images/e/e7/Longshot.png/revision/latest?cb=20140413233811"
  },
  {
@@ -2500,6 +2574,7 @@
   "appearanceNote": null,
   "firstEpisode": 10,
   "imageFile": "Pipsqueak.png",
+  "description": "Pipsqueak, bearing a misnomer for his name, was the largest and, physically, the strongest member of the Freedom Fighters, who wielded a simple wood log in combat. Like the rest of his group, he was orphaned by the Fire Nation during the Hundred Year War, and though he was not the brightest, his brute strength and remarkable agility made him a valuable addition to the team.",
   "image": "https://static.wikia.nocookie.net/avatar/images/e/ef/Pipsqueak.png/revision/latest?cb=20130706005357"
  },
  {
@@ -2531,6 +2606,7 @@
   "appearanceNote": null,
   "firstEpisode": 10,
   "imageFile": "The Duke.png",
+  "description": "The Duke was an Earth Kingdom boy, who, at the age of eight, was the youngest and smallest of the Freedom Fighters.",
   "image": "https://static.wikia.nocookie.net/avatar/images/c/cd/The_Duke.png/revision/latest?cb=20130706011726"
  },
  {
@@ -2562,6 +2638,7 @@
   "appearanceNote": null,
   "firstEpisode": 10,
   "imageFile": "Sneers.png",
+  "description": "Sneers was an Earth Kingdom activist. Orphaned at a young age, he initially joined the Freedom Fighters and became the group's scout. His job was to watch for approaching Fire Nation soldiers or anything else that could be deemed a threat or an interesting opportunity; in order to alert the other members, he would mimic a bird call. After the end of the Hundred Year War and dissolution of the Freedom Fighters, he moved to Yu Dao and began a relationship with Kori Morishita.",
   "image": "https://static.wikia.nocookie.net/avatar/images/6/65/Sneers.png/revision/latest?cb=20200728155533"
  },
  {
@@ -2591,6 +2668,7 @@
   "appearanceNote": null,
   "firstEpisode": 4,
   "imageFile": "Oyaji.png",
+  "description": "Oyaji was the leader of a village on Kyoshi Island. Proud that Kyoshi Island had stayed out of the Hundred Year War and wary of outsiders who might threaten the island's peace, he was initially distrustful of Avatar Aang and his friends when they first arrived on the island, believing them to be Fire Nation spies. However, he later stood beside them and helped get his people to safety when the Fire Nation attacked.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/42/Oyaji.png/revision/latest?cb=20130819103514"
  },
  {
@@ -2623,6 +2701,7 @@
   "appearanceNote": null,
   "firstEpisode": 26,
   "imageFile": "Xin Fu.png",
+  "description": "Xin Fu was the promoter and host of the underground earthbending tournament, Earth Rumble. He was a proficient and powerful earthbender and was once an active competitor of the tournament; however, unlike most of the other wrestlers, he was also business savvy and was always looking for ways to make money. He was stubborn and greedy, and was willing to do anything for money, even to the point of making deals with the Fire Nation.",
   "image": "https://static.wikia.nocookie.net/avatar/images/0/02/Xin_Fu.png/revision/latest?cb=20140317211615"
  },
  {
@@ -2657,6 +2736,7 @@
   "appearanceNote": null,
   "firstEpisode": 26,
   "imageFile": "Yu.png",
+  "description": "Yu was an earthbending master and a resident of the upper-class Earth Kingdom town of Gaoling. He was the manager and primary instructor of the town's earthbending academy and planned to begin a franchise after earning enough money. He later became a bounty hunter, searching for Toph Beifong upon her father Lao's request, but returned to his teaching profession after failing to capture his target.",
   "image": "https://static.wikia.nocookie.net/avatar/images/e/e2/Yu.png/revision/latest?cb=20140317211616"
  },
  {
@@ -2693,6 +2773,7 @@
   "appearanceNote": null,
   "firstEpisode": 26,
   "imageFile": "Lao Beifong.png",
+  "description": "Lao Beifong was a wealthy figure and businessman native to the Earth Kingdom. He was the husband of Poppy Beifong and the father of Toph. Caring deeply for his daughter and only wishing for her safety, he was extremely overprotective of her, and hid her existence from the rest of the world. She consequently ran away from home at Gaoling, resulting in a rift between Lao, Toph, and Poppy.",
   "image": "https://static.wikia.nocookie.net/avatar/images/a/aa/Lao_Beifong.png/revision/latest?cb=20140317211137"
  },
  {
@@ -2723,6 +2804,7 @@
   "appearanceNote": null,
   "firstEpisode": 26,
   "imageFile": "Poppy Beifong.png",
+  "description": "Poppy Beifong was a wealthy, high-status figure in Gaoling. Like her husband Lao, Poppy cared deeply for their daughter Toph, but was extremely protective of her, unwilling to acknowledge the young earthbender's capabilities.",
   "image": "https://static.wikia.nocookie.net/avatar/images/c/c8/Poppy_Beifong.png/revision/latest?cb=20131231180143"
  },
  {
@@ -2755,6 +2837,7 @@
   "appearanceNote": null,
   "firstEpisode": 26,
   "imageFile": "The Boulder.png",
+  "description": "The Boulder was a professional earthbending wrestler who participated in the Earth Rumble tournaments. He later went on to fight for the Earth Kingdom and assist in the invasion of the Fire Nation along with The Big Bad Hippo.",
   "image": "https://static.wikia.nocookie.net/avatar/images/7/70/The_Boulder.png/revision/latest?cb=20140317195145"
  },
  {
@@ -2785,6 +2868,7 @@
   "appearanceNote": null,
   "firstEpisode": 26,
   "imageFile": "The Big Bad Hippo.png",
+  "description": "The Big Bad Hippo was initially an earthbending wrestler in Earth Rumble, but later became a soldier for his nation when he, along with The Boulder, participated in the invasion of the Fire Nation.",
   "image": "https://static.wikia.nocookie.net/avatar/images/d/df/The_Big_Bad_Hippo.png/revision/latest?cb=20140317211139"
  },
  {
@@ -2818,6 +2902,7 @@
   "appearanceNote": null,
   "firstEpisode": 26,
   "imageFile": "Fire Nation Man.png",
+  "description": "Fire Nation Man was an earthbender who fought in the Earth Rumble tournaments in the town of Gaoling. However, \"Fire Nation Man\" was only a stage name, and he was not an actual citizen of the Fire Nation. His role was that of a heel: to be hated by the audience and defeated instantly in order to generate enthusiasm for other fighters.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/46/Fire_Nation_Man.png/revision/latest?cb=20140317210008"
  },
  {
@@ -2845,6 +2930,7 @@
   "appearanceNote": null,
   "firstEpisode": 22,
   "imageFile": "Song.png",
+  "description": "Song was a young girl who worked at a hospital in an agricultural Earth Kingdom village.",
   "image": "https://static.wikia.nocookie.net/avatar/images/7/7e/Song.png/revision/latest?cb=20140128110439"
  },
  {
@@ -2872,6 +2958,7 @@
   "appearanceNote": null,
   "firstEpisode": 27,
   "imageFile": "Lee.png",
+  "description": "Lee was the second son of the Earth Kingdom farmer Gansu and his wife Sela. He had an older brother named Sensu who enlisted in the nation's army to fight against the Fire Nation.",
   "image": "https://static.wikia.nocookie.net/avatar/images/5/50/Lee.png/revision/latest?cb=20140331143006"
  },
  {
@@ -2903,6 +2990,7 @@
   "appearanceNote": null,
   "firstEpisode": 27,
   "imageFile": "Gow.png",
+  "description": "Gow was the corrupt Earth Kingdom army officer who commanded a small group of soldiers stationed in an Earth Kingdom village visited by Zuko during his alone travel.",
   "image": "https://static.wikia.nocookie.net/avatar/images/d/d9/Gow.png/revision/latest?cb=20140331143005"
  },
  {
@@ -2932,6 +3020,7 @@
   "appearanceNote": null,
   "firstEpisode": 22,
   "imageFile": "Chong.png",
+  "description": "Chong was an easygoing nomad who traveled around the world accompanied by his wife, Lily, and several other nomad companions, playing songs and recounting stories. He appeared to be quite ignorant and blissful, leading a carefree lifestyle. He helped Aang and his friends on their travels to reach Omashu by informing them of the existence of the Cave of Two Lovers.",
   "image": "https://static.wikia.nocookie.net/avatar/images/f/f8/Chong.png/revision/latest?cb=20140127210142"
  },
  {
@@ -2961,6 +3050,7 @@
   "appearanceNote": null,
   "firstEpisode": 22,
   "imageFile": "Lily.png",
+  "description": "Lily was an Earth Kingdom nomad and musician who shared many similarities with her husband, Chong.",
   "image": "https://static.wikia.nocookie.net/avatar/images/0/0a/Lily.png/revision/latest?cb=20140128105159"
  },
  {
@@ -2990,6 +3080,7 @@
   "appearanceNote": null,
   "firstEpisode": 22,
   "imageFile": "Moku.png",
+  "description": "Moku was a nomad who traveled with Chong and Lily through the Earth Kingdom. A happy and easy-going young man, he played a hand drum that he kept on him at all times in case of the need of musical accompaniment during a spontaneous song. Moku wore a white robe with pale pink edges and a cone hat called a caping which was decorated with a small pink flower.",
   "image": "https://static.wikia.nocookie.net/avatar/images/7/78/Moku.png/revision/latest?cb=20140128105200"
  },
  {
@@ -3021,6 +3112,7 @@
   "appearanceNote": null,
   "firstEpisode": 21,
   "imageFile": "Fong.png",
+  "description": "General Fong was a powerful earthbender and a high-ranking officer in the Earth Kingdom Army who served as a general during the final stages of the Hundred Year War. Fong was a temporary ally of Team Avatar who attempted to help Aang master the Avatar State.",
   "image": "https://static.wikia.nocookie.net/avatar/images/0/08/Fong.png/revision/latest?cb=20130625120143"
  },
  {
@@ -3056,6 +3148,7 @@
   "appearanceNote": null,
   "firstEpisode": 38,
   "imageFile": "How.png",
+  "description": "How was a top general, the leader of the Council of Five, and a longtime veteran of the Hundred Year War. Essentially being the supreme officer of the Earth Kingdom military and the primary military adviser of the Earth King, How's primary duty was to guard the Outer Wall of Ba Sing Se.",
   "image": "https://static.wikia.nocookie.net/avatar/images/5/54/How.png/revision/latest?cb=20130627093056"
  },
  {
@@ -3085,6 +3178,7 @@
   "appearanceNote": null,
   "firstEpisode": 27,
   "imageFile": "Than.png",
+  "description": "Than was an Earth Kingdom refugee who, along with his sister and his wife Ying, sought shelter in Ba Sing Se during the closing years of the Hundred Year War.",
   "image": "https://static.wikia.nocookie.net/avatar/images/8/85/Than.png/revision/latest?cb=20140413234452"
  },
  {
@@ -3114,6 +3208,7 @@
   "appearanceNote": null,
   "firstEpisode": 27,
   "imageFile": "Ying.png",
+  "description": "Ying was Than's wife and the mother of Hope. She traveled with her husband and sister-in-law through the Serpent's Pass alongside Team Avatar while heavily pregnant, intending to reach the safety of Ba Sing Se.",
   "image": "https://static.wikia.nocookie.net/avatar/images/7/76/Ying.png/revision/latest?cb=20140413234455"
  },
  {
@@ -3141,6 +3236,7 @@
   "appearanceNote": null,
   "firstEpisode": 14,
   "imageFile": "Aunt Wu.png",
+  "description": "Aunt Wu was an elderly citizen of Makapu Village who worked as a fortuneteller. The people of Makapu were so confident in her abilities that they abandoned their yearly tradition of going up the nearby volcano to check if it would erupt and instead relied on Aunt Wu's predictions. Well-regarded for her free and accurate readings, every prediction she made was taken as gospel by the village at large. Her methods of divination ran from palmistry to osteomancy and cloud reading.",
   "image": "https://static.wikia.nocookie.net/avatar/images/c/c9/Aunt_Wu.png/revision/latest?cb=20130626124117"
  },
  {
@@ -3169,6 +3265,7 @@
   "appearanceNote": null,
   "firstEpisode": 14,
   "imageFile": "Meng.png",
+  "description": "Meng was a resident of Makapu Village and the young assistant of Aunt Wu, the local fortuneteller. Part of her job included greeting Aunt Wu's guests and bringing them snacks. Even though she was not related to the fortuneteller, Meng looked up to her mentor and thought of her like a grandmother. Although she was a little clumsy, some have noted that she made delicious bean curd puffs.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/42/Meng.png/revision/latest?cb=20130814090639"
  },
  {
@@ -3210,6 +3307,7 @@
   "appearanceNote": "vision",
   "firstEpisode": 21,
   "imageFile": "Kyoshi.png",
+  "description": "Kyoshi was the Earth Kingdom-born Avatar immediately succeeding Avatar Kuruk of the Northern Water Tribe, and preceding Avatar Roku of the Fire Nation. She died at the age of 230, making her the oldest confirmed human, and was also an exceptionally tall woman, towering over most people. Kyoshi was born to two criminals: Jesa, a renegade Air Nomad nun, and Hark, a thief from an impoverished family of Earth Kingdom actors.",
   "image": "https://static.wikia.nocookie.net/avatar/images/3/39/Kyoshi.png/revision/latest?cb=20230729120809"
  },
  {
@@ -3238,6 +3336,7 @@
   "appearanceNote": null,
   "firstEpisode": 17,
   "imageFile": "Mechanist.png",
+  "description": "The mechanist was an inventor and engineer from the Earth Kingdom who became a refugee after being displaced by a flood. He eventually resettled at the deserted Northern Air Temple during the Hundred Year War.",
   "image": "https://static.wikia.nocookie.net/avatar/images/b/b7/Mechanist.png/revision/latest?cb=20140118124602"
  },
  {
@@ -3265,6 +3364,7 @@
   "appearanceNote": null,
   "firstEpisode": 17,
   "imageFile": "Teo.png",
+  "description": "Teo was an Earth Kingdom boy with paraplegia who lived in the Northern Air Temple with his father, the mechanist.",
   "image": "https://static.wikia.nocookie.net/avatar/images/7/77/Teo.png/revision/latest?cb=20140118125457"
  },
  {
@@ -3295,6 +3395,7 @@
   "appearanceNote": null,
   "firstEpisode": 30,
   "imageFile": "Zei.png",
+  "description": "Professor Zei was the head of the anthropology department at Ba Sing Se University. An ambitious cultural anthropologist, he was well-traveled and highly educated in exotic cultures. Zei was an eccentric man to whom knowledge was priceless, and his thirst for knowledge brought him to strange, remote, and often dangerous places. He became excited at the prospect of learning anything about history or the world around him.",
   "image": "https://static.wikia.nocookie.net/avatar/images/b/b0/Zei.png/revision/latest?cb=20140404204805"
  },
  {
@@ -3322,6 +3423,7 @@
   "appearanceNote": null,
   "firstEpisode": 15,
   "imageFile": "June.png",
+  "description": "June was a bounty hunter and adventurer who traveled around the world. She rose to fame during the late Hundred Year War, operating in the Earth Kingdom and Fire Nation and gaining a reputation as the best and most expensive bounty hunter of her time. She was a mercenary and had no allegiance to any nation, only to the highest bidder for her services.",
   "image": "https://static.wikia.nocookie.net/avatar/images/e/ea/June.png/revision/latest?cb=20130626132827"
  },
  {
@@ -3347,6 +3449,7 @@
   "appearanceNote": null,
   "firstEpisode": 4,
   "imageFile": "Foaming mouth guy.png",
+  "description": "The foaming mouth guy was one of the biggest fans of the Avatar. Originally a resident of Suki's village on Kyoshi Island, he later relocated to Republic City.",
   "image": "https://static.wikia.nocookie.net/avatar/images/1/12/Foaming_mouth_guy.png/revision/latest?cb=20140215111856"
  },
  {
@@ -3380,6 +3483,7 @@
   "appearanceNote": null,
   "firstEpisode": 5,
   "imageFile": "Cabbage merchant.png",
+  "description": "Cai, also referred to as the cabbage merchant, was an Earth Kingdom businessman and founder of Cabbage Corp. Originally an ordinary salesman who specialized in selling cabbages, he was constantly plagued by misfortune during his business endeavors, as his cabbages were continually destroyed or damaged after encountering Team Avatar and their enemies.",
   "image": "https://static.wikia.nocookie.net/avatar/images/2/2f/Cabbage_merchant.png/revision/latest?cb=20140112200908"
  },
  {
@@ -3411,6 +3515,7 @@
   "appearanceNote": null,
   "firstEpisode": 31,
   "imageFile": "Sha-Mo.png",
+  "description": "Sha-Mo was a sandbender who spent his life in the Si Wong Desert and thus a master of survival in its harsh environment. He was a man of importance in his tribe of sandbenders.",
   "image": "https://static.wikia.nocookie.net/avatar/images/9/9f/Sha-Mo.png/revision/latest?cb=20260512022246"
  },
  {
@@ -3442,6 +3547,7 @@
   "appearanceNote": null,
   "firstEpisode": 30,
   "imageFile": "Ghashiun.png",
+  "description": "Ghashiun was a member of a sandbender tribe who resided within the Si Wong Desert. He was the adolescent son of Sha-Mo and his late wife Yulduz. Ghashiun normally spent his days riding around the desert on sand-sailers with his gang of friends, usually getting into trouble and stealing anything that was not well-guarded.",
   "image": "https://static.wikia.nocookie.net/avatar/images/9/98/Ghashiun.png/revision/latest?cb=20130705103954"
  },
  {
@@ -3473,6 +3579,7 @@
   "appearanceNote": null,
   "firstEpisode": 46,
   "imageFile": "Sud.png",
+  "description": "Sud was Avatar Roku's earthbending teacher who taught him the bending art when he was in the process of mastering the four elements. He subsequently became the teacher of Earth King Jialun.",
   "image": "https://static.wikia.nocookie.net/avatar/images/d/d1/Sud.png/revision/latest?cb=20130110111840"
  },
  {
@@ -3510,6 +3617,7 @@
   "appearanceNote": null,
   "firstEpisode": 35,
   "imageFile": "Jin.png",
+  "description": "Jin was a refugee of the Hundred Year War and revolutionary who lived in Ba Sing Se. Forced to leave her home in Daying after the Fire Army killed her parents during her early youth, she spent her teenage years as a delivery girl in Ba Sing Se's Lower Ring. In spring 100 AG, Jin and her acquaintances became entangled in the city's great conspiracy when she attempted to save her friend Susu Wen from a \"Joo Dee\" contract.",
   "image": "https://static.wikia.nocookie.net/avatar/images/0/08/Jin.png/revision/latest?cb=20140504182006"
  },
  {
@@ -3538,6 +3646,7 @@
   "appearanceNote": null,
   "firstEpisode": 37,
   "imageFile": "Quon.png",
+  "description": "Quon was a wealthy young merchant and a known tea aficionado from a family of Ba Sing Se entrepreneurs. He expanded his family fortune by starting several businesses of his own, including Ba Sing Se's first trans-wall food delivery service, allowing Middle and Upper Ring customers to acquire their favorite Lower Ring delicacies without the hassle and danger of actually traveling to the Lower Ring themselves. His goal was to become the tea baron of Ba Sing Se.",
   "image": "https://static.wikia.nocookie.net/avatar/images/8/8a/Quon.png/revision/latest?cb=20130701091130"
  },
  {
@@ -3567,6 +3676,7 @@
   "appearanceNote": null,
   "firstEpisode": 34,
   "imageFile": "Pao.png",
+  "description": "Pao was the owner of the Pao Family Tea House in the Lower Ring of Ba Sing Se. He was a courteous man who was protective of his business and appreciated his employees. He valued Iroh's tea making skills and held him in high esteem.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/45/Pao.png/revision/latest?cb=20140422090645"
  },
  {
@@ -3594,6 +3704,7 @@
   "appearanceNote": null,
   "firstEpisode": 48,
   "imageFile": "Ding.png",
+  "description": "Ding, more commonly known as \"Old Man Ding\", was a resident of a small Fire Nation village. He was the only person in the village who managed to escape the \"moon monster\" which captured people when they ventured into the woods during the full moon.",
   "image": "https://static.wikia.nocookie.net/avatar/images/e/ef/Ding.png/revision/latest?cb=20140903132916"
  },
  {
@@ -3621,6 +3732,7 @@
   "appearanceNote": null,
   "firstEpisode": 27,
   "imageFile": "Sela.png",
+  "description": "Sela was Gansu's wife and the mother of two sons, Lee and his older brother, Sensu. She and her family ran a farm in a small Earth Kingdom village.",
   "image": "https://static.wikia.nocookie.net/avatar/images/5/5c/Sela.png/revision/latest?cb=20140331143654"
  },
  {
@@ -3648,6 +3760,7 @@
   "appearanceNote": null,
   "firstEpisode": 27,
   "imageFile": "Gansu.png",
+  "description": "Gansu was an Earth Kingdom farmer and the owner of the Lee Family Pig Farm, where he lived with his wife, Sela, and his younger son, Lee. His older son, Sensu, left to fight in the Hundred Year War against the Fire Nation.",
   "image": "https://static.wikia.nocookie.net/avatar/images/b/b9/Gansu.png/revision/latest?cb=20140331143004"
  },
  {
@@ -3677,6 +3790,7 @@
   "appearanceNote": null,
   "firstEpisode": 11,
   "imageFile": "Canyon guide.png",
+  "description": "The canyon guide was an earthbender who served as a tour guide for people traveling through the massive Great Divide, located in the Earth Kingdom. He had extensive knowledge of its history, fauna, geography, and climate. The canyon guide was a pleasant man who seemed to enjoy his job; however, he promptly quit after a near-death experience with a group of canyon crawlers.",
   "image": "https://static.wikia.nocookie.net/avatar/images/d/db/Canyon_guide.png/revision/latest?cb=20131202201055"
  },
  {
@@ -3704,6 +3818,7 @@
   "appearanceNote": null,
   "firstEpisode": 5,
   "imageFile": "Goat gorilla.png",
+  "description": "Flopsie was King Bumi's pet goat gorilla. As such, he had a gorilla's face and body, a goat's hind legs, tail, eyes, ears, and horns. Flopsie was extremely large, with big green eyes and enormous teeth. Despite his unnerving appearance, he was extremely affectionate and loved to have his belly scratched.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/4c/Goat_gorilla.png/revision/latest?cb=20130706150318"
  },
  {
@@ -3729,6 +3844,7 @@
   "appearanceNote": null,
   "firstEpisode": 15,
   "imageFile": "Shirshu.png",
+  "description": "Nyla was a shirshu who served as the mount and constant companion of the bounty hunter June.",
   "image": "https://static.wikia.nocookie.net/avatar/images/7/71/Shirshu.png/revision/latest?cb=20130626132120"
  },
  {
@@ -3765,6 +3881,7 @@
   "appearanceNote": null,
   "firstEpisode": 3,
   "imageFile": "Monk Gyatso.png",
+  "description": "Gyatso was an airbending master, monk, and a member of the Southern Air Temple's Council of Elders who became a highly influential figure in the 1st century BG. From his youth, he was a friend and companion of Avatar Roku, and later became the guardian, mentor, and father figure of Roku's successor Aang.",
   "image": "https://static.wikia.nocookie.net/avatar/images/a/a4/Monk_Gyatso.png/revision/latest?cb=20140103203807"
  },
  {
@@ -3804,6 +3921,7 @@
   "appearanceNote": "vision",
   "firstEpisode": 21,
   "imageFile": "Yangchen.png",
+  "description": "Yangchen was the Air Nomad Avatar succeeding Avatar Szeto and preceding Avatar Kuruk. She grew up during a period of relative isolation among the four nations in the aftermath of the Platinum Affair. After mastering all four elements in her youth, she was eager to make a difference in the world despite her inexperience.",
   "image": "https://static.wikia.nocookie.net/avatar/images/d/db/Yangchen.png/revision/latest?cb=20220324195813"
  },
  {
@@ -3840,6 +3958,7 @@
   "appearanceNote": null,
   "firstEpisode": 3,
   "imageFile": "Tashi.png",
+  "description": "Tashi was one of five members of the Southern Air Temple's Council of Elders shortly before the Hundred Year War. He was one of the monks who told Aang of his Avatar status and was strict and adamant about getting the young Air Nomad to train.",
   "image": "https://static.wikia.nocookie.net/avatar/images/3/35/Tashi.png/revision/latest?cb=20130714155745"
  },
  {
@@ -3868,6 +3987,7 @@
   "appearanceNote": null,
   "firstEpisode": 36,
   "imageFile": "Guru Pathik.png",
+  "description": "Guru Pathik was a nomadic supercentenarian who possessed great knowledge of the Spirit World and its effects on normal humans, as well as the nature of the Avatar and the Avatar State. He was spiritually enlightened and had assisted numerous people, as well as animals like Appa, attain their full potential and cleanse themselves of pain and suffering. Pathik did not hold an allegiance to any one nation and was willing to teach anybody who wished to learn from him.",
   "image": "https://static.wikia.nocookie.net/avatar/images/9/91/Guru_Pathik.png/revision/latest?cb=20140510202641"
  },
  {
@@ -3899,6 +4019,7 @@
   "appearanceNote": null,
   "firstEpisode": 30,
   "imageFile": "Wan Shi Tong.png",
+  "description": "Wan Shi Tong is an ancient, wise, and powerful spirit who collects information for his Spirit Library. He is the most knowledgeable being among humans and spirits, never missing an opportunity to learn new facts or boast about his vast intelligence, though he has developed an indifference for studying human technology since leaving the physical world.",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/4c/Wan_Shi_Tong.png/revision/latest?cb=20140404204804"
  },
  {
@@ -3928,6 +4049,7 @@
   "appearanceNote": null,
   "firstEpisode": 20,
   "imageFile": "Koh the Face Stealer.png",
+  "description": "Koh the Face Stealer is one of the most ancient and knowledgeable spirits in all of the Spirit World. He is a malevolent entity with the body of an enormous centipede-like creature and resides under an ancient tree in the Spirit World. His self-chosen name reflects his ability to literally steal the faces of other beings who express emotion and use them at will by \"blinking\".",
   "image": "https://static.wikia.nocookie.net/avatar/images/4/4f/Koh_the_Face_Stealer.png/revision/latest?cb=20251121221047"
  },
  {
@@ -3959,6 +4081,7 @@
   "appearanceNote": null,
   "firstEpisode": 7,
   "imageFile": "Calm Hei Bai.png",
+  "description": "Hei Bai, also known as the Black and White Spirit, is a forest spirit that typically appears in the form of a docile panda bear and has protected an Earth Kingdom forest for thousands of years. He can also transform into a large six-legged creature within the Spirit World.",
   "image": "https://static.wikia.nocookie.net/avatar/images/b/b2/Calm_Hei_Bai.png/revision/latest?cb=20140124170913"
  },
  {
@@ -3993,6 +4116,7 @@
   "appearanceNote": null,
   "firstEpisode": 19,
   "imageFile": "Tui.png",
+  "description": "Tui, also known as the Moon Spirit, is one of two spirits that reside in the Spirit Oasis at the North Pole within the Northern Water Tribe's capital city, taking the form of a white koi fish with a large black spot on its head. Together with its counterpart La, Tui was among the first spirits to come to the mortal world, and the pair have kept balance ever since in an \"eternal dance\" of push and pull.",
   "image": "https://static.wikia.nocookie.net/avatar/images/9/99/Tui.png/revision/latest?cb=20140122221307"
  },
  {
@@ -4027,6 +4151,7 @@
   "appearanceNote": null,
   "firstEpisode": 19,
   "imageFile": "La.png",
+  "description": "La, also known as the Ocean Spirit, is one of two spirits which reside in the Spirit Oasis in the Northern Water Tribe's capital city at the North Pole, taking the form of a black koi fish with a large white spot on its head. Together with its counterpart Tui, La was among the first spirits to come to the mortal world, and the pair have kept balance ever since in an \"eternal dance\" of push and pull.",
   "image": "https://static.wikia.nocookie.net/avatar/images/3/32/La.png/revision/latest?cb=20140124171520"
  },
  {
@@ -4052,6 +4177,7 @@
   "appearanceNote": null,
   "firstEpisode": 59,
   "imageFile": "Lion turtle spread.png",
+  "description": "The lion turtle, reverently referred to as Ancient One by the spirits, is the largest and oldest known animal in the world. In the era of Raava, lion turtles populated the Spirit Wilds, where they served as protectors of mankind by housing cities on their backs.",
   "image": "https://static.wikia.nocookie.net/avatar/images/3/33/Lion_turtle_spread.png/revision/latest?cb=20260522040421"
  },
  {
@@ -4081,6 +4207,7 @@
   "appearanceNote": "as a spirit",
   "firstEpisode": 7,
   "imageFile": "Fang.png",
+  "description": "Fang was Avatar Roku's tamed dragon and animal guide who accompanied Roku from his birth until his death.",
   "image": "https://static.wikia.nocookie.net/avatar/images/c/c3/Fang.png/revision/latest?cb=20121217082142"
  },
  {
@@ -4110,6 +4237,7 @@
   "appearanceNote": null,
   "firstEpisode": 43,
   "imageFile": "Painted Lady.png",
+  "description": "The Painted Lady is the benevolent spirit of the Jang Hui River, known for her protectiveness and healing abilities. She was once the guardian spirit of the fishing village of Jang Hui but was driven away due to the region's rising water contamination. However, she eventually returned after Team Avatar helped the villagers clean the river. As is the case with many other spirits, only the spiritually enlightened can see her.",
   "image": "https://static.wikia.nocookie.net/avatar/images/8/80/Painted_Lady.png/revision/latest?cb=20140613143544"
  }
 ]

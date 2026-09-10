@@ -43,7 +43,9 @@ const emit = defineEmits(['close'])
       <h3>🏆 Leaderboard</h3>
       <p>
         Pick a pseudonym and a password to join — no email required. Sign in with the same two on
-        any device and your ranked record follows you. There's no password reset yet, so don't reuse
+        any device and your ranked record follows you. The same account works on
+        <a href="https://hugobourretdesmarais.github.io/onepiecedle/">OnePieceDle</a>, and signing in
+        on one signs you in on the other. There's no password reset yet, so don't reuse
         an important password. Every classic win is ranked, and the board shows the spoiler limit
         each player last won under. Your local 📊 stats stay on this device and are separate from
         your ranked record.

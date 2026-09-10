@@ -1,5 +1,5 @@
 <script setup>
-import { computed, onMounted, onUnmounted } from 'vue'
+import { computed, onMounted, onUnmounted, ref } from 'vue'
 import episodes from '../data/episodes.json'
 import { BOOK_NAMES, SKILL_ICONS, episodeParts } from '../game/compare.js'
 
@@ -13,6 +13,9 @@ const emit = defineEmits(['close'])
 const base = import.meta.env.BASE_URL
 
 const c = computed(() => props.character)
+
+// The wiki lead covers the whole series, so a book-limited card keeps it folded.
+const showDescription = ref(false)
 
 const bendingText = computed(() => {
   const x = c.value
@@ -76,6 +79,15 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
         <span class="flag">then</span> changed later in the series.
       </p>
 
+      <div v-if="c.description" class="description">
+        <template v-if="!limitBook || showDescription">
+          <p>{{ c.description }}</p>
+        </template>
+        <button v-else class="spoiler-toggle" @click="showDescription = true">
+          Show description (covers the whole series)
+        </button>
+      </div>
+
       <table class="details">
         <tbody>
           <tr><td>Gender</td><td>{{ c.gender }}</td></tr>
@@ -137,6 +149,26 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
   color: var(--brown);
   overflow-wrap: anywhere;
 }
+
+.description { margin: 0 0 12px; }
+.description p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.45;
+  color: var(--ink);
+}
+.spoiler-toggle {
+  font-family: inherit;
+  font-size: 12.5px;
+  font-weight: 700;
+  padding: 5px 10px;
+  border-radius: 6px;
+  border: 2px solid var(--tan);
+  background: var(--parchment-dark);
+  color: var(--brown-dark);
+  cursor: pointer;
+}
+.spoiler-toggle:hover { filter: brightness(.96); }
 
 .details {
   width: 100%;

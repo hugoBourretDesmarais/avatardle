@@ -123,7 +123,7 @@ export default {
       const arcLimit = url.searchParams.get('arc') || ''
       if (!DAY_RE.test(day)) return json({ error: 'bad day' }, 400, headers)
       const row = await env.DB.prepare(
-        'SELECT count FROM solves WHERE day = ? AND arc_limit = ?'
+        'SELECT count FROM av_solves WHERE day = ? AND arc_limit = ?'
       ).bind(day, arcLimit).first()
       return json({ day, arcLimit, count: row?.count ?? 0 }, 200, headers)
     }
@@ -148,17 +148,17 @@ export default {
       }
       const hash = await ipHash(request, env)
       const first = await env.DB.prepare(
-        'INSERT OR IGNORE INTO counted (day, arc_limit, ip_hash) VALUES (?, ?, ?)'
+        'INSERT OR IGNORE INTO av_counted (day, arc_limit, ip_hash) VALUES (?, ?, ?)'
       ).bind(day, arcLimit, hash).run()
       const isNew = (first.meta?.changes ?? 0) > 0
       if (isNew) {
         await env.DB.prepare(
-          `INSERT INTO solves (day, arc_limit, count) VALUES (?, ?, 1)
+          `INSERT INTO av_solves (day, arc_limit, count) VALUES (?, ?, 1)
            ON CONFLICT(day, arc_limit) DO UPDATE SET count = count + 1`
         ).bind(day, arcLimit).run()
       }
       const row = await env.DB.prepare(
-        'SELECT count FROM solves WHERE day = ? AND arc_limit = ?'
+        'SELECT count FROM av_solves WHERE day = ? AND arc_limit = ?'
       ).bind(day, arcLimit).first()
       return json({ day, arcLimit, count: row?.count ?? 0, counted: isNew }, 200, headers)
     }
@@ -192,7 +192,7 @@ export default {
             `INSERT INTO players (id, name, name_key, password_salt, password_hash, created_at, last_seen)
              VALUES (?, ?, ?, ?, ?, ?, ?)`
           ).bind(id, name, nameKey, salt, await hashKey(salt, key), now, now),
-          env.DB.prepare('INSERT INTO standings (player_id) VALUES (?)').bind(id),
+          env.DB.prepare('INSERT OR IGNORE INTO av_standings (player_id) VALUES (?)').bind(id),
         ])
       } catch (err) {
         // Only the name_key collision means the name is taken; reporting every
@@ -266,23 +266,25 @@ export default {
       if (name !== answerFor(day, arcLimit)) return json({ error: 'wrong answer' }, 403, headers)
 
       const existing = await env.DB.prepare(
-        'SELECT day FROM results WHERE player_id = ? AND day = ?'
+        'SELECT day FROM av_results WHERE player_id = ? AND day = ?'
       ).bind(player.id, day).first()
       if (existing) return json({ ranked: false, reason: 'already recorded for that day' }, 200, headers)
 
+      // A player who signed up on the other game has no row here yet.
+      await env.DB.prepare('INSERT OR IGNORE INTO av_standings (player_id) VALUES (?)').bind(player.id).run()
       const st = await env.DB.prepare(
-        'SELECT wins, total_guesses, max_streak FROM standings WHERE player_id = ?'
+        'SELECT wins, total_guesses, max_streak FROM av_standings WHERE player_id = ?'
       ).bind(player.id).first() || { wins: 0, total_guesses: 0, max_streak: 0 }
 
       await env.DB.prepare(
-        `INSERT INTO results (player_id, day, arc_limit, guesses, solved_at)
+        `INSERT INTO av_results (player_id, day, arc_limit, guesses, solved_at)
          VALUES (?, ?, ?, ?, ?)`
       ).bind(player.id, day, arcLimit, guesses, new Date().toISOString()).run()
 
       // Derive the streak from the stored days rather than incrementing a
       // counter, so a result that arrives out of order still lands correctly.
       const recent = await env.DB.prepare(
-        'SELECT day, arc_limit FROM results WHERE player_id = ? ORDER BY day DESC LIMIT 90'
+        'SELECT day, arc_limit FROM av_results WHERE player_id = ? ORDER BY day DESC LIMIT 90'
       ).bind(player.id).all()
       const days = (recent.results || []).map(r => r.day)
       const latest = days[0]
@@ -299,7 +301,7 @@ export default {
       const maxStreak = Math.max(st.max_streak || 0, streak)
 
       await env.DB.prepare(
-        `UPDATE standings SET wins = wins + 1, total_guesses = total_guesses + ?,
+        `UPDATE av_standings SET wins = wins + 1, total_guesses = total_guesses + ?,
            streak = ?, max_streak = ?, last_win_day = ?, last_arc_limit = ?
          WHERE player_id = ?`
       ).bind(guesses, streak, maxStreak, latest, latestArc, player.id).run()
@@ -323,7 +325,7 @@ export default {
       const rows = await env.DB.prepare(
         `SELECT p.name, st.wins, st.total_guesses, st.streak, st.max_streak, st.last_win_day,
                 st.last_arc_limit
-         FROM standings st JOIN players p ON p.id = st.player_id
+         FROM av_standings st JOIN players p ON p.id = st.player_id
          WHERE st.wins > 0 ${having}
          ORDER BY ${order} LIMIT 50`
       ).all()
@@ -347,7 +349,7 @@ export default {
       const player = await authenticate(env, url.searchParams.get('token'))
       if (!player) return json({ error: 'not signed in' }, 401, headers)
       const st = await env.DB.prepare(
-        'SELECT wins, total_guesses, streak, max_streak, last_win_day FROM standings WHERE player_id = ?'
+        'SELECT wins, total_guesses, streak, max_streak, last_win_day FROM av_standings WHERE player_id = ?'
       ).bind(player.id).first()
       return json({
         id: player.id,

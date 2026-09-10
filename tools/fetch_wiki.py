@@ -286,6 +286,62 @@ def parse_image(raw):
     return s or None
 
 
+def strip_files(s):
+    """Drop [[File:...]] / [[Image:...]] embeds, whose captions may nest links."""
+    out = []
+    k = 0
+    while k < len(s):
+        if s[k:k+2] == "[[" and re.match(r"\[\[\s*(File|Image):", s[k:], re.I):
+            depth = 0
+            j = k
+            while j < len(s):
+                if s[j:j+2] == "[[":
+                    depth += 1
+                    j += 2
+                elif s[j:j+2] == "]]":
+                    depth -= 1
+                    j += 2
+                    if depth == 0:
+                        break
+                else:
+                    j += 1
+            k = j
+        else:
+            out.append(s[k])
+            k += 1
+    return "".join(out)
+
+
+def parse_lead(txt, box_txt, limit=480):
+    """First paragraph after the infobox -> plain prose, cut at a sentence boundary."""
+    if not txt:
+        return None
+    body = txt
+    if box_txt:
+        i = txt.find(box_txt)
+        if i >= 0:
+            body = txt[i + len(box_txt):]
+    body = body.split("\n==", 1)[0]
+    body = strip_files(strip_refs(body))
+    body = re.sub(r"\{\{[^{}]*\}\}", "", body)
+    body = re.sub(r"<br\s*/?>", " ", body)
+    body = re.sub(r"<[^>]+>", "", body)
+    paras = [p.strip() for p in re.split(r"\n\s*\n", body) if p.strip()]
+    paras = [p for p in paras if not p.startswith((":", "*", "{", "|", "["))]
+    if not paras:
+        return None
+    text = strip_links(paras[0])
+    text = re.sub(r"\s+", " ", text).replace(" ,", ",").replace(" .", ".").strip()
+    if len(text) <= limit:
+        return text or None
+    out = ""
+    for sent in re.split(r"(?<=[.!?])\s+(?=[A-Z\"“])", text):
+        if out and len(out) + len(sent) + 1 > limit:
+            break
+        out = f"{out} {sent}".strip()
+    return out or text[:limit]
+
+
 ELEMENTS = {"airbender": "Air", "waterbender": "Water", "earthbender": "Earth", "firebender": "Fire"}
 NATIONS = {"air": "Air Nomads", "water": "Water Tribe", "earth": "Earth Kingdom", "fire": "Fire Nation",
            "spirit": "Spirit World", "urn": "Unknown"}
@@ -393,6 +449,7 @@ def main():
             "appearanceNote": ep_note,
             "firstEpisode": ep_by_title.get(ep_title),
             "imageFile": image,
+            "description": parse_lead(txt, box_txt),
         }
         for k in ("origin", "ethnicity", "hair", "eyes"):
             if rec[k] == []:

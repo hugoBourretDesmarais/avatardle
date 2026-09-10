@@ -1,7 +1,9 @@
+-- This worker shares onepiecedle-api's D1 database: players and sessions are
+-- the common account tables, everything game-specific is prefixed av_.
 -- Solve counter: one row per (game day, spoiler limit = book name, '' for none), incremented on a
 -- verified solve. Kept separate from players so the counter works for people
 -- who never sign up.
-CREATE TABLE IF NOT EXISTS solves (
+CREATE TABLE IF NOT EXISTS av_solves (
   day         TEXT NOT NULL,
   arc_limit   TEXT NOT NULL DEFAULT '',
   count       INTEGER NOT NULL DEFAULT 0,
@@ -13,7 +15,7 @@ CREATE TABLE IF NOT EXISTS solves (
 -- raw IP is never stored.
 -- Keyed per bucket, not just per day: each (day, arc_limit) is its own tally,
 -- so one address must be able to count once in each bucket it solves.
-CREATE TABLE IF NOT EXISTS counted (
+CREATE TABLE IF NOT EXISTS av_counted (
   day       TEXT NOT NULL,
   arc_limit TEXT NOT NULL DEFAULT '',
   ip_hash   TEXT NOT NULL,
@@ -48,7 +50,7 @@ CREATE INDEX IF NOT EXISTS idx_sessions_player ON sessions(player_id);
 -- One row per player per game day. Re-solving the same day (e.g. after
 -- changing the spoiler limit) updates in place rather than inserting, which
 -- keeps the daily write count bounded.
-CREATE TABLE IF NOT EXISTS results (
+CREATE TABLE IF NOT EXISTS av_results (
   player_id   TEXT NOT NULL,
   day         TEXT NOT NULL,
   arc_limit   TEXT NOT NULL DEFAULT '',
@@ -60,7 +62,7 @@ CREATE TABLE IF NOT EXISTS results (
 
 -- Denormalised standings so the leaderboard is a single indexed scan rather
 -- than an aggregate over every result row (D1 free tier bills row reads).
-CREATE TABLE IF NOT EXISTS standings (
+CREATE TABLE IF NOT EXISTS av_standings (
   player_id     TEXT PRIMARY KEY,
   wins          INTEGER NOT NULL DEFAULT 0,
   total_guesses INTEGER NOT NULL DEFAULT 0,
@@ -73,6 +75,6 @@ CREATE TABLE IF NOT EXISTS standings (
   FOREIGN KEY (player_id) REFERENCES players(id) ON DELETE CASCADE
 );
 
-CREATE INDEX IF NOT EXISTS idx_standings_wins ON standings(wins DESC);
-CREATE INDEX IF NOT EXISTS idx_standings_streak ON standings(max_streak DESC);
-CREATE INDEX IF NOT EXISTS idx_results_day ON results(day, guesses);
+CREATE INDEX IF NOT EXISTS idx_av_standings_wins ON av_standings(wins DESC);
+CREATE INDEX IF NOT EXISTS idx_av_standings_streak ON av_standings(max_streak DESC);
+CREATE INDEX IF NOT EXISTS idx_av_results_day ON av_results(day, guesses);

@@ -406,6 +406,9 @@ const base = import.meta.env.BASE_URL
       </template>
 
       <footer class="footer">
+        <a href="https://hugobourretdesmarais.github.io/">All games</a>
+        · also play <a href="https://hugobourretdesmarais.github.io/onepiecedle/">OnePieceDle</a>
+        <br />
         Fan-made game in the spirit of <a href="https://onepiecedle.net" target="_blank" rel="noreferrer">onepiecedle.net</a>
         · data from the <a href="https://avatar.fandom.com" target="_blank" rel="noreferrer">Avatar Wiki</a>
         · Avatar: The Last Airbender © Nickelodeon / Paramount

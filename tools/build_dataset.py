@@ -110,6 +110,8 @@ def main():
 
         if req not in portraits:
             problems.append(f"{req}: no portrait")
+        if not pick("description"):
+            problems.append(f"{req}: no description")
 
         final.append({
             "name": name,
@@ -130,6 +132,7 @@ def main():
             "history": hist,
             "portrait": portraits.get(req),
             "wikiPage": d["name"],
+            "description": pick("description"),
         })
 
     final.sort(key=lambda r: r["name"])
