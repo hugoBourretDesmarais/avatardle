@@ -119,5 +119,4 @@ Enable it once under **Settings → Pages → Source: GitHub Actions**.
 ## Credits
 
 Avatar: The Last Airbender © Nickelodeon / Paramount. Character data and portraits from the
-[Avatar Wiki](https://avatar.fandom.com) (CC BY-SA). Game concept after
-[onepiecedle.net](https://onepiecedle.net). This is a non-commercial fan project.
+[Avatar Wiki](https://avatar.fandom.com) (CC BY-SA). Fan project.
