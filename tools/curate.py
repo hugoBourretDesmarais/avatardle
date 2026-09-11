@@ -18,38 +18,32 @@ def aff(value, *names):
 
 aff("Team Avatar", "Aang", "Katara", "Sokka", "Toph Beifong", "Zuko", "Suki", "Appa", "Momo")
 aff("Order of the White Lotus", "Iroh", "Piandao", "Jeong Jeong")
-aff("Fire Nation Royal Family", "Ozai", "Azula", "Ursa", "Azulon", "Sozin", "Lu Ten")
+aff("Fire Nation Royal Family", "Ozai", "Azula", "Ursa", "Sozin", "Lu Ten")
 aff("Azula's team", "Mai", "Ty Lee")
-aff("Fire Nation military", "Zhao", "Jee", "Bujing", "Qin", "Ming", "Warden (Boiling Rock)", "Poon",
-    "Yon Rha", "Chey")
-aff("Rough Rhinos", "Mongke", "Vachir", "Ogodei", "Yeh-Lu", "Kahchi")
-aff("Sun Warriors", "Ran and Shaw", "Ham Ghao", "Sun Warrior chief")
-aff("Fire Sages", "Shyu")
-aff("Fire Nation", "Combustion Man", "Hide", "On Ji", "Shoji", "Kwan", "Ta Min", "Roku", "Fat", "Ukano",
-    "Michi", "Tom-Tom", "Ding", "Fang", "Chit Sang", "Lo and Li")
-aff("Southern Water Tribe", "Hakoda", "Bato", "Kanna", "Hama", "Kya (nonbender)")
+aff("Fire Nation military", "Zhao", "Warden (Boiling Rock)", "Poon", "Yon Rha")
+aff("Sun Warriors", "Ran and Shaw", "Sun Warrior chief")
+aff("Fire Nation", "Combustion Man", "Hide", "On Ji", "Roku", "Chit Sang", "Lo and Li")
+aff("Southern Water Tribe", "Hakoda", "Kanna", "Hama", "Kya (nonbender)")
 aff("Northern Water Tribe", "Pakku", "Yue", "Arnook", "Hahn", "Yagoda", "Kuruk")
 aff("Foggy Swamp Tribe", "Huu", "Due", "Tho")
-aff("Omashu", "Bumi (King of Omashu)", "Flopsie")
-aff("Ba Sing Se", "Kuei", "Bosco", "Zei", "Pao", "Quon", "Jin")
+aff("Omashu", "Bumi (King of Omashu)")
+aff("Ba Sing Se", "Kuei", "Bosco")
 aff("Dai Li", "Long Feng", "Joo Dee")
-aff("Earth Kingdom military", "Fong", "How", "Gow")
-aff("Freedom Fighters", "Jet", "Smellerbee", "Longshot", "Pipsqueak", "The Duke", "Sneers")
-aff("Kyoshi Island", "Oyaji", "Foaming mouth guy", "Kyoshi")
-aff("Earth Rumble", "Xin Fu", "The Boulder", "The Big Bad Hippo", "Fire Nation Man")
+aff("Freedom Fighters", "Jet", "Smellerbee", "Longshot", "Pipsqueak")
+aff("Kyoshi Island", "Kyoshi")
+aff("Earth Rumble", "The Boulder", "The Big Bad Hippo")
 aff("Beifong family", "Lao Beifong", "Poppy Beifong")
 aff("Si Wong tribes", "Sha-Mo", "Ghashiun")
 aff("Northern Air Temple", "Mechanist", "Teo")
-aff("Earth Kingdom", "Haru", "Tyro", "Yu", "Song (villager)", "Lee", "Sela", "Gansu", "Chong", "Lily", "Moku",
-    "Than", "Ying", "Wu (fortuneteller)", "Meng", "June", "Cabbage merchant", "Sud", "Canyon guide", "Nyla")
-aff("Air Nomads", "Gyatso", "Yangchen", "Tashi", "Pathik")
+aff("Earth Kingdom", "Haru", "Lee", "Sela", "Chong", "June", "Cabbage merchant", "Canyon guide", "Nyla")
+aff("Air Nomads", "Gyatso", "Yangchen", "Pathik")
 aff("Spirit World", "Wan Shi Tong", "Koh", "Hei Bai", "Tui", "La", "Lion turtle", "Painted Lady")
 
 # Display names where the wiki title carries a disambiguator or lowercase.
 NAMES = {
-    "Bumi (King of Omashu)": "Bumi", "Kya (nonbender)": "Kya", "Wu (fortuneteller)": "Aunt Wu",
-    "Song (villager)": "Song", "Warden (Boiling Rock)": "The Warden", "Lion turtle": "Lion Turtle",
-    "Foaming mouth guy": "Foaming Mouth Guy", "Cabbage merchant": "Cabbage Merchant",
+    "Bumi (King of Omashu)": "Bumi", "Kya (nonbender)": "Kya",
+    "Warden (Boiling Rock)": "The Warden", "Lion turtle": "Lion Turtle",
+    "Cabbage merchant": "Cabbage Merchant",
     "Canyon guide": "Canyon Guide", "Sun Warrior chief": "Sun Warrior Chief", "Mechanist": "The Mechanist",
 }
 
@@ -67,7 +61,6 @@ ALIASES = {
     "Pakku": ["Master Pakku"],
     "Gyatso": ["Monk Gyatso"],
     "Pathik": ["Guru Pathik"],
-    "Wu (fortuneteller)": ["Wu", "The Fortuneteller"],
     "Combustion Man": ["Sparky Sparky Boom Man"],
     "Roku": ["Avatar Roku"], "Kyoshi": ["Avatar Kyoshi"], "Kuruk": ["Avatar Kuruk"], "Yangchen": ["Avatar Yangchen"],
     "Zhao": ["Commander Zhao", "Admiral Zhao", "Zhao the Conqueror"],
@@ -81,29 +74,27 @@ ALIASES = {
     "The Big Bad Hippo": ["The Hippo"],
     "Kanna": ["Gran Gran"],
     "Hama": ["The Puppetmaster"],
-    "Jee": ["Lieutenant Jee"],
     "Lee": ["Lee (farm boy)"],
     "Hakoda": ["Chief Hakoda"],
     "Arnook": ["Chief Arnook"],
     "Kanna": ["Gran Gran", "Kanna of the Southern Water Tribe"],
 }
 
-GENDER = {"Lo and Li": "Female", "Ran and Shaw": "Unknown", "Jee": "Male", "Shoji": "Male", "Due": "Male",
-          "Tho": "Male", "Tashi": "Male", "Tui": "Unknown", "Lion turtle": "Male", "Song (villager)": "Female"}
+GENDER = {"Lo and Li": "Female", "Ran and Shaw": "Unknown", "Due": "Male",
+          "Tho": "Male", "Tui": "Unknown", "Lion turtle": "Male"}
 
 NATION = {"Pathik": "Unknown", "Lion turtle": "Spirit World"}
 
-BENDING = {"Yue": "Non-bender", "Tui": "Non-bender", "La": "Non-bender", "Lion turtle": "Non-bender",
-           "Song (villager)": "Non-bender"}
+BENDING = {"Yue": "Non-bender", "Tui": "Non-bender", "La": "Non-bender", "Lion turtle": "Non-bender"}
 
-HAIR = {"Aang": "Bald", "Gyatso": "Bald", "Tashi": "Bald", "Pathik": "Bald", "Combustion Man": "Bald",
-        "Zhao": "Black", "Zuko": "Brown", "Appa": "White", "Momo": "White", "Flopsie": "White",
+HAIR = {"Aang": "Bald", "Gyatso": "Bald", "Pathik": "Bald", "Combustion Man": "Bald",
+        "Zhao": "Black", "Zuko": "Brown", "Appa": "White", "Momo": "White",
         "Hei Bai": "White", "Koh": "None", "Wan Shi Tong": "None", "Ran and Shaw": "None", "Tui": "None",
-        "La": "None", "Lion turtle": "None", "Fang": "None", "Nyla": "Brown", "Yeh-Lu": "Black",
+        "La": "None", "Lion turtle": "None", "Nyla": "Brown",
         "Bosco": "Brown", "Sun Warrior chief": "Black"}
 
 # Age during the series; the tile shows this, the modal adds the true age.
-AGE = {"Aang": 12, "Suki": 15, "Ty Lee": 14, "Mai": 15, "Haru": 16, "Meng": 10, "Kyoshi": 230,
+AGE = {"Aang": 12, "Suki": 15, "Ty Lee": 14, "Mai": 15, "Haru": 16, "Kyoshi": 230,
        "Roku": 70, "Sozin": None}
 TRUE_AGE = {"Aang": 112}
 
@@ -117,7 +108,6 @@ SKILLS = {
     "Azula": ["Lightning"],
     "Ozai": ["Lightning"],
     "Suki": ["War fans"],
-    "Kahchi": [], "Ogodei": [], "Chey": [],
     "Yagoda": ["Healing"],
     "Kyoshi": ["War fans"],
     "Huu": ["Plantbending"],
@@ -140,16 +130,6 @@ DESCRIPTION = {
             "to trying to capture the long-lost Avatar to end his banishment and regain his honor as "
             "Crown Prince of the Fire Nation, before joining Team Avatar and being crowned Fire Lord at "
             "the end of the Hundred Year War.",
-    "Foaming mouth guy": "The foaming mouth guy was one of the biggest fans of the Avatar, a resident "
-                         "of Suki's village on Kyoshi Island whose excitement at seeing Aang left him "
-                         "foaming at the mouth and fainting.",
-    "Jin": "Jin was a refugee of the Hundred Year War who lived in Ba Sing Se's Lower Ring. She met "
-           "Zuko while he was working at Pao's tea shop, went on a date with him, and was shown the "
-           "Firelight Fountain lit by his firebending.",
-    "Ukano": "Ukano was the Fire Nation governor of New Ozai, originally Omashu, appointed by Fire "
-             "Lord Ozai himself. The father of Mai and Tom-Tom, he cared greatly for his family but "
-             "was a weak ruler whose faulty assumptions often led to poor decisions, and he was "
-             "deposed when the city was retaken in 100 AG.",
 }
 
 HISTORY = {

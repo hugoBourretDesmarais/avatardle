@@ -34,18 +34,9 @@
    "Lightning"
   ]
  },
- "Azulon": {
-  "affiliation": "Fire Nation Royal Family"
- },
- "Bato": {
-  "affiliation": "Southern Water Tribe"
- },
  "Bosco": {
   "affiliation": "Ba Sing Se",
   "hair": "Brown"
- },
- "Bujing": {
-  "affiliation": "Fire Nation military"
  },
  "Bumi (King of Omashu)": {
   "affiliation": "Omashu",
@@ -63,10 +54,6 @@
   "affiliation": "Earth Kingdom",
   "name": "Canyon Guide"
  },
- "Chey": {
-  "affiliation": "Fire Nation military",
-  "skills": []
- },
  "Chit Sang": {
   "affiliation": "Fire Nation"
  },
@@ -80,43 +67,12 @@
   ],
   "hair": "Bald"
  },
- "Ding": {
-  "affiliation": "Fire Nation"
- },
  "Due": {
   "affiliation": "Foggy Swamp Tribe",
   "gender": "Male"
  },
- "Fang": {
-  "affiliation": "Fire Nation",
-  "hair": "None"
- },
- "Fat": {
-  "affiliation": "Fire Nation"
- },
- "Fire Nation Man": {
-  "affiliation": "Earth Rumble"
- },
- "Flopsie": {
-  "affiliation": "Omashu",
-  "hair": "White"
- },
- "Foaming mouth guy": {
-  "affiliation": "Kyoshi Island",
-  "name": "Foaming Mouth Guy",
-  "description": "The foaming mouth guy was one of the biggest fans of the Avatar, a resident of Suki's village on Kyoshi Island whose excitement at seeing Aang left him foaming at the mouth and fainting."
- },
- "Fong": {
-  "affiliation": "Earth Kingdom military"
- },
- "Gansu": {
-  "affiliation": "Earth Kingdom"
- },
  "Ghashiun": {
   "affiliation": "Si Wong tribes"
- },
- "Gow": {
-  "affiliation": "Earth Kingdom military"
  },
  "Gyatso": {
   "affiliation": "Air Nomads",
@@ -133,9 +89,6 @@
   "aliases": [
    "Chief Hakoda"
   ]
- },
- "Ham Ghao": {
-  "affiliation": "Sun Warriors"
  },
  "Hama": {
   "affiliation": "Southern Water Tribe",
@@ -157,9 +110,6 @@
  "Hide": {
   "affiliation": "Fire Nation"
  },
- "How": {
-  "affiliation": "Earth Kingdom military"
- },
  "Huu": {
   "affiliation": "Foggy Swamp Tribe",
   "skills": [
@@ -178,13 +128,6 @@
    "Lightning redirection"
   ]
  },
- "Jee": {
-  "affiliation": "Fire Nation military",
-  "aliases": [
-   "Lieutenant Jee"
-  ],
-  "gender": "Male"
- },
  "Jeong Jeong": {
   "affiliation": "Order of the White Lotus",
   "aliases": [
@@ -194,19 +137,11 @@
  "Jet": {
   "affiliation": "Freedom Fighters"
  },
- "Jin": {
-  "affiliation": "Ba Sing Se",
-  "description": "Jin was a refugee of the Hundred Year War who lived in Ba Sing Se's Lower Ring. She met Zuko while he was working at Pao's tea shop, went on a date with him, and was shown the Firelight Fountain lit by his firebending."
- },
  "Joo Dee": {
   "affiliation": "Dai Li"
  },
  "June": {
   "affiliation": "Earth Kingdom"
- },
- "Kahchi": {
-  "affiliation": "Rough Rhinos",
-  "skills": []
  },
  "Kanna": {
   "affiliation": "Southern Water Tribe",
@@ -247,9 +182,6 @@
    "Avatar Kuruk"
   ]
  },
- "Kwan": {
-  "affiliation": "Fire Nation"
- },
  "Kya (nonbender)": {
   "affiliation": "Southern Water Tribe",
   "name": "Kya"
@@ -280,9 +212,6 @@
   "aliases": [
    "Lee (farm boy)"
   ]
- },
- "Lily": {
-  "affiliation": "Earth Kingdom"
  },
  "Lion turtle": {
   "affiliation": "Spirit World",
@@ -319,39 +248,16 @@
   "affiliation": "Northern Air Temple",
   "name": "The Mechanist"
  },
- "Meng": {
-  "affiliation": "Earth Kingdom",
-  "age": 10
- },
- "Michi": {
-  "affiliation": "Fire Nation"
- },
- "Ming": {
-  "affiliation": "Fire Nation military"
- },
- "Moku": {
-  "affiliation": "Earth Kingdom"
- },
  "Momo": {
   "affiliation": "Team Avatar",
   "hair": "White"
- },
- "Mongke": {
-  "affiliation": "Rough Rhinos"
  },
  "Nyla": {
   "affiliation": "Earth Kingdom",
   "hair": "Brown"
  },
- "Ogodei": {
-  "affiliation": "Rough Rhinos",
-  "skills": []
- },
  "On Ji": {
   "affiliation": "Fire Nation"
- },
- "Oyaji": {
-  "affiliation": "Kyoshi Island"
  },
  "Ozai": {
   "affiliation": "Fire Nation Royal Family",
@@ -372,9 +278,6 @@
    "Master Pakku"
   ]
  },
- "Pao": {
-  "affiliation": "Ba Sing Se"
- },
  "Pathik": {
   "affiliation": "Air Nomads",
   "aliases": [
@@ -394,12 +297,6 @@
  },
  "Poppy Beifong": {
   "affiliation": "Beifong family"
- },
- "Qin": {
-  "affiliation": "Fire Nation military"
- },
- "Quon": {
-  "affiliation": "Ba Sing Se"
  },
  "Ran and Shaw": {
   "affiliation": "Sun Warriors",
@@ -422,21 +319,11 @@
  "Sha-Mo": {
   "affiliation": "Si Wong tribes"
  },
- "Shoji": {
-  "affiliation": "Fire Nation",
-  "gender": "Male"
- },
- "Shyu": {
-  "affiliation": "Fire Sages"
- },
  "Smellerbee": {
   "affiliation": "Freedom Fighters",
   "skills": [
    "Knives"
   ]
- },
- "Sneers": {
-  "affiliation": "Freedom Fighters"
  },
  "Sokka": {
   "affiliation": "Team Avatar",
@@ -450,18 +337,9 @@
    "Swords"
   ]
  },
- "Song (villager)": {
-  "affiliation": "Earth Kingdom",
-  "name": "Song",
-  "gender": "Female",
-  "bending": "Non-bender"
- },
  "Sozin": {
   "affiliation": "Fire Nation Royal Family",
   "age": null
- },
- "Sud": {
-  "affiliation": "Earth Kingdom"
  },
  "Suki": {
   "affiliation": "Team Avatar",
@@ -475,19 +353,8 @@
   "name": "Sun Warrior Chief",
   "hair": "Black"
  },
- "Ta Min": {
-  "affiliation": "Fire Nation"
- },
- "Tashi": {
-  "affiliation": "Air Nomads",
-  "gender": "Male",
-  "hair": "Bald"
- },
  "Teo": {
   "affiliation": "Northern Air Temple"
- },
- "Than": {
-  "affiliation": "Earth Kingdom"
  },
  "The Big Bad Hippo": {
   "affiliation": "Earth Rumble",
@@ -498,15 +365,9 @@
  "The Boulder": {
   "affiliation": "Earth Rumble"
  },
- "The Duke": {
-  "affiliation": "Freedom Fighters"
- },
  "Tho": {
   "affiliation": "Foggy Swamp Tribe",
   "gender": "Male"
- },
- "Tom-Tom": {
-  "affiliation": "Fire Nation"
  },
  "Toph Beifong": {
   "affiliation": "Team Avatar",
@@ -534,18 +395,8 @@
   "affiliation": "Azula's team",
   "age": 14
  },
- "Tyro": {
-  "affiliation": "Earth Kingdom"
- },
- "Ukano": {
-  "affiliation": "Fire Nation",
-  "description": "Ukano was the Fire Nation governor of New Ozai, originally Omashu, appointed by Fire Lord Ozai himself. The father of Mai and Tom-Tom, he cared greatly for his family but was a weak ruler whose faulty assumptions often led to poor decisions, and he was deposed when the city was retaken in 100 AG."
- },
  "Ursa": {
   "affiliation": "Fire Nation Royal Family"
- },
- "Vachir": {
-  "affiliation": "Rough Rhinos"
  },
  "Wan Shi Tong": {
   "affiliation": "Spirit World",
@@ -559,17 +410,6 @@
   "affiliation": "Fire Nation military",
   "name": "The Warden"
  },
- "Wu (fortuneteller)": {
-  "affiliation": "Earth Kingdom",
-  "name": "Aunt Wu",
-  "aliases": [
-   "Wu",
-   "The Fortuneteller"
-  ]
- },
- "Xin Fu": {
-  "affiliation": "Earth Rumble"
- },
  "Yagoda": {
   "affiliation": "Northern Water Tribe",
   "skills": [
@@ -582,18 +422,8 @@
    "Avatar Yangchen"
   ]
  },
- "Yeh-Lu": {
-  "affiliation": "Rough Rhinos",
-  "hair": "Black"
- },
- "Ying": {
-  "affiliation": "Earth Kingdom"
- },
  "Yon Rha": {
   "affiliation": "Fire Nation military"
- },
- "Yu": {
-  "affiliation": "Earth Kingdom"
  },
  "Yue": {
   "affiliation": "Northern Water Tribe",
@@ -601,9 +431,6 @@
    "Princess Yue"
   ],
   "bending": "Non-bender"
- },
- "Zei": {
-  "affiliation": "Ba Sing Se"
  },
  "Zhao": {
   "affiliation": "Fire Nation military",

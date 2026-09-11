@@ -58,7 +58,7 @@ character. Episodes are numbered 1–61 across the three books; the limit is the
 
 ## Data
 
-128 characters from the animated series only (no comics, Korra or live action), including a few
+79 characters from the animated series only (no comics, Korra or live action), including a few
 animals and spirits. Values are as of the end of Book 3. Everything is derived from the
 [Avatar Wiki](https://avatar.fandom.com) and then hand-reviewed, since the wiki's infoboxes fold in
 the comics and *Korra* (Toph is never "Chief of Police" here).

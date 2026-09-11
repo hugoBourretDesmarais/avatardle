@@ -32,15 +32,6 @@
   "Chit Sang": [
    "affiliations"
   ],
-  "Ming": [
-   "age"
-  ],
-  "Qin": [
-   "age"
-  ],
-  "Mongke": [
-   "age"
-  ],
   "Lo and Li": [
    "gender",
    "age"
@@ -53,65 +44,19 @@
    "age",
    "hair"
   ],
-  "Ham Ghao": [
-   "age"
-  ],
-  "Jee": [
-   "gender",
-   "age"
-  ],
   "Hide": [
    "age"
   ],
   "On Ji": [
    "age"
   ],
-  "Shoji": [
-   "gender",
-   "age"
-  ],
-  "Kwan": [
-   "age"
-  ],
-  "Bujing": [
-   "age"
-  ],
-  "Ta Min": [
-   "age"
-  ],
-  "Fat": [
-   "age",
-   "affiliations"
-  ],
-  "Ukano": [
-   "age"
-  ],
-  "Michi": [
-   "age"
-  ],
   "Poon": [
-   "age"
-  ],
-  "Vachir": [
-   "age"
-  ],
-  "Ogodei": [
-   "age"
-  ],
-  "Yeh-Lu": [
-   "age",
-   "hair"
-  ],
-  "Kahchi": [
    "age"
   ],
   "Sun Warrior chief": [
    "age"
   ],
   "Hakoda": [
-   "age"
-  ],
-  "Bato": [
    "age"
   ],
   "Pakku": [
@@ -149,9 +94,6 @@
   "Haru": [
    "age"
   ],
-  "Tyro": [
-   "age"
-  ],
   "Smellerbee": [
    "age"
   ],
@@ -159,18 +101,6 @@
    "age"
   ],
   "Pipsqueak": [
-   "age"
-  ],
-  "Sneers": [
-   "age"
-  ],
-  "Oyaji": [
-   "age"
-  ],
-  "Xin Fu": [
-   "age"
-  ],
-  "Yu": [
    "age"
   ],
   "Lao Beifong": [
@@ -185,57 +115,17 @@
   "The Big Bad Hippo": [
    "age"
   ],
-  "Fire Nation Man": [
-   "age"
-  ],
-  "Song (villager)": [
-   "age"
-  ],
   "Lee": [
-   "age"
-  ],
-  "Gow": [
    "age"
   ],
   "Chong": [
    "age"
   ],
-  "Lily": [
-   "age"
-  ],
-  "Moku": [
-   "age"
-  ],
-  "Fong": [
-   "age"
-  ],
-  "How": [
-   "age"
-  ],
-  "Than": [
-   "age"
-  ],
-  "Ying": [
-   "age"
-  ],
-  "Wu (fortuneteller)": [
-   "age"
-  ],
-  "Meng": [
-   "age"
-  ],
   "Mechanist": [
-   "age"
-  ],
-  "Zei": [
    "age"
   ],
   "June": [
    "age"
-  ],
-  "Foaming mouth guy": [
-   "age",
-   "affiliations"
   ],
   "Cabbage merchant": [
    "age"
@@ -246,39 +136,15 @@
   "Ghashiun": [
    "age"
   ],
-  "Sud": [
-   "age"
-  ],
-  "Quon": [
-   "age",
-   "affiliations"
-  ],
-  "Pao": [
-   "age"
-  ],
-  "Ding": [
-   "affiliations"
-  ],
   "Sela": [
-   "age"
-  ],
-  "Gansu": [
    "age"
   ],
   "Canyon guide": [
    "age"
   ],
-  "Flopsie": [
-   "age",
-   "affiliations"
-  ],
   "Nyla": [
    "age",
    "affiliations"
-  ],
-  "Tashi": [
-   "gender",
-   "age"
   ],
   "Pathik": [
    "affiliations"
@@ -304,11 +170,6 @@
   ],
   "Lion turtle": [
    "gender",
-   "age",
-   "hair",
-   "affiliations"
-  ],
-  "Fang": [
    "age",
    "hair",
    "affiliations"
